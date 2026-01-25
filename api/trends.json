@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:10:59.709677+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-25T17:19:40.075065+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[14时59分 ~ 17时19分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 17时10分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时19分]"
         },
         {
           "title": "比亚迪上调2026年海外销量目标至130万辆",
@@ -61,11 +61,12 @@
           "url": "https://flash.jin10.com/detail/20260125164107511800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时19分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -114,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时30分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[10时30分 ~ 17时19分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -129,8 +130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 17时10分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时19分]"
         },
         {
           "title": "黄仁勋逛菜场，意在“稳市场”",
@@ -141,8 +142,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 17时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
@@ -170,6 +171,17 @@
           "time_info": "[00时33分 ~ 05时25分]"
         },
         {
+          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
+          "url": "https://wallstreetcn.com/articles/3764093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时19分]"
+        },
+        {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
           "url": "https://www.zhihu.com/question/1996908423174910237",
           "source": "知乎",
@@ -180,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时30分 ~ 12时18分]"
-        },
-        {
-          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
-          "url": "https://wallstreetcn.com/articles/3764093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时10分]"
         }
       ]
     },
