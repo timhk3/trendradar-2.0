@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:36:25.466017+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-01-25T21:32:15.144994+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -116,11 +116,12 @@
           "url": "https://www.cls.cn/detail/2268695",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时30分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[10时30分 ~ 21时32分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -134,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 20时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 21时32分]"
         },
         {
           "title": "黄仁勋逛菜场，意在“稳市场”",
@@ -151,6 +152,19 @@
           "time_info": "[12时18分 ~ 20时36分]"
         },
         {
+          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
+          "url": "https://wallstreetcn.com/articles/3764093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时32分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
           "url": "https://wallstreetcn.com/articles/3764078",
           "source": "华尔街见闻",
@@ -163,18 +177,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时27分 ~ 12时18分]"
-        },
-        {
-          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
-          "url": "https://wallstreetcn.com/articles/3764093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 20时36分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -203,7 +205,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Netflix再提收购华纳新方案，但白宫审批或成拦路虎",
@@ -228,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时18分 ~ 14时59分]"
+        },
+        {
+          "title": "一汽-大众新车规划曝光",
+          "url": "https://www.toutiao.com/trending/7599150951223918635/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "奇瑞获去年中国品牌SUV全球销量第一",
