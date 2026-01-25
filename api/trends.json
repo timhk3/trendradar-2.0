@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:10:21.556579+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-01-25T15:25:57.806525+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时25分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -95,11 +95,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时25分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -110,8 +111,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时25分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时18分 ~ 15时10分]"
+          "time_info": "[14时59分 ~ 15时25分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
@@ -137,17 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 06时27分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时10分]"
         }
       ]
     }
