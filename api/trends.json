@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T16:54:50.852170+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-25T17:10:59.709677+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🟢 第一组：核心车企与新势力 (直通车) # 策略：只要出现这些品牌名，直接抓取 (去掉 +限制) # 理由：这些品牌本身就代表了您关注的行业，不需要额外筛选 # ========================================== 比亚迪 特斯拉 蔚来 小鹏 理想 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 鸿蒙智行 问界 智界 享界 尊界",
-      "match_count": 7,
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 17时10分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E5%A4%AA%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时59分 ~ 16时54分]"
+          "time_info": "[12时18分 ~ 17时10分]"
         },
         {
           "title": "比亚迪上调2026年海外销量目标至130万辆",
@@ -32,19 +45,6 @@
           "time_info": "[00时33分 ~ 10时31分]"
         },
         {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E5%A4%AA%E5%B0%91",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 16时54分]"
-        },
-        {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
           "url": "https://wallstreetcn.com/livenews/3043291",
           "source": "华尔街见闻-快讯",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
+        },
+        {
+          "title": "蔚来乐道：本月内将完成超8000块电池增投目标",
+          "url": "https://flash.jin10.com/detail/20260125164107511800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -92,7 +103,99 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🔵 第二组：传统车企 (直通车) # 策略：放宽限制，关注由于体量大带来的任何动态 # ========================================== 大众汽车 丰田 本田 日产 通用 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】黄仁勋今年首次访华；中科宇航已完成IPO辅导",
+          "url": "https://www.cls.cn/detail/2268695",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时30分 ~ 17时10分]"
+        },
+        {
+          "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
+          "url": "https://www.cls.cn/detail/2268670",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 17时10分]"
+        },
+        {
+          "title": "黄仁勋逛菜场，意在“稳市场”",
+          "url": "https://news.ifeng.com/c/8qCIrWrbxzy",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 17时10分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
+          "url": "https://wallstreetcn.com/articles/3764078",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 12时18分]"
+        },
+        {
+          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3043305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时25分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 12时18分]"
+        },
+        {
+          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
+          "url": "https://wallstreetcn.com/articles/3764093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 3,
       "titles": [
         {
