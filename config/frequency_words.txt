@@ -1,6 +1,6 @@
 # ==========================================
 # 🛑 全局负面过滤 (GLOBAL NOISE FILTER)
-# 保持不变，这层过滤非常重要，防止无关噪音
+# 核心策略：排除手机、美妆、地产、纯游戏、纯娱乐、纯金融预测
 # ==========================================
 !骁龙8 Gen
 !天玑9300
@@ -31,17 +31,19 @@
 !A股预测
 !牛市
 !荐股
+!大盘分析
+!情感咨询
+!娱乐八卦
 
 # ==========================================
-# 🟢 第一组：核心车企与新势力 (直通车)
-# 策略：只要出现这些品牌名，直接抓取 (去掉 +限制)
-# 理由：这些品牌本身就代表了您关注的行业，不需要额外筛选
+# 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取)
 # ==========================================
 比亚迪
 特斯拉
+Tesla
 蔚来
 小鹏
-理想
+理想汽车
 极氪
 零跑
 阿维塔
@@ -53,21 +55,23 @@
 仰望
 腾势
 小米汽车
-鸿蒙智行
+华为鸿蒙智行
 问界
 智界
 享界
 尊界
+Lucid
+Rivian
+Waymo
 
 # ==========================================
-# 🔵 第二组：传统车企 (直通车)
-# 策略：放宽限制，关注由于体量大带来的任何动态
+# 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs)
 # ==========================================
-大众汽车
+大众
 丰田
 本田
 日产
-通用
+通用汽车
 福特
 梅赛德斯
 奔驰
@@ -77,6 +81,7 @@
 路虎
 沃尔沃
 现代汽车
+KIA
 起亚
 Stellantis
 上汽
@@ -88,8 +93,8 @@ Stellantis
 长城
 
 # ==========================================
-# 🟡 第三组：关键供应链 (半直通)
-# 策略：大部分纯汽车供应商直通，跨界巨头加限制
+# 🔋 第三组：汽车供应链与关键技术 (CN-Supply Chain)
+# 策略：纯汽车供应链直通；跨界巨头加限制
 # ==========================================
 宁德时代
 地平线
@@ -103,21 +108,86 @@ Momenta
 欣旺达
 亿咖通
 德赛西威
-# 下面是跨界巨头，稍微加一点限制防止抓到非汽车业务
-高通
-英伟达
 博世
 大陆集团
 采埃孚
+固态电池
+4680电池
+NOA
+L3级
+L4级
+Robotaxi
+# 跨界巨头限制
+高通
+英伟达
 +汽车
-+智驾
 +座舱
++智驾
 +芯片
-+定点
 
 # ==========================================
-# 🟣 第四组：前沿技术与行业大词 (需上下文)
-# 策略：保留 +限制，但词汇更宽泛
+# ⚖️ 第四组：全球政策法规与宏观 (CN-Policy & Macro)
+# 策略：捕捉各国补贴、关税、法规变动
+# ==========================================
+新能源补贴
+购置税
+关税
+反补贴调查
+双积分
+碳足迹
+碳边境税
+L3牌照
+自动驾驶法规
+数据安全
+隐私合规
+通胀削减法案
+IRA法案
+欧盟新规
+禁售燃油车
+以旧换新
+# 限定词
++汽车
++新能源
++自动驾驶
++智能网联
++车企
++出口
++出海
+
+# ==========================================
+# 📈 第五组：资金流向与市场分析 (CN-Market & Finance)
+# 策略：涵盖投融资、原材料、市场份额、供应链波动
+# ==========================================
+融资
+IPO
+上市
+并购
+收购
+财报
+营收
+净利润
+销量
+交付量
+市场份额
+市占率
+渗透率
+碳酸锂
+原材料涨价
+缺芯
+芯片短缺
+研报
+白皮书
+行业分析
+# 限定词
++汽车
++新能源
++电池
++自动驾驶
++车规级
++供应链
+
+# ==========================================
+# 🚀 第六组：汽车行业前沿大词 (CN-Auto Tech Terms)
 # ==========================================
 全球首发
 技术首发
@@ -126,25 +196,9 @@ Momenta
 黑科技
 专利
 概念车
-白皮书
 量产
 原型机
-固态电池
-大圆柱
-端到端
-大模型
-生成式AI
-GPT
-NOA
-L3级
-L4级
-Robotaxi
-robobus
-robovan
-robotruck
-无人驾驶
-自动驾驶
-# 只要沾边汽车行业就行
+# 汽车行业限定词
 +汽车
 +车型
 +整车
@@ -155,14 +209,41 @@ robotruck
 +底盘
 +出行
 +商用车
-+乘用车
-+车机
 
 # ==========================================
-# 🌍 第五组：EN-Core Players (Direct Hit)
-# Strategy: No restrictions for distinct auto brands
+# 🌍 第七组：EN-Global Policy & Market (Global Context)
+# Strategy: Tariffs, Regulations, Financials in Auto
+# ==========================================
+Inflation Reduction Act
+EV Tax Credit
+Euro 7
+Carbon Border Adjustment
+Tariff
+Anti-subsidy
+ICE ban
+Autonomous Driving License
+NHTSA
+Regulatory compliance
+Supply chain shortage
+Lithium price
+Market Share
+Quarterly Results
+Revenue
+IPO
+Funding
+# Context Limiters
++Automotive
++Vehicle
++EV
++NEV
++OEM
++Driving
+
+# ==========================================
+# 🌍 第八组：EN-Auto Core & Tech (Global Leaders)
 # ==========================================
 Tesla
+Elon Musk
 BYD
 Nio
 Xpeng
@@ -175,32 +256,112 @@ Volkswagen
 Toyota
 Mercedes-Benz
 BMW
-Audi
 Ford
 GM
-Stellantis
 CATL
 Waymo
 Cruise
 Mobileye
-
-# ==========================================
-# 🌍 第六组：EN-Tech & General (Context Needed)
-# Strategy: Broad tech terms require auto context
-# ==========================================
 Solid-state battery
 Autonomous Driving
-Self-driving
 Robotaxi
-Generative AI
-End-to-End
 Smart Cockpit
 LiDAR
-Next-generation
-World Premiere
-# Context limiters
 +Automotive
 +Vehicle
 +EV
 +OEM
-+Driving
+
+# ==========================================
+# 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders)
+# 策略：完全解绑汽车，关注 AI 本身的前沿动态
+# ==========================================
+OpenAI
+Sam Altman
+ChatGPT
+GPT-4
+GPT-5
+Sora
+DeepMind
+Gemini
+Google DeepMind
+Anthropic
+Claude 3
+Claude 3.5
+Mistral AI
+Stability AI
+Midjourney
+Runway Gen
+Pika Labs
+Suno
+Hugging Face
+Yann LeCun
+Transformer架构
+NVIDIA
+黄仁勋
+
+# ==========================================
+# 🧠 第十组：AI 通用技术趋势 (CN-AI General)
+# 策略：通用词 + 科技/商业限定
+# ==========================================
+生成式AI
+大语言模型
+LLM
+通用人工智能
+AGI
+具身智能
+端到端模型
+世界模型
+多模态
+AI Agent
+智能体
+算力芯片
+H100
+Blackwell
+B200
+液冷服务器
+边缘AI
+# 必须包含以下动作
++发布
++首发
++突破
++新功能
++开源
++模型
++架构
++版本
++融资
++报告
++白皮书
++落地
+
+# ==========================================
+# 🌍 第十一组：EN-AI Frontier (Global AI)
+# Strategy: Tracking global AI leaders directly
+# ==========================================
+OpenAI
+Sam Altman
+ChatGPT
+Sora
+Gemini
+DeepMind
+Anthropic
+Claude
+Mistral
+Perplexity
+NVIDIA
+Jensen Huang
+H100
+Blackwell
+TSMC CoWoS
+Generative AI
+LLM
+Foundation Model
+AGI
+Embodied AI
++Launch
++Release
++Model
++Breakthrough
++Open Source
++Report
