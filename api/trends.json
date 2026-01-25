@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:19:40.075065+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-01-25T18:19:30.651783+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时59分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[14时59分 ~ 18时19分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -62,11 +63,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 18时19分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -115,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时30分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[10时30分 ~ 18时19分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -130,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 17时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 18时19分]"
         },
         {
           "title": "黄仁勋逛菜场，意在“稳市场”",
@@ -142,8 +144,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 18时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
@@ -178,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 18时19分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
