@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:15:38.706183+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-01-26T04:21:20.730011+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -53,22 +53,24 @@
           "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     }
