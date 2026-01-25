@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T21:32:15.144994+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-01-25T22:17:35.642626+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -73,6 +73,17 @@
           "time_info": "[17时10分 ~ 20时36分]"
         },
         {
+          "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
+          "url": "https://flash.jin10.com/detail/20260125214440737800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%B0%91%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -120,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时30分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时30分 ~ 22时17分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -135,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 21时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 22时17分]"
         },
         {
           "title": "黄仁勋逛菜场，意在“稳市场”",
@@ -161,8 +172,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时17分]"
         },
         {
           "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
@@ -220,6 +231,17 @@
           "time_info": "[00时33分 ~ 10时31分]"
         },
         {
+          "title": "一汽-大众新车规划曝光",
+          "url": "https://www.toutiao.com/trending/7599150951223918635/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "保时捷销冠牟倩文称顾客超6成是女性",
           "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E9%94%80%E5%86%A0%E7%89%9F%E5%80%A9%E6%96%87%E7%A7%B0%E9%A1%BE%E5%AE%A2%E8%B6%856%E6%88%90%E6%98%AF%E5%A5%B3%E6%80%A7",
           "source": "百度热搜",
@@ -230,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时18分 ~ 14时59分]"
-        },
-        {
-          "title": "一汽-大众新车规划曝光",
-          "url": "https://www.toutiao.com/trending/7599150951223918635/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "奇瑞获去年中国品牌SUV全球销量第一",
