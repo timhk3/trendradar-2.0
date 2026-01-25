@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:19:30.651783+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-01-25T19:16:29.849187+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时10分 ~ 19时16分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -117,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时30分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[10时30分 ~ 19时16分]"
         },
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -132,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 19时16分]"
         },
         {
           "title": "黄仁勋逛菜场，意在“稳市场”",
@@ -144,8 +145,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 19时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋现身上海菜市场边吃边逛，网友：食物不离手！他还将前往北京及深圳，本次行程以“逛吃”为主",
@@ -177,11 +178,12 @@
           "url": "https://wallstreetcn.com/articles/3764093",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 19时16分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
