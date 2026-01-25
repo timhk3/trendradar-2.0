@@ -1,25 +1,145 @@
-DeepSeek
-梁文锋
+# === CN_Discovery_Anchors (用于发现未知新技术) ===
+# 逻辑：用"动作+属性"捕捉未知名词
+全球首发
+技术首发
+首次亮相
+下一代架构
+下一代平台
+颠覆性技术
+技术路线图
+黑科技
+专利曝光
+概念车
+技术白皮书
+量产突破
+行业首个
+前瞻技术
+原型机
 
-谷歌
-google
-gemini
+# === CN_AD_Suppliers (自动驾驶/智驾供应商) ===
+# 头部L4及量产智驾方案商
+文远知行
+WeRide
+小马智行
+Pony.ai
+主线科技
+Trunk.tech
+Momenta
+元戎启行
+轻舟智航
+DeepRoute
+禾多科技
+纵目科技
+知行科技
+毫末智行
+大疆车载
+百度Apollo
+商汤绝影
+卓驭
+驭势科技
 
-chatgpt
-openai
+# === CN_Cockpit_Suppliers (智能座舱/关键零部件) ===
+# 芯片/HUD/声学/屏幕/系统
+德赛西威
+华阳集团
+均胜电子
+经纬恒润
+科大讯飞
+京东方
+BOE
+亿咖通
+ECARX
+中科创达
+光峰科技
+泽景电子
+未来黑科技
+伟世通
+博世
+大陆集团
+安波福
+哈曼
+马瑞利
 
-金价
+# === CN_Key_Events (关键展会/发布节点) ===
+# 新技术最密集的爆发点
+CES
+国际消费电子展
+上海车展
+北京车展
+广州车展
+慕尼黑车展
+IAA
+日内瓦车展
+东京移动出行展
+英伟达GTC
+特斯拉AI Day
+比亚迪技术发布会
+小鹏科技日
+蔚来NIO Day
+世界新能源汽车大会
+百人会
 
-黄金
-+价格
+# === EN_Discovery_Anchors (Catching Future Tech) ===
+# Logic: Generic terms + Breakthrough verbs
+World Premiere
+First reveal
+Next-generation architecture
+Next-gen platform
+Disruptive technology
+Technical roadmap
+Breakthrough
+Patent revealed
+Concept car
+White paper
+Industry first
+Prototype
+Proof of concept
+State-of-the-art
+SOTA
 
-美债
+# === EN_AD_Suppliers (Global & China Global) ===
+Waymo
+Cruise
+Zoox
+Aurora
+Motional
+Mobileye
+Argo AI
+WeRide
+Pony.ai
+Momenta
+Horizon Robotics
+Black Sesame
+TuSimple
+Plus.ai
 
-美股
+# === EN_Cockpit_Tech_Suppliers ===
+Visteon
+Bosch
+Continental
+Denso
+Aptiv
+Harman
+Marelli
+Forvia
+Faurecia
+Valeo
+Panasonic Automotive
+LG Vehicle component
+Qualcomm Automotive
+Unity Automotive
+Unreal Engine HMI
 
-美元
-+指数
-
-特朗普
-
-伊朗
+# === EN_Key_Events (Tech Expos) ===
+CES Las Vegas
+Auto China
+Shanghai Auto Show
+IAA Mobility
+Munich Auto Show
+Geneva International Motor Show
+Japan Mobility Show
+NVIDIA GTC
+Tesla AI Day
+Goodwood Festival of Speed
+CVPR
+NeurIPS
