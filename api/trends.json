@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:28:09.049987+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-27T02:31:44.818983+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "大爷2.58万买“宝马”5天停半路4次",
+          "url": "https://www.toutiao.com/trending/7599107013712871487/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
+        },
+        {
           "title": "大爷2万多网购“宝马” 5天趴窝4次",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B72%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%AE%9D%E9%A9%AC%E2%80%9D+5%E5%A4%A9%E8%B6%B4%E7%AA%9D4%E6%AC%A1",
           "source": "百度热搜",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "大爷2.58万买“宝马”5天停半路4次",
-          "url": "https://www.toutiao.com/trending/7599107013712871487/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
