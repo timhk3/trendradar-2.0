@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:41:00.800255+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-01-26T21:42:56.083188+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[14时32分 ~ 18时24分]"
         },
         {
+          "title": "大爷2万多网购“宝马” 5天趴窝4次",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B72%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%AE%9D%E9%A9%AC%E2%80%9D+5%E5%A4%A9%E8%B6%B4%E7%AA%9D4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时42分]"
+        },
+        {
           "title": "女子倒车撞上奥迪 车主建议走保险",
           "url": "https://www.toutiao.com/trending/7598981494811541558/",
           "source": "今日头条",
@@ -36,29 +49,17 @@
           "time_info": "[11时54分 ~ 15时26分]"
         },
         {
-          "title": "大爷2万多网购“宝马” 5天趴窝4次",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B72%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%AE%9D%E9%A9%AC%E2%80%9D+5%E5%A4%A9%E8%B6%B4%E7%AA%9D4%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时41分]"
-        },
-        {
           "title": "大爷2.58万买“宝马”5天停半路4次",
           "url": "https://www.toutiao.com/trending/7599107013712871487/",
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时42分]"
         },
         {
           "title": "策略师：美元疲软成“东风” 黄金势不可挡",
@@ -262,7 +263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
