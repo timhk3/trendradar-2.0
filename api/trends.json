@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T17:32:17.206446+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-01-26T18:24:05.036915+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "大爷2万买宝马5天趴窝4次拉断绳",
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 18时24分]"
         },
         {
           "title": "女子倒车撞上奥迪 车主建议走保险",
@@ -40,11 +40,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B72%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%AE%9D%E9%A9%AC%E2%80%9D+5%E5%A4%A9%E8%B6%B4%E7%AA%9D4%E6%AC%A1",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时24分]"
+        },
+        {
+          "title": "策略师：美元疲软成“东风” 黄金势不可挡",
+          "url": "https://flash.jin10.com/detail/20260126175112649800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时32分]"
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "现代汽车：我们目前没有在加拿大建立汽车制造厂的计划。 正在评估一系列合作机会，包括在氢能领域开展潜在合作，并充分利用加拿大的优势。",
@@ -250,11 +263,12 @@
           "ranks": [
             12,
             4,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 18时24分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
