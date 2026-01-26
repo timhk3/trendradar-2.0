@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:31:44.818983+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-27T03:22:27.731872+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时22分]"
         },
         {
           "title": "大爷2万多网购“宝马” 5天趴窝4次",
