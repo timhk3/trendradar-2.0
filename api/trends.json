@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:24:09.405093+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-01-29T07:24:07.310461+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 17,
+      "match_count": 39,
       "titles": [
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -16,8 +16,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
+          "url": "https://flash.jin10.com/detail/20260129065415139800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉首席财务官：预计2026年的资本支出将超过200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129065110872800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -44,6 +66,17 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
+          "url": "https://flash.jin10.com/detail/20260129065025610800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -68,6 +101,17 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "特斯拉首席财务官：第四季度全自动驾驶软件的采用率有所提高，全球付费用户达到110万。",
+          "url": "https://flash.jin10.com/detail/20260129065021934800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
           "url": "https://flash.jin10.com/detail/20260129050817558800",
           "source": "金十数据",
@@ -80,6 +124,28 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
+          "url": "https://wallstreetcn.com/livenews/3045887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉首席财务官：特斯拉本季度起将全面转向FSD订阅模式。",
+          "url": "https://flash.jin10.com/detail/20260129064806498800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，CQQQ涨0.1%，KWEB涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3045827",
           "source": "华尔街见闻-快讯",
@@ -89,6 +155,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉首席财务官：全球范围内最大的制约因素仍然是电池组。",
+          "url": "https://flash.jin10.com/detail/20260129064733086800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉：2026年资本开支将超过200亿美元，那将支持“重大投资（年）”。",
+          "url": "https://wallstreetcn.com/livenews/3045884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -103,6 +202,50 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "特斯拉年收入下滑，为该公司历史上首次。",
+          "url": "https://wallstreetcn.com/livenews/3045883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
+          "url": "https://flash.jin10.com/detail/20260129064449017800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20260129064128500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：工厂中原本用于生产Model S和Model X的空间将用于生产Optimus人形机器人",
+          "url": "https://flash.jin10.com/detail/20260129064100713800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
           "url": "https://flash.jin10.com/detail/20260129053426174800",
           "source": "金十数据",
@@ -112,6 +255,94 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：奥斯汀的自动驾驶出租车不再有追踪车跟随。",
+          "url": "https://flash.jin10.com/detail/20260129063925747800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计下个季度将逐步停产Model S和X。",
+          "url": "https://flash.jin10.com/detail/20260129063752077800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：2026年将是“非常大的资本支出年”。",
+          "url": "https://flash.jin10.com/detail/20260129063628907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：将终止Model S和Model X项目。",
+          "url": "https://flash.jin10.com/detail/20260129063551897800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：公司正在对人工智能芯片进行“大规模投资”。",
+          "url": "https://flash.jin10.com/detail/20260129063537110800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉营收下滑 盘后涨超3%",
+          "url": "https://flash.jin10.com/detail/20260129061942377800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉：无人驾驶出租车RoboTaxi服务将投放美国更多城市。",
+          "url": "https://wallstreetcn.com/livenews/3045882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉将停产Model S和X，将生产线转至制造人形机器人Optimus。",
+          "url": "https://wallstreetcn.com/livenews/3045875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "特斯拉(TSLA.O)：我们计划在2026年上半年将位于德克萨斯州的本地计算规模（以H100等效算力计）扩大一倍以上。",
@@ -136,6 +367,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3045871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "特斯拉(TSLA.O)Q4毛利率录得20.1%。",
           "url": "https://flash.jin10.com/detail/20260129050407697800",
           "source": "金十数据",
@@ -153,7 +395,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -175,7 +417,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -186,7 +428,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -197,7 +439,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -216,8 +458,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时24分]"
         },
         {
           "title": "宝马下月起全面启用新Logo",
@@ -227,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
         }
       ]
     }
