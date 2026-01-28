@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T21:46:16.816547+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-01-28T22:27:18.511506+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -190,8 +190,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 22时27分]"
+        },
+        {
+          "title": "宝马下月起全面启用新Logo",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%85%A8%E9%9D%A2%E5%90%AF%E7%94%A8%E6%96%B0Logo",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
+          "time_info": "[21时46分 ~ 22时27分]"
         },
         {
           "title": "摩根士丹利：将通用汽车(GM.N)目标股价从90美元上调至100美元。",
@@ -292,23 +304,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "宝马下月起全面启用新Logo",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%85%A8%E9%9D%A2%E5%90%AF%E7%94%A8%E6%96%B0Logo",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
@@ -343,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特斯拉品牌价值三连跌 马斯克介入政治拖累公司声誉",
