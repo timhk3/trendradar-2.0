@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:42:40.798852+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-01-28T21:46:16.816547+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "网传奥迪A6L一口价26.59万是真是假",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "宝马所有车型下月起启用新Logo",
+          "url": "https://www.toutiao.com/trending/7600353388928192010/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "摩根士丹利：将通用汽车(GM.N)目标股价从90美元上调至100美元。",
@@ -281,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "宝马下月起全面启用新Logo",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%85%A8%E9%9D%A2%E5%90%AF%E7%94%A8%E6%96%B0Logo",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
