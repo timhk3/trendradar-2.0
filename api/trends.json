@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:41:45.503646+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-01-29T14:42:31.964150+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 09时44分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时42分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -66,18 +78,6 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时41分]"
-        },
-        {
           "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
           "url": "https://flash.jin10.com/detail/20260129065025610800",
           "source": "金十数据",
@@ -122,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
@@ -223,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时41分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
@@ -473,7 +474,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -503,18 +504,19 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：当然会与台积电首席执行官会面。",
           "url": "https://flash.jin10.com/detail/20260129133946583800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时42分]"
         },
         {
           "title": "英伟达CEO黄仁勋：在台湾期间将拜访我们的合作伙伴。",
@@ -523,7 +525,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -534,7 +536,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -545,7 +547,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -556,7 +558,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -567,7 +569,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -578,7 +580,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -589,7 +591,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -600,7 +602,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -611,7 +613,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -622,7 +624,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -633,7 +635,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -644,7 +646,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -658,12 +660,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "宝马下月起全面启用新Logo",
@@ -709,7 +722,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -720,7 +733,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -731,9 +744,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "现代汽车：2026年美国关税的影响将与2025年类似。",
+          "url": "https://flash.jin10.com/detail/20260129135158577800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "现代汽车：将回购价值3670亿韩元的库存股。",
@@ -742,7 +766,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -753,7 +777,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -764,7 +788,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -780,13 +804,24 @@
           "time_info": "12时06分"
         },
         {
+          "title": "现代汽车股价继续上涨，现涨3.6%。",
+          "url": "https://flash.jin10.com/detail/20260129134340595800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "现代汽车：韩元走软在第四季度对营业利润产生了7100亿韩元的正面影响。",
           "url": "https://flash.jin10.com/detail/20260129130002032800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
