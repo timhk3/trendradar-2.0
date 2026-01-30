@@ -1,450 +1,50 @@
 {
-  "generated_at": "2026-01-30T23:32:14.452036+08:00",
-  "total_titles_processed": 2177,
+  "generated_at": "2026-01-31T00:35:47.681907+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
+          "url": "https://flash.jin10.com/detail/20260130235532816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
           "url": "https://www.zhihu.com/question/1999568077138973825",
           "source": "知乎",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时44分 ~ 23时32分]"
-        },
-        {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时23分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时23分]"
-        },
-        {
-          "title": "马斯克：特斯拉的最强对手来自中国",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 18时31分]"
-        },
-        {
-          "title": "理想汽车高管确认切入人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3047159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3046720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国国家运输安全委员会：正在对1月23日发生在加利福尼亚州的Waymo车辆与行人相撞事故进行安全调查。",
-          "url": "https://flash.jin10.com/detail/20260130043816341800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
-          "url": "https://flash.jin10.com/detail/20260130064632549800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3046683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价在盘后交易中上涨4%，有报道称，SpaceX正在考虑与特斯拉进行潜在合并。",
-          "url": "https://flash.jin10.com/detail/20260130063446405800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "尊界S800智驾中撞上环卫工人",
-          "url": "https://www.toutiao.com/trending/7599840572873965611/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "美国加州州长Newsom因为Waymo一辆自动驾驶车辆在学校周边撞击一名儿童而遭到调查。",
-          "url": "https://wallstreetcn.com/livenews/3046699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
-          "url": "https://flash.jin10.com/detail/20260130003639373800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "特斯拉四季度净利润下滑61%",
-          "url": "https://www.douyin.com/hot/2382740",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时23分]"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 09时45分]"
-        },
-        {
-          "title": "Anthropic CEO 发布万字长文《技术的青春期》，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999506877659178761",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时35分]"
-        },
-        {
-          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999485506963075471",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 17时36分]"
-        },
-        {
-          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
-          "url": "https://wallstreetcn.com/livenews/3046688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时25分]"
-        },
-        {
-          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20260130044452824800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260130051543942800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时25分]"
-        },
-        {
-          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260130043431786800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
-          "url": "https://flash.jin10.com/detail/20260130220348095800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
-          "url": "https://wallstreetcn.com/livenews/3046736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3046674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "OpenAI计划四季度上市 已聘请新高管",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "报道：OpenAI总裁布罗克曼与a16z向亲AI超级政治行动委员会注资",
-          "url": "https://wallstreetcn.com/livenews/3047434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "电动车遇宝马无接触摔倒被判全责",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%81%87%E5%AE%9D%E9%A9%AC%E6%97%A0%E6%8E%A5%E8%A7%A6%E6%91%94%E5%80%92%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 17时36分]"
-        },
         {
           "title": "电动车遇宝马无接触摔倒被判全责",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%81%87%E5%AE%9D%E9%A9%AC%E6%97%A0%E6%8E%A5%E8%A7%A6%E6%91%94%E5%80%92%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3",
           "source": "百度热搜",
           "ranks": [
-            28,
-            5,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 23时32分]"
-        },
-        {
-          "title": "新款奔驰S级全球首发",
-          "url": "https://www.toutiao.com/trending/7600976693947551242/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 15时39分]"
-        },
-        {
-          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
-          "url": "https://wallstreetcn.com/livenews/3046656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 05时26分]"
-        },
-        {
-          "title": "电动车遇宝马无接触摔倒被判全责",
-          "url": "https://www.toutiao.com/trending/7599673921160593451/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时43分]"
-        },
-        {
-          "title": "广汽集团：预计2025年净亏损80亿元-90亿元，与上年同期相比，出现亏损；公司自二季度汽车销量虽环比不断提升，但全年汽车销量未达预期。",
-          "url": "https://wallstreetcn.com/livenews/3047318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
-          "url": "https://wallstreetcn.com/livenews/3046612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
-          "url": "https://flash.jin10.com/detail/20260130005557703800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "柯睿辰将接替高翔出任宝马集团大中华区总裁兼首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3047440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
+          "time_info": "00时35分"
         }
       ]
     }
