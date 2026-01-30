@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:44:57.390082+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-01-30T14:43:55.107676+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -46,6 +46,18 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
+          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1999568077138973825",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时43分]"
+        },
+        {
           "title": "美国国家运输安全委员会：正在对1月23日发生在加利福尼亚州的Waymo车辆与行人相撞事故进行安全调查。",
           "url": "https://flash.jin10.com/detail/20260130043816341800",
           "source": "金十数据",
@@ -79,17 +91,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1999568077138973825",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "特斯拉(TSLA.O)股价在盘后交易中上涨4%，有报道称，SpaceX正在考虑与特斯拉进行潜在合并。",
           "url": "https://flash.jin10.com/detail/20260130063446405800",
           "source": "金十数据",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "尊界S800智驾中撞上环卫工人",
+          "url": "https://www.toutiao.com/trending/7599840572873965611/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "美国加州州长Newsom因为Waymo一辆自动驾驶车辆在学校周边撞击一名儿童而遭到调查。",
@@ -249,7 +261,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
@@ -270,11 +282,24 @@
           "source": "今日头条",
           "ranks": [
             19,
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时43分]"
+        },
+        {
+          "title": "新款奔驰S级全球首发",
+          "url": "https://www.toutiao.com/trending/7600976693947551242/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -299,15 +324,15 @@
           "time_info": "01时35分"
         },
         {
-          "title": "新款奔驰S级全球首发",
-          "url": "https://www.toutiao.com/trending/7600976693947551242/",
-          "source": "今日头条",
+          "title": "电动车遇宝马无接触摔倒被判全责",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%81%87%E5%AE%9D%E9%A9%AC%E6%97%A0%E6%8E%A5%E8%A7%A6%E6%91%94%E5%80%92%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时43分"
         }
       ]
     }
