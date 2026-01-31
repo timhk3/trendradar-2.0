@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T02:28:05.549060+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-02-01T03:19:33.692162+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时19分]"
         }
       ]
     },
@@ -57,6 +57,18 @@
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时19分]"
+        },
         {
           "title": "零跑员工吐槽公司年会拉垮",
           "url": "https://www.toutiao.com/trending/7600576432095379462/",
@@ -67,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 02时28分]"
-        },
-        {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     },
@@ -94,8 +94,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         }
       ]
     }
