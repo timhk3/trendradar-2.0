@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T18:21:33.548270+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-01-31T19:18:26.396281+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             19,
             16,
             4,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时18分]"
         },
         {
           "title": "47 岁女子被幼犬轻咬未及时处理引发狂犬病，如何提高大众对宠物咬伤的重视？",
@@ -47,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 19时18分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
@@ -57,11 +58,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时18分]"
         },
         {
           "title": "丰田销量蝉联第一 烧油的车还是主流",
@@ -114,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时18分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -166,7 +168,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -195,6 +197,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时03分 ~ 14时35分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
