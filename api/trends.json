@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-31T22:22:20.051204+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-01-31T23:21:17.736224+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 7,
       "titles": [
-        {
-          "title": "47 岁女子被幼犬轻咬未及时处理引发狂犬病，如何提高大众对宠物咬伤的重视？",
-          "url": "https://www.zhihu.com/question/2000219148295365659",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 22时22分]"
-        },
         {
           "title": "买家称退衣服不慎寄走奔驰钥匙",
           "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6%E7%A7%B0%E9%80%80%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%85%8E%E5%AF%84%E8%B5%B0%E5%A5%94%E9%A9%B0%E9%92%A5%E5%8C%99",
@@ -32,8 +21,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[14时35分 ~ 23时21分]"
+        },
+        {
+          "title": "47 岁女子被幼犬轻咬未及时处理引发狂犬病，如何提高大众对宠物咬伤的重视？",
+          "url": "https://www.zhihu.com/question/2000219148295365659",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时26分 ~ 23时21分]"
         },
         {
           "title": "电动车遇宝马无接触摔倒被判全责",
@@ -122,6 +122,45 @@
           "time_info": "[19时18分 ~ 22时22分]"
         },
         {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时21分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时21分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时21分]"
+        },
+        {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
           "url": "https://wallstreetcn.com/livenews/3047621",
           "source": "华尔街见闻-快讯",
@@ -150,52 +189,17 @@
           "time_info": "[12时03分 ~ 14时35分]"
         },
         {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时22分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
-          "url": "https://flash.jin10.com/detail/20260131203337844800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时22分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时22分]"
-        },
-        {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时21分]"
         }
       ]
     },
@@ -211,11 +215,12 @@
             12,
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 23时21分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
