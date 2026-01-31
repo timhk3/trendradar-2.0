@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T19:18:26.396281+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-01-31T20:39:36.804331+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 20时39分]"
         },
         {
           "title": "47 岁女子被幼犬轻咬未及时处理引发狂犬病，如何提高大众对宠物咬伤的重视？",
@@ -48,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时39分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
@@ -59,11 +59,12 @@
             1,
             6,
             11,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时39分]"
         },
         {
           "title": "丰田销量蝉联第一 烧油的车还是主流",
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 20时39分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -203,11 +204,12 @@
           "url": "https://flash.jin10.com/detail/20260131190934573800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时39分]"
         }
       ]
     }
