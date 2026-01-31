@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T16:26:11.727199+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-01-31T17:25:29.338856+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,32 @@
           "time_info": "[00时35分 ~ 09时31分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260131160716286800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时25分]"
+        },
+        {
+          "title": "买家称退衣服不慎寄走奔驰钥匙",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6%E7%A7%B0%E9%80%80%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%85%8E%E5%AF%84%E8%B5%B0%E5%A5%94%E9%A9%B0%E9%92%A5%E5%8C%99",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19,
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时25分]"
+        },
+        {
           "title": "丰田销量蝉联第一 烧油的车还是主流",
           "url": "https://www.toutiao.com/trending/7601315870140272134/",
           "source": "今日头条",
@@ -37,30 +63,6 @@
           "time_info": "[12时03分 ~ 14时35分]"
         },
         {
-          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20260131160716286800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "买家称退衣服不慎寄走奔驰钥匙",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6%E7%A7%B0%E9%80%80%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%85%8E%E5%AF%84%E8%B5%B0%E5%A5%94%E9%A9%B0%E9%92%A5%E5%8C%99",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时26分]"
-        },
-        {
           "title": "47 岁女子被幼犬轻咬未及时处理引发狂犬病，如何提高大众对宠物咬伤的重视？",
           "url": "https://www.zhihu.com/question/2000219148295365659",
           "source": "知乎",
@@ -68,8 +70,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时25分]"
         },
         {
           "title": "女子称退衣服不慎寄走奔驰钥匙",
@@ -109,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 17时25分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
