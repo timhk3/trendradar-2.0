@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-31T12:03:26.089236+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-31T13:36:59.400737+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 5,
       "titles": [
+        {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时36分]"
+        },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
           "url": "https://www.zhihu.com/question/1999568077138973825",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时03分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.36%，报7732.28点。 热门中概股里，比亚迪初步收跌4.4%，小马智行、腾讯、理想、小鹏跌超3%。",
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "电动车遇宝马无接触摔倒被判全责",
@@ -94,9 +94,20 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时36分]"
+        },
+        {
+          "title": "女子称退衣服不慎寄走奔驰钥匙",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%80%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%85%8E%E5%AF%84%E8%B5%B0%E5%A5%94%E9%A9%B0%E9%92%A5%E5%8C%99%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时36分"
         }
       ]
     },
@@ -110,22 +121,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时36分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时36分]"
         }
       ]
     }
