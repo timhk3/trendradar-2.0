@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:29:08.198792+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-02-01T17:28:32.136193+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时19分 ~ 12时32分]"
+        },
+        {
+          "title": "问界汽车：1月交付40016辆，同比增长83%。",
+          "url": "https://wallstreetcn.com/livenews/3047761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 17时28分]"
         },
         {
           "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
@@ -76,19 +90,6 @@
           "time_info": "[12时32分 ~ 16时29分]"
         },
         {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 16时29分]"
-        },
-        {
           "title": "零跑员工吐槽公司年会拉垮",
           "url": "https://www.toutiao.com/trending/7600576432095379462/",
           "source": "今日头条",
@@ -124,6 +125,18 @@
           "time_info": "[09时58分 ~ 12时32分]"
         },
         {
+          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
+          "url": "https://flash.jin10.com/detail/20260201155521308800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时28分]"
+        },
+        {
           "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3047716",
           "source": "华尔街见闻-快讯",
@@ -135,26 +148,39 @@
           "time_info": "04时22分"
         },
         {
-          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
-          "url": "https://flash.jin10.com/detail/20260201155521308800",
-          "source": "金十数据",
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "蔚来公司1月交付同比增长96.1%，全新ES8完成第6万台新车交付",
           "url": "https://wallstreetcn.com/livenews/3047785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时28分]"
+        },
+        {
+          "title": "极氪1月交付量同比增加99.7%，极氪8X今年上半年上市",
+          "url": "https://wallstreetcn.com/livenews/3047782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时28分]"
         },
         {
           "title": "零跑汽车1月全系交付达32059台",
@@ -168,15 +194,15 @@
           "time_info": "[12时31分 ~ 12时32分]"
         },
         {
-          "title": "极氪1月交付量同比增加99.7%，极氪8X今年上半年上市",
-          "url": "https://wallstreetcn.com/livenews/3047782",
-          "source": "华尔街见闻-快讯",
+          "title": "小鹏机器人首秀摔倒 被抬离现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "17时28分"
         }
       ]
     },
@@ -280,11 +306,12 @@
             3,
             7,
             10,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时28分]"
         },
         {
           "title": "小米否认与福特探索成立电车合资企业",
@@ -303,11 +330,12 @@
           "url": "https://wallstreetcn.com/livenews/3047772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时28分]"
         }
       ]
     }
