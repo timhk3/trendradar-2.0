@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T14:56:30.599283+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-02-01T15:36:15.542109+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 15时36分]"
         },
         {
           "title": "报道：Waymo寻求按近1100亿美元估值融资约160亿美元，红杉资本入局",
@@ -44,8 +44,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时36分]"
         },
         {
           "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
@@ -58,8 +58,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时36分]"
+        },
+        {
+          "title": "问界汽车：1月交付40016辆，同比增长83%。",
+          "url": "https://wallstreetcn.com/livenews/3047761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时36分]"
         },
         {
           "title": "零跑员工吐槽公司年会拉垮",
@@ -85,6 +97,19 @@
           "time_info": "[09时58分 ~ 12时32分]"
         },
         {
+          "title": "理想汽车：2026年1月交付27,668辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3047745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时36分]"
+        },
+        {
           "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
           "url": "https://flash.jin10.com/detail/20260201084732084800",
           "source": "金十数据",
@@ -95,31 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 12时32分]"
-        },
-        {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时56分]"
-        },
-        {
-          "title": "理想汽车：2026年1月交付27,668辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3047745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时56分]"
         },
         {
           "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
@@ -247,8 +247,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 15时36分]"
         },
         {
           "title": "小米否认与福特探索成立电车合资企业",
