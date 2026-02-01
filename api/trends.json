@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:21:10.734507+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-02-02T07:22:06.397612+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -44,6 +44,21 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "何小鹏回应IRON机器人走猫步时摔倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            23,
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 07时22分]"
+        },
+        {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
           "url": "https://wallstreetcn.com/livenews/3047804",
           "source": "华尔街见闻-快讯",
@@ -54,20 +69,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "何小鹏回应IRON机器人走猫步时摔倒",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 06时21分]"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
@@ -99,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -123,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -135,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         }
       ]
     },
@@ -155,8 +158,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
