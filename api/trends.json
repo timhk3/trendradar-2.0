@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:41:26.018433+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-02-02T19:34:21.594124+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -100,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 19时34分]"
         },
         {
           "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
@@ -114,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 19时34分]"
         },
         {
           "title": "1月车市“大变天”！吉利反超比亚迪 小米SU7停产致销量跌超二成",
@@ -140,6 +140,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
+          "url": "https://wallstreetcn.com/livenews/3048302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时34分]"
         },
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相",
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
-        },
-        {
-          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
-          "url": "https://wallstreetcn.com/livenews/3048302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "新势力新年首交卷：同比增长分化明显 零跑继续领跑、理想重返“榜眼”",
@@ -278,7 +279,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待奔驰 S 级 2027 中期改款车型？",
@@ -342,11 +343,12 @@
           "url": "https://www.cls.cn/detail/2277327",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时34分]"
         },
         {
           "title": "上汽集团：1月整车销量32.74万辆，同比增长23.94%",
@@ -383,6 +385,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "现代汽车印度高管：将评估向欧盟出口汽车的可行性。",
+          "url": "https://flash.jin10.com/detail/20260202183744440800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "起亚公司：1月全球销量为245,557辆，较上年同期增长2.4%。",
           "url": "https://wallstreetcn.com/livenews/3048164",
           "source": "华尔街见闻-快讯",
@@ -403,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "现代汽车印度高管：预计贵金属、铜、铝等大宗商品价格将飙升。",
+          "url": "https://flash.jin10.com/detail/20260202181943887800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
