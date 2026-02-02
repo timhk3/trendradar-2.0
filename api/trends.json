@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T14:02:34.776510+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-02-02T15:47:30.007833+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -78,11 +78,36 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时47分]"
+        },
+        {
+          "title": "1月车市“大变天”！吉利反超比亚迪 小米SU7停产致销量跌超二成",
+          "url": "https://www.cls.cn/detail/2277327",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时47分]"
+        },
+        {
+          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
+          "url": "https://www.cls.cn/detail/2277353",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时47分]"
         },
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相",
@@ -119,17 +144,6 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
-          "title": "1月车市“大变天”！吉利反超比亚迪 小米SU7停产致销量跌超二成",
-          "url": "https://www.cls.cn/detail/2277327",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
           "title": "新势力新年首交卷：同比增长分化明显 零跑继续领跑、理想重返“榜眼”",
           "url": "https://www.cls.cn/detail/2276865",
           "source": "财联社热门",
@@ -141,15 +155,15 @@
           "time_info": "12时22分"
         },
         {
-          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
-          "url": "https://www.cls.cn/detail/2277353",
+          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
+          "url": "https://www.cls.cn/detail/2277374",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "15时47分"
         },
         {
           "title": "特斯拉最新人形机器人2026年底前启动量产",
@@ -158,7 +172,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -188,7 +202,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何看待奔驰 S 级 2027 中期改款车型？",
@@ -248,6 +262,28 @@
           "time_info": "[00时25分 ~ 07时22分]"
         },
         {
+          "title": "上汽集团：1月整车销量32.74万辆，同比增长23.94%",
+          "url": "https://wallstreetcn.com/livenews/3048184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "起亚公司：1月全球销量为245,557辆，较上年同期增长2.4%。",
+          "url": "https://flash.jin10.com/detail/20260202150730228800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "福特找中企谈合作？美国反华议员坐不住了",
           "url": "https://news.ifeng.com/c/8qPdxfcowVU",
           "source": "凤凰网",
@@ -257,6 +293,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "起亚公司：1月全球销量为245,557辆，较上年同期增长2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3048164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "通用汽车韩国分公司：1月全球销量为44,703辆，较上年同期增长41.4%。",
+          "url": "https://flash.jin10.com/detail/20260202145457617800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     },
@@ -274,8 +332,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 15时47分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
