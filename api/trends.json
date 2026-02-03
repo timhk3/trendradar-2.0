@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T14:46:11.638009+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-03T15:41:18.839448+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -74,6 +74,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
+          "url": "https://flash.jin10.com/detail/20260203151504838800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
           "url": "https://flash.jin10.com/detail/20260203063954637800",
           "source": "金十数据",
@@ -119,11 +130,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时41分]"
         },
         {
           "title": "雷军回应小米汽车交付量下滑",
@@ -198,7 +210,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "奔驰大范围调价",
@@ -219,11 +231,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 15时41分]"
         },
         {
           "title": "报道：保时捷权衡削减电动跑车项目，以应对预算压力",
@@ -246,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "摩根士丹利：将宝马目标价从85欧元上调至106欧元。",
+          "url": "https://flash.jin10.com/detail/20260203150837242800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "消息称保时捷搁置718 Boxster和Cayman纯电版车型",
