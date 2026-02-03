@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T22:03:27.176618+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-02-03T23:46:55.098045+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -59,6 +59,18 @@
           "time_info": "09时50分"
         },
         {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时46分]"
+        },
+        {
           "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
           "url": "https://wallstreetcn.com/livenews/3049126",
           "source": "华尔街见闻-快讯",
@@ -81,15 +93,15 @@
           "time_info": "01时36分"
         },
         {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
+          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
+          "url": "https://wallstreetcn.com/livenews/3049196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时03分"
+          "time_info": "23时46分"
         },
         {
           "title": "特斯拉在美国推出Model Y全轮驱动版本，定价41990美元。",
@@ -128,7 +140,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -239,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "AI颠覆风险风起云涌，Anthropic新工具冲击法律软件板块",
+          "url": "https://wallstreetcn.com/livenews/3049201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
@@ -274,6 +297,18 @@
           "time_info": "[13时48分 ~ 17时38分]"
         },
         {
+          "title": "女老板开宝马住高端小区多次超市偷窃",
+          "url": "https://www.toutiao.com/trending/7602628487744261670/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时46分]"
+        },
+        {
           "title": "起亚美国1月销量为64,502辆，同比增长13%。",
           "url": "https://flash.jin10.com/detail/20260203201815392800",
           "source": "金十数据",
@@ -283,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "女老板开宝马住高端小区多次超市偷窃",
-          "url": "https://www.toutiao.com/trending/7602628487744261670/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
         },
         {
           "title": "报道：保时捷权衡削减电动跑车项目，以应对预算压力",
