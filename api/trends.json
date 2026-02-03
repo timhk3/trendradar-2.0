@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T09:50:41.460016+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-02-03T12:13:25.443562+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -110,9 +110,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时13分]"
         },
         {
           "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
-        },
-        {
-          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2278428",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
@@ -170,11 +171,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 09时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 12时13分]"
         },
         {
           "title": "报道：保时捷权衡削减电动跑车项目，以应对预算压力",
