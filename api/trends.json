@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:32:48.772812+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-02-03T20:53:06.247404+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
@@ -121,7 +121,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -175,6 +175,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
+          "url": "https://wallstreetcn.com/livenews/3049126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
           "url": "https://flash.jin10.com/detail/20260203010649552800",
           "source": "金十数据",
@@ -222,7 +233,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "奔驰大范围调价",
@@ -250,6 +261,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时48分 ~ 17时38分]"
+        },
+        {
+          "title": "起亚美国1月销量为64,502辆，同比增长13%。",
+          "url": "https://flash.jin10.com/detail/20260203201815392800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "报道：保时捷权衡削减电动跑车项目，以应对预算压力",
