@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:32:03.907166+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2026-02-04T20:52:16.273364+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 20时52分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
           "url": "https://wallstreetcn.com/articles/3764887",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 20时52分]"
         },
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
