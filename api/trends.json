@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:46:02.659218+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-04T15:42:41.124669+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时42分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时42分]"
         },
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时42分]"
         },
         {
           "title": "OpenAI：ChatGPT有关问题现已解决。",
@@ -444,11 +445,24 @@
           "ranks": [
             19,
             9,
-            8
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时42分]"
+        },
+        {
+          "title": "宝马停商场8101小时计费16900元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%95%86%E5%9C%BA8101%E5%B0%8F%E6%97%B6%E8%AE%A1%E8%B4%B916900%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时46分]"
+          "time_info": "[14时45分 ~ 15时42分]"
         },
         {
           "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
@@ -460,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "宝马停商场8101小时计费16900元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%95%86%E5%9C%BA8101%E5%B0%8F%E6%97%B6%E8%AE%A1%E8%B4%B916900%E5%85%83%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "福特正在与吉利商谈，吉利使用其在欧洲的工厂空间；福特与吉利的谈判包括建立一套潜在框架，以共享包括自动驾驶在内的车辆技术。（路透）",
