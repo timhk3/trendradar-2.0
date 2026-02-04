@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T13:46:13.961563+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-02-04T14:46:02.659218+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时46分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时46分]"
         },
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时46分]"
         },
         {
           "title": "OpenAI：ChatGPT有关问题现已解决。",
@@ -98,6 +98,18 @@
           "time_info": "[03时50分 ~ 04时32分]"
         },
         {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 14时46分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
-          "url": "https://wallstreetcn.com/livenews/3049580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
         },
         {
           "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
@@ -417,7 +418,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女老板开宝马住高端小区多次超市偷窃",
@@ -442,11 +443,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
@@ -460,13 +462,24 @@
           "time_info": "[13时45分 ~ 13时46分]"
         },
         {
+          "title": "宝马停商场8101小时计费16900元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%95%86%E5%9C%BA8101%E5%B0%8F%E6%97%B6%E8%AE%A1%E8%B4%B916900%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
           "title": "福特正在与吉利商谈，吉利使用其在欧洲的工厂空间；福特与吉利的谈判包括建立一套潜在框架，以共享包括自动驾驶在内的车辆技术。（路透）",
           "url": "https://wallstreetcn.com/livenews/3049567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
