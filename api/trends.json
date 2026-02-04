@@ -1,550 +1,61 @@
 {
-  "generated_at": "2026-02-04T23:39:55.937499+08:00",
-  "total_titles_processed": 2113,
+  "generated_at": "2026-02-05T00:42:41.572894+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 27,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时45分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
           "url": "https://wallstreetcn.com/articles/3764887",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时45分 ~ 23时39分]"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 15时42分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT有关问题现已解决。",
-          "url": "https://flash.jin10.com/detail/20260204115251438800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
-          "url": "https://flash.jin10.com/detail/20260204115113569800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
-          "url": "https://flash.jin10.com/detail/20260204131636619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
-          "url": "https://flash.jin10.com/detail/20260204013101107800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "00时42分"
         },
         {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
-          "url": "https://flash.jin10.com/detail/20260204033202172800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时32分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
-          "url": "https://wallstreetcn.com/livenews/3049580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 14时46分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
-          "url": "https://wallstreetcn.com/livenews/3049251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
-          "url": "https://wallstreetcn.com/livenews/3049272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时50分]"
-        },
-        {
-          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
-          "url": "https://wallstreetcn.com/livenews/3049302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
-          "url": "https://wallstreetcn.com/livenews/3049265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时50分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
-          "url": "https://wallstreetcn.com/livenews/3049262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时50分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
-          "url": "https://flash.jin10.com/detail/20260204012612904800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
-          "url": "https://flash.jin10.com/detail/20260204033430684800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
-          "url": "https://wallstreetcn.com/articles/3764782",
+          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
+          "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "OpenAI拟运用AI助力药企研发并从中获利",
-          "url": "https://flash.jin10.com/detail/20260204033311635800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
-          "url": "https://wallstreetcn.com/livenews/3049343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
-          "url": "https://flash.jin10.com/detail/20260204044011737800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
-          "url": "https://flash.jin10.com/detail/20260204043502987800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20260204062113821800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "OpenAI：ChatGPT当前存在一些问题。",
-          "url": "https://wallstreetcn.com/livenews/3049318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
-          "url": "https://wallstreetcn.com/livenews/3049313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：非常高兴地欢迎迪伦·斯坎迪纳罗（Dylan Scandinaro）加入OpenAI，担任我们的应变准备（Preparedness）主管。",
-          "url": "https://flash.jin10.com/detail/20260204053929054800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
-          "url": "https://wallstreetcn.com/livenews/3049251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
-          "url": "https://flash.jin10.com/detail/20260204015701016800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "女老板开宝马住高端小区多次超市偷窃",
-          "url": "https://www.toutiao.com/trending/7602628487744261670/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7,
-            9,
-            22,
-            21,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时26分]"
-        },
-        {
-          "title": "宝马停商场8101小时计费16900元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%95%86%E5%9C%BA8101%E5%B0%8F%E6%97%B6%E8%AE%A1%E8%B4%B916900%E5%85%83%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 16时37分]"
-        },
-        {
-          "title": "宝马停商场8101小时 停车费16900元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%81%9C%E5%95%86%E5%9C%BA8101%E5%B0%8F%E6%97%B6+%E5%81%9C%E8%BD%A6%E8%B4%B916900%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            9,
-            8,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时37分]"
-        },
-        {
-          "title": "长安汽车：拟以10亿元-20亿元回购股份。",
-          "url": "https://wallstreetcn.com/livenews/3049820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时32分]"
-        },
-        {
-          "title": "广汽本田新飞度已售罄：后续将不再安排生产",
-          "url": "https://wallstreetcn.com/livenews/3049728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
-          "url": "https://flash.jin10.com/detail/20260204123732007800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。（日经新闻)",
-          "url": "https://wallstreetcn.com/livenews/3049758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "福特正在与吉利商谈，吉利使用其在欧洲的工厂空间；福特与吉利的谈判包括建立一套潜在框架，以共享包括自动驾驶在内的车辆技术。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3049567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
         {
           "title": "“长城猫”火出圈 外国游客沦陷了",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E5%9F%8E%E7%8C%AB%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88+%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B2%A6%E9%99%B7%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
-          "url": "https://flash.jin10.com/detail/20260204170430484800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 13时46分]"
-        },
-        {
-          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
-          "url": "https://flash.jin10.com/detail/20260204012848095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "著名投资人段永平在雪球上谈及特斯拉时表示，“FSD确实好用，Model Y开起来也没啥不舒服的，现在开特斯拉已经是我的首选了。”",
-          "url": "https://wallstreetcn.com/livenews/3049546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时46分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
-          "url": "https://wallstreetcn.com/livenews/3049324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "零跑汽车员工吐槽年会 董事长回应",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
-        },
-        {
-          "title": "恒指低开0.14%，报26797.05点；恒生科技指数跌0.87%。美团、快手、腾讯控股、华虹半导体、比亚迪股份等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3049437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)将于周三在参议院商务委员会作证，指出国会必须对自动驾驶汽车监管进行现代化改革。",
-          "url": "https://flash.jin10.com/detail/20260204020709699800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
-          "url": "https://wallstreetcn.com/livenews/3049196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "00时42分"
         }
       ]
     }
