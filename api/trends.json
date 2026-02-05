@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T15:48:47.500587+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-05T16:38:54.371611+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“长城猫”火出圈 外国游客沦陷了",
@@ -17,11 +17,24 @@
             24,
             22,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 16时38分]"
+        },
+        {
+          "title": "王者马限貂蝉美出长安盛世",
+          "url": "https://www.douyin.com/hot/2390203",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 16时38分]"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -35,18 +48,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时31分]"
-        },
-        {
-          "title": "王者马限貂蝉美出长安盛世",
-          "url": "https://www.douyin.com/hot/2390203",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 15时48分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -123,7 +124,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "沃尔沃汽车首席执行官：美国关税在第四季度带来了相当大的影响。",
+          "url": "https://flash.jin10.com/detail/20260205155911525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
@@ -209,7 +221,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -310,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 16时38分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -339,6 +351,17 @@
           "time_info": "[00时42分 ~ 05时31分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时38分]"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
           "url": "https://flash.jin10.com/detail/20260205013400830800",
           "source": "金十数据",
@@ -348,17 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         }
       ]
     }
