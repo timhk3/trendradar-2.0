@@ -1,8 +1,154 @@
 {
-  "generated_at": "2026-02-05T13:54:33.736490+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-05T14:55:22.472643+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "“长城猫”火出圈 外国游客沦陷了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E5%9F%8E%E7%8C%AB%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88+%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B2%A6%E9%99%B7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17,
+            24,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 14时55分]"
+        },
+        {
+          "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
+          "url": "https://wallstreetcn.com/livenews/3050061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
+        },
+        {
+          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3050079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "报道：Stellantis因ACC工厂瓶颈而面临标致电动车交付延迟",
+          "url": "https://wallstreetcn.com/livenews/3050079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
+          "title": "王者马限貂蝉美出长安盛世",
+          "url": "https://www.douyin.com/hot/2390203",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时55分]"
+        },
+        {
+          "title": "“长城猫”火出圈外国游客纷纷沦陷",
+          "url": "https://www.toutiao.com/trending/7602940098627502089/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "长安汽车1月销量腰斩",
+          "url": "https://www.toutiao.com/trending/7602133481405972531/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时24分]"
+        },
+        {
+          "title": "市场消息：由于电池工厂问题，Stellantis(STLA.N)面临标致车型交付延迟问题。公司的纯电动车型，如标致3008和5008，交付时间已推迟长达八个月。",
+          "url": "https://flash.jin10.com/detail/20260205011229457800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "沃尔沃首席执行官：对业绩不满意，在当前市场环境下结果合理。 美元疲软带来的影响“非常严重”。",
+          "url": "https://wallstreetcn.com/livenews/3050400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "沃尔沃汽车第四季度营收943.8亿瑞典克朗，市场预期1,018.3亿瑞典克朗。 第四季度营业利润18.9亿瑞典克朗，市场预期46亿瑞典克朗。 第四季度每股收益0.43瑞典克朗，市场预期1.24瑞典克朗。 第四季度销量195,700辆，市场预期196,850辆。 第四季度纯电动汽车（BEV）销量46,700辆。",
+          "url": "https://wallstreetcn.com/livenews/3050397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
+          "url": "https://flash.jin10.com/detail/20260205121310721800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
+          "url": "https://flash.jin10.com/detail/20260205140850218800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 10,
@@ -84,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -106,7 +252,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -120,118 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "“长城猫”火出圈 外国游客沦陷了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E5%9F%8E%E7%8C%AB%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88+%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B2%A6%E9%99%B7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            17,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时54分]"
-        },
-        {
-          "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
-          "url": "https://wallstreetcn.com/livenews/3050061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时31分]"
-        },
-        {
-          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3050079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "报道：Stellantis因ACC工厂瓶颈而面临标致电动车交付延迟",
-          "url": "https://wallstreetcn.com/livenews/3050079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时31分]"
-        },
-        {
-          "title": "“长城猫”火出圈外国游客纷纷沦陷",
-          "url": "https://www.toutiao.com/trending/7602940098627502089/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "长安汽车1月销量腰斩",
-          "url": "https://www.toutiao.com/trending/7602133481405972531/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "王者马限貂蝉美出长安盛世",
-          "url": "https://www.douyin.com/hot/2390203",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "市场消息：由于电池工厂问题，Stellantis(STLA.N)面临标致车型交付延迟问题。公司的纯电动车型，如标致3008和5008，交付时间已推迟长达八个月。",
-          "url": "https://flash.jin10.com/detail/20260205011229457800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
-          "url": "https://flash.jin10.com/detail/20260205121310721800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         }
       ]
     },
@@ -252,8 +286,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 14时55分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
