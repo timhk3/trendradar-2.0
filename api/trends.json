@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:34:05.083372+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-02-05T20:54:44.637368+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“长城猫”火出圈 外国游客沦陷了",
@@ -241,11 +241,12 @@
             8,
             7,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时54分 ~ 20时54分]"
         },
         {
           "title": "“长城猫”火出圈外国游客纷纷沦陷",
@@ -291,7 +292,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -386,6 +387,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "“长城猫”征服外国游客",
+          "url": "https://www.toutiao.com/trending/7602940098627502089/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
           "url": "https://flash.jin10.com/detail/20260205121310721800",
           "source": "金十数据",
@@ -471,11 +483,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时48分 ~ 19时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时48分 ~ 20时54分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
