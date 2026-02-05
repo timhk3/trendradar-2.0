@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:24:27.027749+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-02-06T07:21:35.455640+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 07时21分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -144,8 +145,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
@@ -188,7 +189,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -207,11 +208,12 @@
             14,
             15,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时21分]"
         },
         {
           "title": "“长城猫”征服外国游客",
@@ -223,8 +225,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时21分]"
         },
         {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
