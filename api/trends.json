@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T16:38:54.371611+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-02-05T17:41:29.744539+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             22,
             15,
             14,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 16时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时41分]"
         },
         {
           "title": "王者马限貂蝉美出长安盛世",
@@ -30,11 +31,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 17时41分]"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -48,6 +50,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时31分]"
+        },
+        {
+          "title": "“长城猫”火出圈外国游客纷纷沦陷",
+          "url": "https://www.toutiao.com/trending/7602940098627502089/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 17时41分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -71,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
-        },
-        {
-          "title": "“长城猫”火出圈外国游客纷纷沦陷",
-          "url": "https://www.toutiao.com/trending/7602940098627502089/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "长安汽车1月销量腰斩",
@@ -146,7 +149,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -319,11 +322,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 16时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时41分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -358,8 +362,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 17时41分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
