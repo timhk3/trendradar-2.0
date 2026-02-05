@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T07:24:36.039816+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-02-05T09:47:02.186058+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)股价跌至逾两个月低点，最新下跌4.3%。",
@@ -56,6 +56,17 @@
           "time_info": "[05时31分 ~ 06时24分]"
         },
         {
+          "title": "特斯拉AI总监：自动驾驶只需摄像头",
+          "url": "https://www.toutiao.com/trending/7602861709359087667/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
           "url": "https://flash.jin10.com/detail/20260205013852825800",
           "source": "金十数据",
@@ -73,7 +84,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -81,18 +92,19 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“长城猫”火出圈 外国游客沦陷了",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E5%9F%8E%E7%8C%AB%E2%80%9D%E7%81%AB%E5%87%BA%E5%9C%88+%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B2%A6%E9%99%B7%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 09时47分]"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -131,6 +143,17 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
+          "title": "“长城猫”火出圈外国游客纷纷沦陷",
+          "url": "https://www.toutiao.com/trending/7602940098627502089/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "长安汽车1月销量腰斩",
           "url": "https://www.toutiao.com/trending/7602133481405972531/",
           "source": "今日头条",
@@ -160,19 +183,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
-          "url": "https://wallstreetcn.com/articles/3764887",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时24分]"
-        },
-        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
@@ -181,7 +191,21 @@
             9,
             8,
             7,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 09时47分]"
+        },
+        {
+          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
+          "url": "https://wallstreetcn.com/articles/3764887",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
