@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T20:52:56.679387+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2026-02-06T22:02:03.084326+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时02分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -186,6 +186,17 @@
           "time_info": "15时45分"
         },
         {
+          "title": "欧股Stellantis暴跌27%：因业务重组导致260亿美元巨额亏损",
+          "url": "https://wallstreetcn.com/livenews/3051451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "据华尔街日报：大众汽车公司与美国汽车工人联合会达成协议，将为田纳西州工厂的工人加薪20%。",
           "url": "https://flash.jin10.com/detail/20260206000516660800",
           "source": "金十数据",
@@ -200,7 +211,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何评价蔚来四季度首次盈利？",
@@ -285,6 +296,17 @@
           "time_info": "[00时43分 ~ 01时45分]"
         },
         {
+          "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
+          "url": "https://www.zhihu.com/question/2002523570601993002",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "雷军：小米汽车春节期间免费道路救援",
           "url": "https://www.toutiao.com/trending/7603323463282098218/",
           "source": "今日头条",
@@ -294,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "问界M6纯电版标配100度大电池",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E7%BA%AF%E7%94%B5%E7%89%88%E6%A0%87%E9%85%8D100%E5%BA%A6%E5%A4%A7%E7%94%B5%E6%B1%A0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "特斯拉陶琳：会积极参与中国市场辅助自动驾驶相关工作",
@@ -313,7 +346,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -324,7 +357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -376,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 22时02分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
