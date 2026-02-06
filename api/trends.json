@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:13:05.441078+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-02-06T13:52:33.995572+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时43分 ~ 07时21分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时52分]"
+        },
+        {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
           "url": "https://wallstreetcn.com/livenews/3050854",
           "source": "华尔街见闻-快讯",
@@ -34,18 +46,6 @@
           "time_info": "[03时36分 ~ 05时26分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时13分]"
-        },
-        {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
           "url": "https://wallstreetcn.com/livenews/3050836",
           "source": "华尔街见闻-快讯",
@@ -57,6 +57,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时31分]"
+        },
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2002929122574373858",
+          "source": "知乎",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时52分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -93,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时44分]"
-        },
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2002929122574373858",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -166,7 +167,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价蔚来四季度首次盈利？",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "雷军宣布小米汽车春节期间免费道路救援",
+          "url": "https://wallstreetcn.com/livenews/3051134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
@@ -234,9 +246,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "追觅在办年会上给理想零跑打了个样",
+          "url": "https://www.toutiao.com/trending/7603529478232346131/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报7528.91点。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
@@ -253,7 +276,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -309,6 +332,17 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
+          "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
+          "url": "https://flash.jin10.com/detail/20260206130326987800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "标普500指数初步收跌1.2%，原材料板块跌2.8%，可选消费板块跌2.7%，科技板块跌1.8%，金融板块跌1.3%。 纳斯达克100指数初步收跌1.3%，成分股中，Strategy跌17.7%，CrowdStrike跌9.2%，高通跌8.7%，Zscaler跌8.6%，Datadog跌7.77%，Palantir跌7%，应用材料涨1.7%，吉利德科学涨2.3%，Arm控股涨5.7%。 微软初步收跌5%，Salesforce跌4.6%，亚马逊跌4.2%，高盛跌2.5%，领跌道指成分股，思科、强生、Travelers Companies Inc.等则涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3050881",
           "source": "华尔街见闻-快讯",
@@ -318,6 +352,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "丰田汽车预计2025/26财年营业利润3.80万亿日元，此前预计3.40万亿日元，市场预期3.94万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260206130225210800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "丰田汽车第三季度经营利润1.19万亿日元，同比下降2%，市场预估1.06万亿日元。 第三季度净利润1.26万亿日元，同比增加43%，市场预估8,991.3亿日元。 第三季度销售净额13.46万亿日元，同比增长8.6%，市场预估13.02万亿日元。 预计全年经营利润3.80万亿日元，此前预计3.40万亿日元，市场预估3.94万亿日元。 预计全年净利润3.57万亿日元，此前预计2.93万亿日元，市场预估3.42万亿日元。 预计全年销售净额50.00万亿日元，此前预计49.00万亿日元，市场预估50.5万亿日元。 丰田汽车将任命近健太为总裁兼首席执行官。",
+          "url": "https://wallstreetcn.com/livenews/3051119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "据华尔街日报：大众汽车公司与美国汽车工人联合会达成协议，将为田纳西州工厂的工人加薪20%。",
