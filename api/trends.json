@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T14:38:18.500279+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-02-07T15:31:33.480746+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,33 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时31分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时31分]"
+        },
+        {
           "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
           "url": "https://flash.jin10.com/detail/20260207021443881800",
           "source": "金十数据",
@@ -65,31 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时44分 ~ 13时40分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时38分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时38分]"
         },
         {
           "title": "据悉Anthropic逾200亿美元融资最快下周完成",
@@ -236,20 +238,6 @@
           "time_info": "[00时40分 ~ 07时23分]"
         },
         {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时38分]"
-        },
-        {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
           "url": "https://www.cls.cn/detail/2283596",
           "source": "财联社热门",
@@ -259,8 +247,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时31分]"
+        },
+        {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            6,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时31分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
