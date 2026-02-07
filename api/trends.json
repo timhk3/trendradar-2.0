@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:40:20.388561+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-02-07T14:38:18.500279+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时38分]"
         },
         {
           "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
@@ -84,11 +84,25 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时38分]"
+        },
+        {
+          "title": "据悉Anthropic逾200亿美元融资最快下周完成",
+          "url": "https://flash.jin10.com/detail/20260207093512214800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时38分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -102,18 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时28分]"
-        },
-        {
-          "title": "据悉Anthropic逾200亿美元融资最快下周完成",
-          "url": "https://flash.jin10.com/detail/20260207093512214800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时40分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -240,11 +242,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时38分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -252,11 +255,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时38分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
