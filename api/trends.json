@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T05:23:22.660721+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-08T06:22:35.811736+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时22分]"
         }
       ]
     }
