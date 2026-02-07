@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:20:03.958419+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-02-07T20:40:12.525782+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 20时40分]"
         },
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -228,6 +228,21 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
+          "url": "https://www.cls.cn/detail/2283596",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 20时40分]"
+        },
+        {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
@@ -238,20 +253,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时23分]"
-        },
-        {
-          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
-          "url": "https://www.cls.cn/detail/2283596",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 19时20分]"
         },
         {
           "title": "博主发小米极氪对撞测试视频被捕",
@@ -278,11 +279,12 @@
             2,
             6,
             12,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
         },
         {
           "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
@@ -290,11 +292,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时40分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
