@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:28:53.619090+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-02-07T18:22:58.638196+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -20,17 +20,6 @@
           "time_info": "[00时40分 ~ 07时23分]"
         },
         {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时29分 ~ 07时23分]"
-        },
-        {
           "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
           "url": "https://wallstreetcn.com/articles/3765171",
           "source": "华尔街见闻",
@@ -41,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 18时22分]"
         },
         {
           "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
@@ -55,8 +44,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 18时22分]"
+        },
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时44分 ~ 17时28分]"
+          "time_info": "[04时29分 ~ 07时23分]"
         },
         {
           "title": "黄仁勋：人工智能领域的资本支出是合理且可持续的",
@@ -224,7 +224,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
@@ -248,8 +248,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 18时22分]"
         },
         {
           "title": "博主发小米极氪对撞测试视频被捕",
@@ -274,11 +274,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
@@ -351,6 +352,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时23分]"
+        },
+        {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "娜扎演绎尊界S800新春灯语",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%BC%94%E7%BB%8E%E5%B0%8A%E7%95%8CS800%E6%96%B0%E6%98%A5%E7%81%AF%E8%AF%AD%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
