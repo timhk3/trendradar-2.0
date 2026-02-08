@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:22:04.754109+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-08T20:41:40.365203+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 20时41分]"
         },
         {
           "title": "2026 年 1 月份广汽本田销量再次暴跌 70% 至 4558 辆，未受到新能源车购置税提振，如何看待这一结果？",
@@ -40,11 +41,12 @@
           "ranks": [
             4,
             8,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时41分]"
         },
         {
           "title": "15元无人洗车机洗坏上百万的保时捷",
@@ -86,11 +88,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 20时41分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -112,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时41分]"
         }
       ]
     },
