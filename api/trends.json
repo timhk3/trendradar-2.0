@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T05:23:45.464355+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-09T06:23:41.099043+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "1.2万开发和数千运营受影响！高盛联手 Anthropic，要实现会计与合规业务全面自动化",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时23分]"
         }
       ]
     },
@@ -45,11 +45,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时23分]"
         }
       ]
     }
