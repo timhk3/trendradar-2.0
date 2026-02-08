@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T00:27:16.334397+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-09T01:24:57.323144+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
           "url": "https://www.zhihu.com/question/2003524766523473932",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     }
