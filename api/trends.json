@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:41:40.365203+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-08T21:43:46.766748+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             4,
             8,
             10,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时43分]"
         },
         {
           "title": "15元无人洗车机洗坏上百万的保时捷",
@@ -92,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 21时43分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -115,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 21时43分]"
         }
       ]
     },
