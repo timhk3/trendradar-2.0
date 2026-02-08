@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-09T01:24:57.323144+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-09T02:32:02.480035+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
+          "url": "https://www.zhihu.com/question/2003524766523473932",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
+        },
         {
           "title": "1.2万开发和数千运营受影响！高盛联手 Anthropic，要实现会计与合规业务全面自动化",
           "url": "https://wallstreetcn.com/articles/3765242",
@@ -15,20 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
-          "url": "https://www.zhihu.com/question/2003524766523473932",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     }
