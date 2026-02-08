@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T03:23:08.149688+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-02-09T04:23:26.138525+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时23分]"
         },
         {
           "title": "1.2万开发和数千运营受影响！高盛联手 Anthropic，要实现会计与合规业务全面自动化",
@@ -29,8 +30,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
+          "url": "https://flash.jin10.com/detail/20260209002305259800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     }
