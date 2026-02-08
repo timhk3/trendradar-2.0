@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:03:45.568939+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-02-08T15:37:28.187397+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时37分]"
         },
         {
           "title": "奥迪只要10万了 还算豪华车吗",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时37分]"
         },
         {
           "title": "15元无人洗车机洗坏上百万的保时捷",
@@ -38,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时37分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 14时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -80,11 +81,12 @@
           "url": "https://wallstreetcn.com/articles/3765242",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时37分]"
         }
       ]
     },
