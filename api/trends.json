@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T18:56:55.515680+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-02-10T19:48:53.232041+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -113,108 +113,8 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "10万1台？奥迪怎么卖出了“奥拓价”",
-          "url": "https://www.baidu.com/s?wd=10%E4%B8%871%E5%8F%B0%EF%BC%9F%E5%A5%A5%E8%BF%AA%E6%80%8E%E4%B9%88%E5%8D%96%E5%87%BA%E4%BA%86%E2%80%9C%E5%A5%A5%E6%8B%93%E4%BB%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17,
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 18时56分]"
-        },
-        {
-          "title": "本田维持本财年集团汽车销量预测为334万辆。",
-          "url": "https://flash.jin10.com/detail/20260210144552385800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
-          "url": "https://flash.jin10.com/detail/20260210034505167800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 04时55分]"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
-          "url": "https://flash.jin10.com/detail/20260210034431771800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 04时55分]"
-        },
-        {
-          "title": "男子买到2026年3月1日产的面包",
-          "url": "https://www.toutiao.com/trending/7604817122258190342/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 18时56分]"
-        },
-        {
-          "title": "本田汽车本财年前9个月净利465.44亿日元，而去年同期为805.26亿日元。",
-          "url": "https://flash.jin10.com/detail/20260210143342402800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "欣旺达与吉利系达成和解，预计 2025 年归母净利润减少 5 亿元，这笔和解金的背景是什么？",
-          "url": "https://www.zhihu.com/question/2003155462028272617",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "本田汽车预计全年销售净额21.10万亿日元，此前预计20.70万亿日元，市场预估21.08万亿日元。 预计全年净利润3,000.0亿日元，市场预估4,631.1亿日元。 第三财季经营利润1,533.6亿日元，市场预估1,486.5亿日元。 第三财季净利润1,536.1亿日元，市场预估845.2亿日元。 第三财季销售净额5.34万亿日元，市场预估5.19万亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3052780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
@@ -284,9 +184,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "比亚迪起诉美国政府",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "蔚来李斌最新内部讲话：季度盈利只是起点，要确保技术和产品领先",
@@ -298,6 +209,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "10万1台？奥迪怎么卖出了“奥拓价”",
+          "url": "https://www.baidu.com/s?wd=10%E4%B8%871%E5%8F%B0%EF%BC%9F%E5%A5%A5%E8%BF%AA%E6%80%8E%E4%B9%88%E5%8D%96%E5%87%BA%E4%BA%86%E2%80%9C%E5%A5%A5%E6%8B%93%E4%BB%B7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            17,
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 19时48分]"
+        },
+        {
+          "title": "男子买到2026年3月1日产的面包",
+          "url": "https://www.toutiao.com/trending/7604817122258190342/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 19时48分]"
+        },
+        {
+          "title": "本田维持本财年集团汽车销量预测为334万辆。",
+          "url": "https://flash.jin10.com/detail/20260210144552385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
+          "url": "https://flash.jin10.com/detail/20260210034505167800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 04时55分]"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
+          "url": "https://flash.jin10.com/detail/20260210034431771800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 04时55分]"
+        },
+        {
+          "title": "本田汽车本财年前9个月净利465.44亿日元，而去年同期为805.26亿日元。",
+          "url": "https://flash.jin10.com/detail/20260210143342402800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "欣旺达与吉利系达成和解，预计 2025 年归母净利润减少 5 亿元，这笔和解金的背景是什么？",
+          "url": "https://www.zhihu.com/question/2003155462028272617",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 17时59分]"
+        },
+        {
+          "title": "本田汽车预计全年销售净额21.10万亿日元，此前预计20.70万亿日元，市场预估21.08万亿日元。 预计全年净利润3,000.0亿日元，市场预估4,631.1亿日元。 第三财季经营利润1,533.6亿日元，市场预估1,486.5亿日元。 第三财季净利润1,536.1亿日元，市场预估845.2亿日元。 第三财季销售净额5.34万亿日元，市场预估5.19万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3052780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
