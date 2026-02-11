@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:44:08.621184+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-02-11T17:51:35.019301+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -207,11 +207,12 @@
             6,
             23,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[07时36分 ~ 17时51分]"
         },
         {
           "title": "停产 12 年后奇瑞 QQ 回归，奇瑞董事长称「要把它打造成中国的 MINI」，它能否延续当年热度？",
@@ -222,11 +223,12 @@
             7,
             10,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 16时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 17时51分]"
         },
         {
           "title": "买到2026年3月1日产面包 商家赔偿",
@@ -342,8 +344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 17时51分]"
         },
         {
           "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
