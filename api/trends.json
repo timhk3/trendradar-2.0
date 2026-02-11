@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T17:51:35.019301+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-02-11T18:46:22.881855+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -199,6 +199,23 @@
           "time_info": "[00时06分 ~ 12时33分]"
         },
         {
+          "title": "停产 12 年后奇瑞 QQ 回归，奇瑞董事长称「要把它打造成中国的 MINI」，它能否延续当年热度？",
+          "url": "https://www.zhihu.com/question/2004519940980511952",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            10,
+            8,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 18时46分]"
+        },
+        {
           "title": "停产12年的奇瑞QQ复活后爆火",
           "url": "https://www.toutiao.com/trending/7605018736370991131/",
           "source": "今日头条",
@@ -213,22 +230,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时36分 ~ 17时51分]"
-        },
-        {
-          "title": "停产 12 年后奇瑞 QQ 回归，奇瑞董事长称「要把它打造成中国的 MINI」，它能否延续当年热度？",
-          "url": "https://www.zhihu.com/question/2004519940980511952",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            10,
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 17时51分]"
         },
         {
           "title": "买到2026年3月1日产面包 商家赔偿",
@@ -344,8 +345,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 18时46分]"
         },
         {
           "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
