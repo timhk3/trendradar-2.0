@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T03:56:39.441948+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-02-12T04:36:09.025049+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             6,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时36分]"
         },
         {
           "title": "15 元无人洗车机洗坏上百万的保时捷，对方只肯承担 1000 元，此事故中责任应如何划分？车主能如何维权？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时36分]"
         },
         {
           "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
@@ -81,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时36分]"
         }
       ]
     },
