@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-02-13T01:56:38.431479+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T02:58:58.146063+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://wallstreetcn.com/livenews/3054632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://flash.jin10.com/detail/20260213003325434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
+          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
+          "url": "https://flash.jin10.com/detail/20260213002057451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
+          "url": "https://wallstreetcn.com/livenews/3054635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 5,
@@ -15,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "男子结婚“摇”来约200台小米汽车",
@@ -27,8 +100,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
@@ -60,69 +133,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://wallstreetcn.com/livenews/3054632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://flash.jin10.com/detail/20260213003325434800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
-          "url": "https://flash.jin10.com/detail/20260213002134729800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
-          "url": "https://flash.jin10.com/detail/20260213002057451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
-          "url": "https://wallstreetcn.com/livenews/3054635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -140,19 +151,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "13年前的奔驰车设计有多炸裂",
           "url": "https://www.toutiao.com/trending/7605594992413638707/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
@@ -163,8 +175,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         }
       ]
     }
