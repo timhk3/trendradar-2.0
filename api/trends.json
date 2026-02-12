@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T17:45:56.908807+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-02-12T18:42:04.670339+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "15 元无人洗车机洗坏上百万的保时捷，对方只肯承担 1000 元，此事故中责任应如何划分？车主能如何维权？",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时42分]"
         },
         {
           "title": "日产首席执行官：今年将出现净亏损，这令人遗憾，但也在预料之中，我们必须让公司重新开始。",
@@ -107,6 +107,17 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
+          "title": "日产CEO：（当被问及日产是否会考虑让其他汽车制造商在其工厂生产汽车时）如果能实现双赢，愿意与合作伙伴展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260212174631959800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
           "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
           "url": "https://flash.jin10.com/detail/20260212002919163800",
           "source": "金十数据",
@@ -146,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -179,7 +190,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -190,7 +201,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -212,7 +223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -275,7 +286,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
@@ -290,6 +301,29 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时06分 ~ 07时29分]"
+        },
+        {
+          "title": "比亚迪新车矩阵曝光",
+          "url": "https://www.toutiao.com/trending/7605483812500766766/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时42分]"
+        },
+        {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "特斯拉副总裁等多名骨干离职",
@@ -328,6 +362,17 @@
           "time_info": "[05时32分 ~ 06时27分]"
         },
         {
+          "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
+          "url": "https://wallstreetcn.com/livenews/3054433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "Waymo联席CEO描绘2026年愿景：迈向每周100万次订单里程碑",
           "url": "https://wallstreetcn.com/livenews/3054001",
           "source": "华尔街见闻-快讯",
@@ -339,15 +384,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "比亚迪新车矩阵曝光",
-          "url": "https://www.toutiao.com/trending/7605483812500766766/",
-          "source": "今日头条",
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "18时42分"
         }
       ]
     },
