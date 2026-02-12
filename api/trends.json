@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:50:44.572588+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-02-12T16:42:32.000826+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "15 元无人洗车机洗坏上百万的保时捷，对方只肯承担 1000 元，此事故中责任应如何划分？车主能如何维权？",
@@ -39,6 +39,29 @@
           "time_info": "[01时06分 ~ 06时27分]"
         },
         {
+          "title": "全固态电池产业化迈入关键验证期 吉利、奇瑞锁定2027年完成装车示范工作",
+          "url": "https://www.cls.cn/detail/2288241",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 16时42分]"
+        },
+        {
+          "title": "日产首席执行官：今年将出现净亏损，这令人遗憾，但也在预料之中，我们必须让公司重新开始。",
+          "url": "https://flash.jin10.com/detail/20260212163742345800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "宝马召回全球多款车型",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%8F%AC%E5%9B%9E%E5%85%A8%E7%90%83%E5%A4%9A%E6%AC%BE%E8%BD%A6%E5%9E%8B",
           "source": "百度热搜",
@@ -62,15 +85,15 @@
           "time_info": "[12时23分 ~ 12时24分]"
         },
         {
-          "title": "全固态电池产业化迈入关键验证期 吉利、奇瑞锁定2027年完成装车示范工作",
-          "url": "https://www.cls.cn/detail/2288241",
-          "source": "财联社热门",
+          "title": "日产：仍预计美国关税将在2027财年对营业业绩造成2750亿日元的负面影响。",
+          "url": "https://flash.jin10.com/detail/20260212163508131800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时50分"
+          "time_info": "16时42分"
         },
         {
           "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
@@ -101,7 +124,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -117,15 +140,59 @@
           "time_info": "01时07分"
         },
         {
+          "title": "日产首席执行官：与本田的资本讨论尚无具体进展，我们目前在讨论具体项目。",
+          "url": "https://flash.jin10.com/detail/20260212163221565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "日产首席执行官：必须密切关注D-RAM芯片，因为一些短缺似乎已经开始出现。",
+          "url": "https://flash.jin10.com/detail/20260212162749445800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "日产首席执行官：与本田的最新讨论主要围绕美国以及我们如何在北美开展合作。",
+          "url": "https://flash.jin10.com/detail/20260212162531301800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "梅赛德斯-奔驰首席财务官：2025年标志着汽车投资的峰值。",
           "url": "https://flash.jin10.com/detail/20260212151826674800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "日产首席执行官：在与本田的讨论中保持高度开放和协作的精神，双方都认识到行业面临的挑战。本田和日产同为日本公司，需要找到一个共同的立足点，以便开展合作。",
+          "url": "https://flash.jin10.com/detail/20260212162455544800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "长安的蹴鞠",
@@ -137,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3054335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
