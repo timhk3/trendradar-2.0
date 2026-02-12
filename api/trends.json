@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T16:42:32.000826+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-02-12T17:45:56.908807+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "15 元无人洗车机洗坏上百万的保时捷，对方只肯承担 1000 元，此事故中责任应如何划分？车主能如何维权？",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时45分]"
         },
         {
           "title": "日产首席执行官：今年将出现净亏损，这令人遗憾，但也在预料之中，我们必须让公司重新开始。",
@@ -57,7 +57,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -140,15 +140,59 @@
           "time_info": "01时07分"
         },
         {
+          "title": "日产CFO：美国车型的盈利能力与整个公司的盈利能力持平或相当。",
+          "url": "https://flash.jin10.com/detail/20260212172154389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "日产CFO：我们正在重新评估过去所做部分投资的业务潜力。",
+          "url": "https://flash.jin10.com/detail/20260212171946210800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "日产首席执行官：与本田的资本讨论尚无具体进展，我们目前在讨论具体项目。",
           "url": "https://flash.jin10.com/detail/20260212163221565800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "梅赛德斯-奔驰CFO：大幅投资美国生产以支持销量增长。",
+          "url": "https://flash.jin10.com/detail/20260212171150822800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "梅赛德斯-奔驰CFO：目标在2028年前将产能提升至220万辆。",
+          "url": "https://flash.jin10.com/detail/20260212171020621800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "日产首席执行官：必须密切关注D-RAM芯片，因为一些短缺似乎已经开始出现。",
@@ -157,9 +201,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "梅赛德斯-奔驰CFO：墨西哥合资工厂停产将使产能减少10万辆。",
+          "url": "https://flash.jin10.com/detail/20260212170954767800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "日产首席执行官：与本田的最新讨论主要围绕美国以及我们如何在北美开展合作。",
@@ -168,7 +223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -190,7 +245,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -212,7 +267,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -220,7 +275,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
@@ -282,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "比亚迪新车矩阵曝光",
+          "url": "https://www.toutiao.com/trending/7605483812500766766/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
