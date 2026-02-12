@@ -1,510 +1,144 @@
 {
-  "generated_at": "2026-02-12T23:49:17.110542+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-02-13T00:55:34.664077+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "15 元无人洗车机洗坏上百万的保时捷，对方只肯承担 1000 元，此事故中责任应如何划分？车主能如何维权？",
-          "url": "https://www.zhihu.com/question/2003846940299847117",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 09时53分]"
-        },
-        {
-          "title": "停产12年的奇瑞QQ复活后爆火",
-          "url": "https://www.toutiao.com/trending/7605018736370991131/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            6,
-            22,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时27分]"
-        },
-        {
-          "title": "全固态电池产业化迈入关键验证期 吉利、奇瑞锁定2027年完成装车示范工作",
-          "url": "https://www.cls.cn/detail/2288241",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 20时59分]"
-        },
-        {
-          "title": "借SpaceX“东风”拉涨停？双良节能被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2288800",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时49分]"
-        },
-        {
-          "title": "日产首席执行官：今年将出现净亏损，这令人遗憾，但也在预料之中，我们必须让公司重新开始。",
-          "url": "https://flash.jin10.com/detail/20260212163742345800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "宝马召回全球多款车型",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%8F%AC%E5%9B%9E%E5%85%A8%E7%90%83%E5%A4%9A%E6%AC%BE%E8%BD%A6%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时53分]"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
-          "url": "https://flash.jin10.com/detail/20260212115333742800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
-          "title": "日产：仍预计美国关税将在2027财年对营业业绩造成2750亿日元的负面影响。",
-          "url": "https://flash.jin10.com/detail/20260212163508131800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "13年前的奔驰车设计有多炸裂",
-          "url": "https://www.toutiao.com/trending/7605594992413638707/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
-          "url": "https://flash.jin10.com/detail/20260212005207795800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "日产CEO：（当被问及日产是否会考虑让其他汽车制造商在其工厂生产汽车时）如果能实现双赢，愿意与合作伙伴展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260212174631959800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
-          "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
-          "url": "https://flash.jin10.com/detail/20260212002919163800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "梅赛德斯-奔驰首席财务官：汽车销量在第一季度可能降至全年最低水平，随后年内将逐步回升。",
-          "url": "https://flash.jin10.com/detail/20260212153102658800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
-          "url": "https://wallstreetcn.com/livenews/3053880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "日产CFO：美国车型的盈利能力与整个公司的盈利能力持平或相当。",
-          "url": "https://flash.jin10.com/detail/20260212172154389800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "日产CFO：我们正在重新评估过去所做部分投资的业务潜力。",
-          "url": "https://flash.jin10.com/detail/20260212171946210800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "日产首席执行官：与本田的资本讨论尚无具体进展，我们目前在讨论具体项目。",
-          "url": "https://flash.jin10.com/detail/20260212163221565800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "梅赛德斯-奔驰CFO：大幅投资美国生产以支持销量增长。",
-          "url": "https://flash.jin10.com/detail/20260212171150822800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "宝马将在全球召回数十万辆汽车",
-          "url": "https://www.cls.cn/detail/2288479",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "梅赛德斯-奔驰CFO：目标在2028年前将产能提升至220万辆。",
-          "url": "https://flash.jin10.com/detail/20260212171020621800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "日产首席执行官：必须密切关注D-RAM芯片，因为一些短缺似乎已经开始出现。",
-          "url": "https://flash.jin10.com/detail/20260212162749445800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "梅赛德斯-奔驰CFO：墨西哥合资工厂停产将使产能减少10万辆。",
-          "url": "https://flash.jin10.com/detail/20260212170954767800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "日产首席执行官：与本田的最新讨论主要围绕美国以及我们如何在北美开展合作。",
-          "url": "https://flash.jin10.com/detail/20260212162531301800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "梅赛德斯-奔驰首席财务官：2025年标志着汽车投资的峰值。",
-          "url": "https://flash.jin10.com/detail/20260212151826674800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "日产首席执行官：在与本田的讨论中保持高度开放和协作的精神，双方都认识到行业面临的挑战。本田和日产同为日本公司，需要找到一个共同的立足点，以便开展合作。",
-          "url": "https://flash.jin10.com/detail/20260212162455544800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "长安的蹴鞠",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%AE%89%E7%9A%84%E8%B9%B4%E9%9E%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3054335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "长城汽车表示，全力支持《汽车行业价格行为合规指南》，始终坚持长期主义，坚守合法合规，坚持诚信经营，积极维护国内市场秩序。",
-          "url": "https://wallstreetcn.com/livenews/3054493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
-          "url": "https://www.zhihu.com/question/2004559757655168835",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时29分]"
-        },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
           "source": "澎湃新闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "Waymo将推出第六代Waymo Driver Auto操作系统。",
+          "url": "https://wallstreetcn.com/livenews/3054618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "男子结婚“摇”来约200台小米汽车",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            29,
-            26,
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 23时49分]"
-        },
-        {
-          "title": "比亚迪新车矩阵曝光",
-          "url": "https://www.toutiao.com/trending/7605483812500766766/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时42分]"
-        },
-        {
-          "title": "比亚迪和吉利竞购日产-奔驰墨西哥汽车工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "市场消息：比亚迪、吉利竞购日产-奔驰墨西哥汽车工厂。",
-          "url": "https://flash.jin10.com/detail/20260212191734325800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
-          "url": "https://wallstreetcn.com/livenews/3054433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时38分]"
-        },
-        {
-          "title": "特斯拉副总裁等多名骨干离职",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%89%AF%E6%80%BB%E8%A3%81%E7%AD%89%E5%A4%9A%E5%90%8D%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 12时24分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.65%，报7834.34点。 热门中概股里，文远知行初步收跌5.5%，网易跌4%，百胜中国、百度、腾讯、阿里、美团跌超1%，小鹏则涨1.6%，理想涨1.8%，蔚来涨2.1%，比亚迪涨2.8%，小米涨3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.61%，中国科技指数ETF（CQQQ）收跌0.15%。 德银嘉实沪深300指数ETF（ASHR）收跌0.06%，XtrackersHarvest中证50（ASHS）收涨0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3053956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3053953",
-          "source": "华尔街见闻-快讯",
+          "title": "33岁男子开特斯拉跑货拉拉",
+          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
-        },
-        {
-          "title": "Waymo联席CEO描绘2026年愿景：迈向每周100万次订单里程碑",
-          "url": "https://wallstreetcn.com/livenews/3054001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌超1.31%。 热门中概股腾讯音乐跌6.02%，贝壳跌4.61%，携程跌3.7%，美团跌3%，再鼎医药跌2.52%，拼多多跌2.2%，百胜中国跌1.95%，京东、蔚来、腾讯、阿里巴巴至少跌1.4%。 文远知行涨1.1%，华住、万国数据至多涨3.2%，世纪互联涨5.2%，金山云涨5.5%。 ETF中，KWEB跌2.30%，CQQQ跌0.72%，ASHR涨0.09%，ASHS涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3054593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "小米汽车：第一代SU7停产后仍会提供全部维修及保养服务，备件保障能力在10年以上",
-          "url": "https://wallstreetcn.com/livenews/3054575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
-          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
-          "url": "https://wallstreetcn.com/livenews/3053878",
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://wallstreetcn.com/livenews/3054632",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://flash.jin10.com/detail/20260213003325434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
+          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
+          "url": "https://flash.jin10.com/detail/20260213002057451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "借SpaceX“东风”拉涨停？双良节能被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2288800",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "13年前的奔驰车设计有多炸裂",
+          "url": "https://www.toutiao.com/trending/7605594992413638707/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "00时55分"
+        },
+        {
+          "title": "宝马将在全球召回数十万辆汽车",
+          "url": "https://www.cls.cn/detail/2288479",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
