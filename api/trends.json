@@ -1,598 +1,61 @@
 {
-  "generated_at": "2026-02-13T23:39:42.705945+08:00",
-  "total_titles_processed": 2099,
+  "generated_at": "2026-02-14T00:41:48.067509+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 23,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时53分]"
-        },
-        {
-          "title": "Anthropic：年化收入现已达到140亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213031648169800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 04时31分]"
-        },
-        {
-          "title": "Anthropic完成300亿美元融资 公司估值达3800亿美元",
-          "url": "https://flash.jin10.com/detail/20260213031347065800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 04时31分]"
-        },
-        {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时26分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://wallstreetcn.com/livenews/3054632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
-        },
-        {
-          "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
-          "url": "https://flash.jin10.com/detail/20260213054809093800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时26分]"
-        },
-        {
-          "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
-          "url": "https://www.cls.cn/detail/2288901",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时57分]"
-        },
-        {
-          "title": "OpenAI指责DeepSeek“抄袭”背后",
-          "url": "https://www.toutiao.com/trending/7606207773960834579/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时53分]"
-        },
-        {
-          "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
-          "url": "https://flash.jin10.com/detail/20260213030259152800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
-        },
-        {
-          "title": "Anthropic：本轮融资还包含此前宣布的来自微软和英伟达的投资部分。",
-          "url": "https://flash.jin10.com/detail/20260213030246759800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
-        },
-        {
-          "title": "市场消息：Anthropic完成300亿美元融资，公司估值达到3800亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213030133450800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
-        },
-        {
-          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
-          "url": "https://flash.jin10.com/detail/20260213230215077800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://flash.jin10.com/detail/20260213003325434800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
         {
           "title": "Anthropic准备最早今年上市。 为此，该公司在董事会新增一名成员。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3055268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时41分"
         },
         {
           "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
           "url": "https://wallstreetcn.com/livenews/3055266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
-          "url": "https://wallstreetcn.com/livenews/3054665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "00时41分"
         },
         {
-          "title": "OpenAI CEO：马斯克攻击我们很荒唐",
-          "url": "https://www.toutiao.com/trending/7605754485696135187/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "Anthropic按3800亿美元估值敲定300亿美元融资。",
-          "url": "https://wallstreetcn.com/livenews/3054689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
-          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
           "source": "金十数据",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "Anthropic完成300亿美元融资交易，公司估值升至3800亿美元",
-          "url": "https://wallstreetcn.com/livenews/3054689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
-          "url": "https://flash.jin10.com/detail/20260213002057451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
-          "url": "https://wallstreetcn.com/livenews/3054635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3054665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 19,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时26分]"
-        },
-        {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23,
-            24,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时31分]"
-        },
-        {
-          "title": "男子开特斯拉跑货拉拉最高日入上千元",
-          "url": "https://www.toutiao.com/trending/7605814145933525038/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时29分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时26分]"
-        },
-        {
-          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
-          "url": "https://flash.jin10.com/detail/20260213223027809800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时39分]"
-        },
-        {
-          "title": "33岁男子开特斯拉跑货拉拉",
-          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 07时26分]"
-        },
-        {
-          "title": "Rivian(RIVN.O)第四季度营收为12.86亿美元，市场预期为12.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213050410826800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时26分]"
-        },
-        {
-          "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
-          "url": "https://wallstreetcn.com/livenews/3055070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3055254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 23时39分]"
-        },
-        {
-          "title": "小米汽车：严格落实明码标价要求，坚决杜绝价格欺诈及不正当竞争行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593078",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
         {
           "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
           "url": "https://flash.jin10.com/detail/20260213225251710800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "告别补贴时代 Rivian押注R2的绝地反击",
-          "url": "https://flash.jin10.com/detail/20260213051312729800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "Rivian(RIVN.O) CFO：预计到2026年，软件和服务业务的增长率将接近60%。",
-          "url": "https://flash.jin10.com/detail/20260213063517745800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "Rivian(RIVN.O)盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
-          "url": "https://flash.jin10.com/detail/20260213171028374800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "小米汽车最后一台初代SU7完成交付",
-          "url": "https://wallstreetcn.com/livenews/3055140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "Waymo将推出第六代Waymo Driver Auto操作系统。",
-          "url": "https://wallstreetcn.com/livenews/3054618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "Benchmark将Rivian目标价从18美元上调至25美元。",
-          "url": "https://wallstreetcn.com/livenews/3055180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3055232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "借SpaceX“东风”拉涨停？双良节能被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2288800",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 09时55分]"
-        },
-        {
-          "title": "深圳一公司年会送5套房，还有保时捷、宝马、36克金钞，员工：拿到房的都不是高管！",
-          "url": "https://wallstreetcn.com/articles/3765613",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时29分 ~ 20时51分]"
-        },
-        {
-          "title": "13年前的奔驰车设计有多炸裂",
-          "url": "https://www.toutiao.com/trending/7605594992413638707/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            22,
-            28,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 07时26分]"
-        },
-        {
-          "title": "宝马将在全球召回数十万辆汽车",
-          "url": "https://www.cls.cn/detail/2288479",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时29分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260213032445200800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时50分 ~ 05时31分]"
-        },
-        {
-          "title": "影石公司年会一员工获保时捷",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E7%9F%B3%E5%85%AC%E5%8F%B8%E5%B9%B4%E4%BC%9A%E4%B8%80%E5%91%98%E5%B7%A5%E8%8E%B7%E4%BF%9D%E6%97%B6%E6%8D%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "广汽集团：董事会同意向全资子公司广汽传祺汽车有限公司提供金额不超过50亿元的借款。",
-          "url": "https://wallstreetcn.com/livenews/3055035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "00时41分"
         }
       ]
     }
