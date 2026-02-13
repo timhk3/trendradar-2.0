@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-14T03:41:00.364866+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-14T04:34:23.180870+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 7,
       "titles": [
-        {
-          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
-          "url": "https://wallstreetcn.com/livenews/3055331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时41分]"
-        },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
@@ -27,8 +15,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时34分]"
+        },
+        {
+          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
+          "url": "https://wallstreetcn.com/livenews/3055331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时34分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
