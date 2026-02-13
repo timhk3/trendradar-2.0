@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T09:55:21.750001+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-02-13T12:19:49.007705+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "Anthropic：年化收入现已达到140亿美元。",
@@ -69,6 +69,18 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 12时19分]"
+        },
+        {
           "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
           "url": "https://flash.jin10.com/detail/20260213030259152800",
           "source": "金十数据",
@@ -113,15 +125,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
+          "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
+          "url": "https://www.cls.cn/detail/2288901",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时19分"
         },
         {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
@@ -141,7 +153,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -407,8 +419,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 09时55分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 12时19分]"
         },
         {
           "title": "影石公司年会一员工获保时捷",
@@ -417,7 +429,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
