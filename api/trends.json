@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:40:59.558546+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-02-13T18:37:17.842256+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -340,7 +340,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -373,7 +373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -416,8 +416,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时29分 ~ 17时40分]"
+          "appearance_count": 10,
+          "time_info": "[06时29分 ~ 18时37分]"
         },
         {
           "title": "13年前的奔驰车设计有多炸裂",
@@ -478,7 +478,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
