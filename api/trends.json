@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T14:59:42.916022+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-13T15:53:20.798455+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时53分]"
         },
         {
           "title": "Anthropic：年化收入现已达到140亿美元。",
@@ -92,6 +93,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时57分]"
+        },
+        {
+          "title": "OpenAI指责DeepSeek“抄袭”背后",
+          "url": "https://www.toutiao.com/trending/7606207773960834579/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时53分]"
         },
         {
           "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
@@ -169,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "OpenAI指责DeepSeek“抄袭”背后",
-          "url": "https://www.toutiao.com/trending/7606207773960834579/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -383,6 +385,19 @@
           "time_info": "[00时55分 ~ 09时55分]"
         },
         {
+          "title": "深圳一公司年会送5套房，还有保时捷、宝马、36克金钞，员工：拿到房的都不是高管！",
+          "url": "https://wallstreetcn.com/articles/3765613",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时29分 ~ 15时53分]"
+        },
+        {
           "title": "13年前的奔驰车设计有多炸裂",
           "url": "https://www.toutiao.com/trending/7605594992413638707/",
           "source": "今日头条",
@@ -409,19 +424,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 06时29分]"
-        },
-        {
-          "title": "深圳一公司年会送5套房，还有保时捷、宝马、36克金钞，员工：拿到房的都不是高管！",
-          "url": "https://wallstreetcn.com/articles/3765613",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 14时59分]"
         },
         {
           "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
