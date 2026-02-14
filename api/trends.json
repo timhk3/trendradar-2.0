@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T02:30:33.168304+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-15T03:21:51.156553+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -63,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
@@ -74,8 +74,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         }
       ]
     },
@@ -89,11 +89,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时21分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -103,8 +104,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时21分]"
         }
       ]
     }
