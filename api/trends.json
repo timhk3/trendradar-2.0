@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T20:42:04.065835+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-02-15T21:43:47.241415+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
@@ -35,8 +35,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 20时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 21时43分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -51,6 +51,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时25分 ~ 15时37分]"
+        },
+        {
+          "title": "春启新程｜黄仁勋带火的这位水果摊主，今年春节怎么过？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610419",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时43分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -78,19 +92,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时21分]"
-        },
-        {
-          "title": "春启新程｜黄仁勋带火的这位水果摊主，今年春节怎么过？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610419",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 20时42分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -183,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
@@ -199,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 21时43分]"
         },
         {
           "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
@@ -266,11 +278,12 @@
           "ranks": [
             7,
             11,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时43分]"
         }
       ]
     }
