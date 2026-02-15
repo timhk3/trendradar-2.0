@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T14:47:43.142304+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-02-15T15:37:31.751112+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 14时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -33,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 14时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -47,8 +47,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时37分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -107,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时37分]"
         },
         {
           "title": "黄仁勋因无法预见的情况缺席",
@@ -172,7 +172,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
@@ -211,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时37分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
@@ -226,6 +226,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时21分 ~ 14时47分]"
+        },
+        {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     }
