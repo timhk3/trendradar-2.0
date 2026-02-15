@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:21:34.354476+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-02-15T13:55:12.853758+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时55分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -33,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时55分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -47,8 +47,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时55分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -85,6 +85,18 @@
           "time_info": "[00时25分 ~ 07时21分]"
         },
         {
+          "title": "因无法预见的情况，黄仁勋缺席",
+          "url": "https://news.ifeng.com/c/8qkVgKS5k5d",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 13时55分]"
+        },
+        {
           "title": "黄仁勋因无法预见的情况缺席",
           "url": "https://news.ifeng.com/c/8qkVgKS5k5d",
           "source": "凤凰网",
@@ -96,28 +108,53 @@
           "time_info": "[04时22分 ~ 07时21分]"
         },
         {
-          "title": "因无法预见的情况，黄仁勋缺席",
-          "url": "https://news.ifeng.com/c/8qkVgKS5k5d",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时21分]"
-        },
-        {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时55分]"
+        },
+        {
+          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
+          "url": "https://flash.jin10.com/detail/20260215103819376800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时55分]"
+        },
+        {
+          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
+          "url": "https://flash.jin10.com/detail/20260215103523505800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时55分]"
+        },
+        {
+          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
+          "url": "https://flash.jin10.com/detail/20260215101721943800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时55分]"
         },
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -129,39 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
-          "url": "https://flash.jin10.com/detail/20260215103819376800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
-          "url": "https://flash.jin10.com/detail/20260215101721943800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
@@ -204,20 +208,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时55分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
           "url": "https://flash.jin10.com/detail/20260215112402089800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时55分]"
         }
       ]
     }
