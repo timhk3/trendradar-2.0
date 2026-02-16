@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T07:23:32.544317+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-16T09:51:36.509791+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时51分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时51分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -99,11 +100,12 @@
             6,
             12,
             9,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时51分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -124,7 +126,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
