@@ -1,213 +1,33 @@
 {
-  "generated_at": "2026-02-16T23:38:28.683787+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-02-17T00:39:56.237132+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 23时38分]"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 14时05分]"
-        },
-        {
-          "title": "春启新程｜黄仁勋带火的这位水果摊主，今年春节怎么过？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610419",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时51分]"
-        },
-        {
-          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
-          "url": "https://www.zhihu.com/question/2004209286281205228",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 23时38分]"
-        },
-        {
-          "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
-          "url": "https://flash.jin10.com/detail/20260216045621525800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时39分]"
-        },
-        {
-          "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
-          "url": "https://flash.jin10.com/detail/20260216042956745800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时42分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
-          "url": "https://flash.jin10.com/detail/20260216153347079800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时42分]"
-        },
-        {
-          "title": "Anthropic：印度团队将为企业客户、数字原生企业和初创公司提供应用人工智能专业知识。",
-          "url": "https://flash.jin10.com/detail/20260216161247146800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时50分]"
-        },
-        {
-          "title": "市场消息：Anthropic在班加罗尔开设办事处，并宣布在印度各地建立新的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260216161228324800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时50分]"
-        },
-        {
-          "title": "五角大楼威胁要对Anthropic进行惩罚",
-          "url": "https://flash.jin10.com/detail/20260216205718984800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思接近决定将Anthropic公司列为“供应链风险”。",
-          "url": "https://flash.jin10.com/detail/20260216205022419800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思接近切断国防部与Anthropic的关系。",
-          "url": "https://flash.jin10.com/detail/20260216204941281800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -216,128 +36,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "00时39分"
         },
         {
-          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3055750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "报道：美国国防部接近与Anthropic切断关系，双方就AI军事用途存分歧",
-          "url": "https://wallstreetcn.com/livenews/3055750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
-          "url": "https://www.zhihu.com/question/2005295793721081957",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            9,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时51分]"
-        },
-        {
-          "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
-          "url": "https://wallstreetcn.com/livenews/3055607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
-        },
-        {
-          "title": "蔚来换电单日总量创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3055663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
-        },
-        {
-          "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
-          "url": "https://flash.jin10.com/detail/20260216062745335800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美媒称东风-27开启“洲际反舰时代”",
-          "url": "https://www.toutiao.com/trending/7607356205052218934/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时50分]"
-        },
-        {
-          "title": "上汽集团与JSW集团在印度的合资企业JSW MG汽车公司计划投资3.3亿至4.4亿美元，投资旨在扩大工厂产量，并推出包括混合动力和电动车型在内的新车型。",
-          "url": "https://flash.jin10.com/detail/20260216113145882800",
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "00时39分"
         }
       ]
     }
