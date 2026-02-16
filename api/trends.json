@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:56:09.537584+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-02-16T22:05:05.874391+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 20时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 22时05分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -117,6 +117,17 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 22时05分]"
+        },
+        {
           "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
           "url": "https://flash.jin10.com/detail/20260216153508680800",
           "source": "金十数据",
@@ -165,15 +176,37 @@
           "time_info": "[16时42分 ~ 17时50分]"
         },
         {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
+          "title": "五角大楼威胁要对Anthropic进行惩罚",
+          "url": "https://flash.jin10.com/detail/20260216205718984800",
+          "source": "金十数据",
           "ranks": [
-            6
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思接近决定将Anthropic公司列为“供应链风险”。",
+          "url": "https://flash.jin10.com/detail/20260216205022419800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思接近切断国防部与Anthropic的关系。",
+          "url": "https://flash.jin10.com/detail/20260216204941281800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -185,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
