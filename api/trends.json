@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T03:31:26.326537+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-17T04:26:48.642811+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时26分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时26分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时26分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
