@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:57:30.355841+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-17T14:55:53.616743+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 14时55分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -29,11 +29,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 14时55分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -159,7 +160,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
