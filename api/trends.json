@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T12:17:29.690446+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-02-17T13:57:30.355841+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -138,6 +138,34 @@
       ]
     },
     {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
+          "url": "https://flash.jin10.com/detail/20260217042020472800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 05时27分]"
+        },
+        {
+          "title": "长安汽车董事长：智能汽车正在学会“思考”",
+          "url": "https://flash.jin10.com/detail/20260217125426443800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 1,
       "titles": [
@@ -151,23 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
-          "url": "https://flash.jin10.com/detail/20260217042020472800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时27分]"
         }
       ]
     }
