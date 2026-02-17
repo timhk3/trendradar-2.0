@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:42:13.873336+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-17T17:44:27.756081+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 16时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 17时44分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 16时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 17时44分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -127,6 +127,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "OpenAI：系统已恢复全面运作。",
           "url": "https://flash.jin10.com/detail/20260217052259501800",
           "source": "金十数据",
@@ -141,7 +152,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
@@ -155,6 +166,17 @@
           "time_info": "[05时26分 ~ 05时27分]"
         },
         {
+          "title": "俄罗斯联邦通信、信息技术和大众传媒监管局（Roskomnadzor）对此前公布的有关Telegram被封禁的信息没有补充说明。",
+          "url": "https://flash.jin10.com/detail/20260217170803365800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "长安汽车董事长：智能汽车正在学会“思考”",
           "url": "https://flash.jin10.com/detail/20260217125426443800",
           "source": "金十数据",
@@ -164,13 +186,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "瑞银集团：将梅赛德斯目标价从63欧元下调至58欧元。",
+          "url": "https://flash.jin10.com/detail/20260217165931054800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
+          "url": "https://flash.jin10.com/detail/20260217172514312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
           "url": "https://www.zhihu.com/question/2005295793721081957",
