@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T15:06:29.781046+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-02-18T16:41:32.614903+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 16时41分]"
         },
         {
           "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
@@ -106,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 16时41分]"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
