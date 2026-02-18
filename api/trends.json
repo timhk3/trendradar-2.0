@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T01:55:11.868635+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-19T02:49:08.505804+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：Gemini应用现已搭载最先进音乐生成模型Lyria 3。",
@@ -43,6 +43,17 @@
           "time_info": "[01时00分 ~ 01时55分]"
         },
         {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "谷歌公司增添音乐生成功能到Gemini APP。",
           "url": "https://wallstreetcn.com/livenews/3056395",
           "source": "华尔街见闻-快讯",
@@ -65,22 +76,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时49分]"
         },
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
           "url": "https://wallstreetcn.com/articles/3765831",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时49分]"
         }
       ]
     }
