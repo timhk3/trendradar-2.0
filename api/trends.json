@@ -1,12 +1,110 @@
 {
-  "generated_at": "2026-02-18T09:53:20.305795+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-02-18T12:20:25.659230+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)宣布，首辆Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://flash.jin10.com/detail/20260218092159880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
+          "url": "https://flash.jin10.com/detail/20260218021059743800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时45分]"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 12时20分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时29分]"
+        },
+        {
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 6,
       "titles": [
+        {
+          "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
+          "url": "https://wallstreetcn.com/articles/3765816",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 12时20分]"
+        },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
           "url": "https://flash.jin10.com/detail/20260218021512170800",
@@ -44,17 +142,6 @@
           "time_info": "[03时45分 ~ 04时34分]"
         },
         {
-          "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
-          "url": "https://wallstreetcn.com/articles/3765816",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
           "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
           "url": "https://wallstreetcn.com/livenews/3056082",
           "source": "华尔街见闻-快讯",
@@ -75,69 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
-          "url": "https://wallstreetcn.com/livenews/3056196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)宣布，首辆Cybercab在美国得州超级工厂正式下线。",
-          "url": "https://flash.jin10.com/detail/20260218092159880800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
-          "url": "https://flash.jin10.com/detail/20260218021059743800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时45分]"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
-          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
-          "url": "https://wallstreetcn.com/livenews/3056193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         }
       ]
     },
