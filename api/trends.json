@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-02-18T13:59:37.192953+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-02-18T15:06:29.781046+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 7,
       "titles": [
+        {
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 15时06分]"
+        },
+        {
+          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 15时06分]"
+        },
         {
           "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
           "url": "https://wallstreetcn.com/livenews/3056196",
@@ -30,17 +55,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
-          "url": "https://wallstreetcn.com/articles/3765831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时59分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
           "url": "https://flash.jin10.com/detail/20260218021059743800",
           "source": "金十数据",
@@ -51,18 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时45分]"
-        },
-        {
-          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
-          "url": "https://wallstreetcn.com/livenews/3056196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时59分]"
         },
         {
           "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
@@ -104,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时06分]"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
