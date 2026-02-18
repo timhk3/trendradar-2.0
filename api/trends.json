@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:45:52.078851+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-19T04:36:28.552734+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 04时36分]"
         },
         {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时36分]"
         },
         {
           "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
