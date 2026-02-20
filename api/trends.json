@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T03:36:01.885452+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-02-21T04:27:43.221347+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时27分]"
         },
         {
           "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时27分]"
         },
         {
           "title": "Anthropic：现已推出有限研究预览版的CLAUDE CODE安全功能，这是一项内置于网页版CLAUDE CODE中的全新能力。",
@@ -66,11 +66,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时27分]"
         },
         {
           "title": "据科技媒体TechCrunch：Lucid Group(LCID.O)削减12%员工以寻求盈利。",
@@ -97,11 +98,12 @@
           "ranks": [
             8,
             5,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时27分]"
         },
         {
           "title": "美军福特号航母已经进入地中海。（CNN）",
