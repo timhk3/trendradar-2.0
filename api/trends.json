@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:51:44.746817+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-02-20T22:00:08.870021+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“这很难，但我相信你们”！黄仁勋上周宴请SK海力士工程师，亲自敬酒，敦促“无延迟交付HBM4”",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 20时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时48分 ~ 22时00分]"
         },
         {
           "title": "黄仁勋预告“前所未见”的芯片新品，下一代Feynman架构或成焦点",
@@ -134,7 +134,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -163,13 +163,24 @@
           "time_info": "[03时38分 ~ 04时29分]"
         },
         {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
           "url": "https://flash.jin10.com/detail/20260220200907201800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -179,6 +190,18 @@
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 4,
       "titles": [
+        {
+          "title": "沃尔沃总裁亲测XC70",
+          "url": "https://www.toutiao.com/trending/7608869879479435300/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时00分]"
+        },
         {
           "title": "五年了沃尔沃总裁怎么还在玩命",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B9%B4%E4%BA%86%E6%B2%83%E5%B0%94%E6%B2%83%E6%80%BB%E8%A3%81%E6%80%8E%E4%B9%88%E8%BF%98%E5%9C%A8%E7%8E%A9%E5%91%BD%23&t=31&band_rank=19&Refer=top",
@@ -190,18 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时51分 ~ 14时52分]"
-        },
-        {
-          "title": "沃尔沃总裁亲测XC70",
-          "url": "https://www.toutiao.com/trending/7608869879479435300/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 20时51分]"
         },
         {
           "title": "沃尔沃XC70绝望冰壶挑战",
@@ -241,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 22时00分]"
         },
         {
           "title": "美国纽约州撤回自动驾驶出租车计划，Waymo扩张进程受挫",
