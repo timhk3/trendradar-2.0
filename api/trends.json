@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-21T02:41:38.453477+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-21T03:36:01.885452+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时36分]"
+        },
         {
           "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
           "url": "https://www.cls.cn/detail/2291708",
@@ -15,21 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时41分]"
-        },
-        {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时36分]"
         },
         {
           "title": "Anthropic：现已推出有限研究预览版的CLAUDE CODE安全功能，这是一项内置于网页版CLAUDE CODE中的全新能力。",
@@ -38,7 +39,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -68,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时36分]"
         },
         {
           "title": "据科技媒体TechCrunch：Lucid Group(LCID.O)削减12%员工以寻求盈利。",
@@ -99,8 +100,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时36分]"
         },
         {
           "title": "美军福特号航母已经进入地中海。（CNN）",
@@ -109,7 +110,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }
