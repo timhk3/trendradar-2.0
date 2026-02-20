@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T12:13:55.104240+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-02-20T13:52:09.207345+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 12时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时52分]"
         },
         {
           "title": "黄仁勋预告“前所未见”的芯片新品，下一代Feynman架构或成焦点",
@@ -41,11 +41,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 12时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时52分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -59,6 +60,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 12时13分]"
+        },
+        {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时52分]"
         },
         {
           "title": "英国政府：人工智能安全研究所的对齐项目得到包括亚马逊云服务、Anthropic等在内的国际联盟支持。",
@@ -99,17 +112,6 @@
           "time_info": "[07时28分 ~ 09时48分]"
         },
         {
-          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
-          "url": "https://www.zhihu.com/question/2007991688078045862",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3056832",
           "source": "华尔街见闻-快讯",
@@ -137,7 +139,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国纽约州撤回自动驾驶出租车计划，Waymo扩张进程受挫",
@@ -150,6 +152,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时45分]"
+        },
+        {
+          "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
+          "url": "https://flash.jin10.com/detail/20260220125413733800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五年了沃尔沃总裁怎么还在玩命",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B9%B4%E4%BA%86%E6%B2%83%E5%B0%94%E6%B2%83%E6%80%BB%E8%A3%81%E6%80%8E%E4%B9%88%E8%BF%98%E5%9C%A8%E7%8E%A9%E5%91%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         }
       ]
     }
