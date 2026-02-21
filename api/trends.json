@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T22:24:24.619366+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-02-21T23:22:57.108382+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 23时22分]"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -81,20 +95,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时04分 ~ 16时27分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时24分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -207,8 +207,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[05时21分 ~ 22时24分]"
+          "appearance_count": 23,
+          "time_info": "[05时21分 ~ 23时22分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -218,11 +218,12 @@
             6,
             9,
             7,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时39分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[13时39分 ~ 23时22分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -247,8 +248,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时22分]"
         },
         {
           "title": "据科技媒体TechCrunch：Lucid Group(LCID.O)削减12%员工以寻求盈利。",
@@ -299,8 +300,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 23时22分]"
         },
         {
           "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
