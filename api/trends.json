@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T15:31:27.727132+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-02-21T16:27:26.654501+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,19 @@
           "time_info": "[00时34分 ~ 09时43分]"
         },
         {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 16时27分]"
+        },
+        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
@@ -52,17 +65,19 @@
           "time_info": "[07时27分 ~ 15时31分]"
         },
         {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
           "ranks": [
-            3,
             7,
-            9
+            10,
+            16,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 16时27分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -78,20 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时27分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 15时31分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -186,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时21分 ~ 15时31分]"
+          "appearance_count": 13,
+          "time_info": "[05时21分 ~ 16时27分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -208,11 +209,12 @@
           "url": "https://www.toutiao.com/trending/7608815896018698291/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 16时27分]"
         },
         {
           "title": "据科技媒体TechCrunch：Lucid Group(LCID.O)削减12%员工以寻求盈利。",
@@ -230,7 +232,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "探访奥迪F1车队核心幕后",
@@ -249,6 +251,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 13时40分]"
+        },
+        {
+          "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260221161057186800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
+          "url": "https://wallstreetcn.com/livenews/3057170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美军福特号航母已经进入地中海。（CNN）",
