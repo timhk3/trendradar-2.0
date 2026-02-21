@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T04:21:38.809612+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-22T05:20:59.363194+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -30,11 +30,12 @@
             23,
             25,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时20分]"
         },
         {
           "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
@@ -44,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时20分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -76,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时20分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时20分]"
         }
       ]
     }
