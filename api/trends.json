@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:23:01.600800+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-02-21T19:20:15.298367+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 19时20分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -152,11 +152,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "Anthropic：现已推出有限研究预览版的CLAUDE CODE安全功能，这是一项内置于网页版CLAUDE CODE中的全新能力。",
@@ -198,8 +199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时21分 ~ 18时23分]"
+          "appearance_count": 19,
+          "time_info": "[05时21分 ~ 19时20分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -212,8 +213,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时39分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[13时39分 ~ 19时20分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -285,11 +286,12 @@
           "ranks": [
             2,
             7,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时20分]"
         },
         {
           "title": "美军福特号航母已经进入地中海。（CNN）",
