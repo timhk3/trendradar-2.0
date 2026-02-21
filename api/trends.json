@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:23:15.811382+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:30:12.247944+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2008253352463528326",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 02时30分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 02时30分]"
         },
         {
           "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
@@ -38,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -64,11 +66,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         }
       ]
     },
@@ -84,8 +87,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         }
       ]
     }
