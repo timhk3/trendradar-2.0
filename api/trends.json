@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:38:22.380391+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-02-21T15:31:27.727132+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 14时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 15时31分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -43,11 +44,25 @@
             9,
             20,
             23,
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 15时31分]"
+        },
+        {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时38分]"
+          "time_info": "[09时43分 ~ 15时31分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -65,16 +80,18 @@
           "time_info": "[07时27分 ~ 14时38分]"
         },
         {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            7
+            7,
+            10,
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 15时31分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -89,19 +106,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时23分 ~ 12时04分]"
-        },
-        {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 14时38分]"
         },
         {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
@@ -178,11 +182,12 @@
             7,
             5,
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时21分 ~ 14时38分]"
+          "appearance_count": 12,
+          "time_info": "[05时21分 ~ 15时31分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -206,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 15时31分]"
         },
         {
           "title": "据科技媒体TechCrunch：Lucid Group(LCID.O)削减12%员工以寻求盈利。",
