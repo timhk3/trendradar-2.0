@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:24:07.454441+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-02-22T23:22:04.999117+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 22时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 23时22分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -166,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 22时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 23时22分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -187,11 +187,12 @@
             17,
             24,
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 22时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 23时22分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -204,8 +205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 23时22分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
