@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:42:23.771250+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-02-22T22:24:07.454441+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 21时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 22时24分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -166,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 21时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 22时24分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -186,11 +186,26 @@
             16,
             17,
             24,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 21时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 22时24分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时34分 ~ 22时24分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -206,20 +221,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时14分 ~ 18时22分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 21时42分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
