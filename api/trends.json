@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T16:28:20.129473+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-02-22T17:27:59.838964+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 17时27分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -101,11 +101,12 @@
             8,
             5,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 17时27分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -115,11 +116,25 @@
             8,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 17时27分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 17时27分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -132,18 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时50分 ~ 15时34分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时28分]"
         }
       ]
     },
@@ -163,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 17时27分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
