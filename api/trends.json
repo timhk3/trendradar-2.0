@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T07:23:23.263915+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-23T09:51:52.320159+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时51分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时51分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时51分]"
         }
       ]
     },
