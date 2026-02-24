@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T17:48:57.502571+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-02-24T18:45:07.605305+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 17时48分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 18时45分]"
         },
         {
           "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
@@ -108,7 +108,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -315,7 +315,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美“福特”号航母抵达希腊",
@@ -335,11 +335,34 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D+%E5%AE%9D%E9%A9%AC7%E7%B3%BB%E7%BA%A6%E9%99%8D27%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时45分]"
+        },
+        {
+          "title": "东风日产开年王炸四连发",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7%E5%BC%80%E5%B9%B4%E7%8E%8B%E7%82%B8%E5%9B%9B%E8%BF%9E%E5%8F%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时48分]"
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "高速堵车遇气氛组 宝马大哥下车跳舞",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%81%87%E6%B0%94%E6%B0%9B%E7%BB%84+%E5%AE%9D%E9%A9%AC%E5%A4%A7%E5%93%A5%E4%B8%8B%E8%BD%A6%E8%B7%B3%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "美“福特”号航母抵达希腊克里特岛苏达湾",
