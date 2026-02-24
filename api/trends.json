@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T09:49:18.956342+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-02-24T12:16:32.060628+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
+        },
+        {
+          "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
+          "url": "https://wallstreetcn.com/articles/3766008",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
