@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:45:07.605305+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-02-24T19:39:05.235485+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 18时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 19时39分]"
         },
         {
           "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -336,11 +347,24 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时39分]"
+        },
+        {
+          "title": "高速堵车遇气氛组 宝马大哥下车跳舞",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%81%87%E6%B0%94%E6%B0%9B%E7%BB%84+%E5%AE%9D%E9%A9%AC%E5%A4%A7%E5%93%A5%E4%B8%8B%E8%BD%A6%E8%B7%B3%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时39分]"
         },
         {
           "title": "东风日产开年王炸四连发",
@@ -352,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "高速堵车遇气氛组 宝马大哥下车跳舞",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%81%87%E6%B0%94%E6%B0%9B%E7%BB%84+%E5%AE%9D%E9%A9%AC%E5%A4%A7%E5%93%A5%E4%B8%8B%E8%BD%A6%E8%B7%B3%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "美“福特”号航母抵达希腊克里特岛苏达湾",
