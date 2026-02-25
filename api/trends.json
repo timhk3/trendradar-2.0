@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T05:33:25.633240+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-02-26T06:30:03.119994+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,85 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时30分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对大客户们现金流的增长有信心。",
+          "url": "https://wallstreetcn.com/livenews/3059089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美国证交会文件显示：英伟达表示，我们正在敲定与OpenAI的投资与合作伙伴关系协议，但无法保证一定会与OpenAI达成协议。",
+          "url": "https://flash.jin10.com/detail/20260226054442860800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：自ChatGPT出现以来，数据中心业务增长近13倍。",
+          "url": "https://flash.jin10.com/detail/20260226053541436800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：客户正竞相投资人工智能计算，计算需求正呈指数级增长。",
+          "url": "https://flash.jin10.com/detail/20260226053517141800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "黑客利用Anthropic的Claude窃取墨西哥海量政府数据",
+          "url": "https://wallstreetcn.com/livenews/3059082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
+          "url": "https://wallstreetcn.com/livenews/3059072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
+          "url": "https://wallstreetcn.com/livenews/3059067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -54,6 +131,37 @@
       ]
     },
     {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宝马车主回应载21只鸡鸭鹅返程",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E8%BD%BD21%E5%8F%AA%E9%B8%A1%E9%B8%AD%E9%B9%85%E8%BF%94%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时30分]"
+        },
+        {
+          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
+          "url": "https://www.zhihu.com/question/2009667280913524518",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 1,
       "titles": [
@@ -64,28 +172,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宝马车主回应载21只鸡鸭鹅返程",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E8%BD%BD21%E5%8F%AA%E9%B8%A1%E9%B8%AD%E9%B9%85%E8%BF%94%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            30,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时33分]"
         }
       ]
     }
