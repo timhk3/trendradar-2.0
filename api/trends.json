@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:52:24.337759+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-02-25T18:47:02.214593+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时57分 ~ 17时52分]"
+          "appearance_count": 13,
+          "time_info": "[02时57分 ~ 18时47分]"
         },
         {
           "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 18时47分]"
         },
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -72,6 +72,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时30分 ~ 06时31分]"
+        },
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时47分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -233,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     },
@@ -264,6 +265,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时18分 ~ 17时52分]"
+        },
+        {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时47分]"
         },
         {
           "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
@@ -298,18 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时52分]"
         },
         {
           "title": "Lucid Group(LCID.O)：预计2026年的资本支出将在12亿至14亿美元之间。",
@@ -417,7 +419,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -434,22 +436,12 @@
           "ranks": [
             4,
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时52分]"
-        },
-        {
-          "title": "媒体报道称美军「福特」号航母 650 个厕所坏近九成，舰员如厕排队 40 分钟，原因是什么？",
-          "url": "https://www.zhihu.com/question/2009603279529726223",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时47分]"
         },
         {
           "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
@@ -461,8 +453,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 18时47分]"
+        },
+        {
+          "title": "媒体报道称美军「福特」号航母 650 个厕所坏近九成，舰员如厕排队 40 分钟，原因是什么？",
+          "url": "https://www.zhihu.com/question/2009603279529726223",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 07时28分]"
         },
         {
           "title": "小米法拉利保时捷纽北对决",
@@ -529,6 +532,18 @@
           "time_info": "[15时05分 ~ 15时06分]"
         },
         {
+          "title": "宝马车顶载21只鸡鸭鹅返程",
+          "url": "https://www.toutiao.com/trending/7609987529474969130/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时47分]"
+        },
+        {
           "title": "消息人士称，现代汽车集团将宣布在韩国西海岸的新万金地区（SAEMANGEUM）进行大规模投资，建设数据中心、机器人工厂等项目。",
           "url": "https://flash.jin10.com/detail/20260225093037819800",
           "source": "金十数据",
@@ -538,17 +553,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "宝马车顶载21只鸡鸭鹅返程",
-          "url": "https://www.toutiao.com/trending/7609987529474969130/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "东风导弹可覆盖日本全境",
