@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:06:00.881793+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-02-25T16:44:34.459894+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时57分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[02时57分 ~ 16时44分]"
         },
         {
           "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
@@ -50,6 +50,17 @@
           "time_info": "[01时30分 ~ 07时28分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 16时44分]"
+        },
+        {
           "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
           "url": "https://wallstreetcn.com/articles/3766008",
           "source": "华尔街见闻",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时30分 ~ 06时31分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 15时06分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -238,7 +238,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "尊界法务部：自媒体博主诋毁尊界，一审被判赔30万元",
@@ -247,11 +247,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 16时44分]"
         },
         {
           "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
@@ -332,6 +333,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
           "url": "https://flash.jin10.com/detail/20260225031303146800",
           "source": "金十数据",
@@ -401,8 +413,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 16时44分]"
         },
         {
           "title": "媒体报道称美军「福特」号航母 650 个厕所坏近九成，舰员如厕排队 40 分钟，原因是什么？",
@@ -424,8 +436,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 16时44分]"
         },
         {
           "title": "小米法拉利保时捷纽北对决",
@@ -433,11 +445,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 16时44分]"
         },
         {
           "title": "新年BBA车价大降 宝马7系约降27万",
@@ -466,6 +479,19 @@
           "time_info": "[09时51分 ~ 12时18分]"
         },
         {
+          "title": "“东风导弹可覆盖日本全境”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时44分]"
+        },
+        {
           "title": "伊拉克石油部长：伊拉克西库尔纳2号油田目前日产量为45万桶，雪佛龙公司接管该油田后，日产量有望达到75万至80万桶。",
           "url": "https://flash.jin10.com/detail/20260225143423590800",
           "source": "金十数据",
@@ -486,18 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "“东风导弹可覆盖日本全境”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时06分]"
         },
         {
           "title": "东风导弹可覆盖日本全境",
