@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:28:55.568698+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-02-25T09:52:07.665038+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
@@ -22,6 +22,20 @@
           "time_info": "[01时30分 ~ 06时31分]"
         },
         {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时57分 ~ 09时52分]"
+        },
+        {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时30分 ~ 07时28分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时57分 ~ 07时28分]"
         },
         {
           "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时28分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -139,7 +151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -206,7 +218,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -214,7 +226,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
@@ -240,13 +252,24 @@
           "time_info": "[05时23分 ~ 05时32分]"
         },
         {
+          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3058455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "Lucid Group(LCID.O)：预计2026年的资本支出将在12亿至14亿美元之间。",
           "url": "https://flash.jin10.com/detail/20260225070542666800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -268,7 +291,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -293,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3058435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "市场消息：Lucid Group(LCID.O)将削减约12%的美国员工人数，但不包括制造、物流及质量部门的时薪生产员工。",
@@ -331,7 +365,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "媒体报道称美军「福特」号航母 650 个厕所坏近九成，舰员如厕排队 40 分钟，原因是什么？",
@@ -363,11 +397,34 @@
           "url": "https://www.zhihu.com/question/2009733369261466626",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时52分]"
+        },
+        {
+          "title": "宝马7系降价约27万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC7%E7%B3%BB%E9%99%8D%E4%BB%B7%E7%BA%A627%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "消息人士称，现代汽车集团将宣布在韩国西海岸的新万金地区（SAEMANGEUM）进行大规模投资，建设数据中心、机器人工厂等项目。",
+          "url": "https://flash.jin10.com/detail/20260225093037819800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 09时52分]"
         }
       ]
     }
