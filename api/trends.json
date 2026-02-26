@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T04:34:19.334895+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-02-27T05:31:09.903367+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "美国五角大楼发言人Parnell：国防部对Anthropic的要求是简单的，也是有共识的。",
@@ -41,6 +41,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时42分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达是美光科技的最大客户。",
+          "url": "https://flash.jin10.com/detail/20260227045157616800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 05时31分]"
+        },
+        {
+          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
+          "url": "https://wallstreetcn.com/livenews/3059758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
@@ -90,7 +112,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -101,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时31分]"
         },
         {
           "title": "特斯拉与德国工会达成庭外和解协议。",
@@ -115,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3059763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "市场消息：特斯拉(TSLA.O)与德国工会达成庭外和解协议。",
@@ -131,7 +164,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广汽集团成立机器人公司",
@@ -144,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时47分]"
+        },
+        {
+          "title": "奔驰宝马高管围观宇树机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E9%AB%98%E7%AE%A1%E5%9B%B4%E8%A7%82%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
