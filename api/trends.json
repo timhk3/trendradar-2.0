@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:51:18.625326+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-26T16:43:04.742908+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 16时43分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -37,11 +38,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时43分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -54,8 +56,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时43分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 16时43分]"
         },
         {
           "title": "英伟达CEO黄仁勋谈及“太空数据中心”，称：当前的太空数据中心经济还是“贫瘠的”，但形势将随着时间的推移而变化。",
@@ -93,18 +108,6 @@
           "time_info": "[06时30分 ~ 07时26分]"
         },
         {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时51分]"
-        },
-        {
           "title": "美国证交会文件显示：英伟达表示，我们正在敲定与OpenAI的投资与合作伙伴关系协议，但无法保证一定会与OpenAI达成协议。",
           "url": "https://flash.jin10.com/detail/20260226054442860800",
           "source": "金十数据",
@@ -114,6 +117,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "如何看待 Anthropic 用 AI 改写代码致 IBM 大跌？将对软件外包和咨询行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009576994401118046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "英伟达(NVDA.O)：自ChatGPT出现以来，数据中心业务增长近13倍。",
@@ -319,11 +333,12 @@
             6,
             10,
             9,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时43分]"
         },
         {
           "title": "宝马车主回应载21只鸡鸭鹅返程",
@@ -390,7 +405,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
@@ -441,7 +456,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
