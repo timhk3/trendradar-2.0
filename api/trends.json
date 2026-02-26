@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:42:27.262160+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-02-27T04:34:19.334895+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时34分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时34分]"
         },
         {
           "title": "美国五角大楼发言人Parnell：国防部对Anthropic的要求是简单的，也是有共识的。",
@@ -49,7 +49,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -101,8 +101,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时34分]"
         },
         {
           "title": "特斯拉与德国工会达成庭外和解协议。",
