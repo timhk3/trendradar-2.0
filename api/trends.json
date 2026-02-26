@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:11:06.164749+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2026-02-26T23:52:04.007871+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 22时11分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 23时52分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 22时11分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 23时52分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时26分]"
+        },
+        {
+          "title": "黑石集团BXPE基金持有Anthropic、SpaceX、以及Jersey Mike’s。",
+          "url": "https://wallstreetcn.com/livenews/3059664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "黑客利用Anthropic的Claude窃取墨西哥海量政府数据",
@@ -241,6 +252,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "报道：五角大楼已就使用Anthropic人工智能技术发出最终报价",
+          "url": "https://wallstreetcn.com/livenews/3059645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：公司将利用来自Groq的新技术来扩展其产品线。",
           "url": "https://flash.jin10.com/detail/20260226062616962800",
           "source": "金十数据",
@@ -296,6 +318,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
           "url": "https://wallstreetcn.com/livenews/3059270",
           "source": "华尔街见闻-快讯",
@@ -310,7 +343,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "福特号厕所传言是真的吗",
@@ -392,6 +425,17 @@
           "time_info": "[22时10分 ~ 22时11分]"
         },
         {
+          "title": "长安马自达车主高速救一家四口获奖励",
+          "url": "https://www.toutiao.com/trending/7611074527459901446/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
           "title": "在米兰上市的Stellantis股票在上涨4.97%后自动暂停交易。",
           "url": "https://flash.jin10.com/detail/20260226213931487800",
           "source": "金十数据",
@@ -464,9 +508,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
+        },
+        {
+          "title": "福特公司因软件问题在美国召回430万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3059628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "自动驾驶技术公司Momenta与梅赛德斯-奔驰将深化合作。（彭博）",
@@ -475,7 +530,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         }
@@ -483,7 +538,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -495,8 +550,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 22时11分]"
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时52分]"
         },
         {
           "title": "被小米起诉的自媒体实控人是蔚来李斌？知情人士辟谣：2020年就已转让相关股份，无任何关联",
@@ -540,7 +595,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -576,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌超2%。 热门中概股贝壳跌6%，百度、理想跌4.6%，万国数据跌4.2%，小鹏、再鼎医药、B站跌超3%，新东方、阿里巴巴跌超2%，京东、网易、百胜中国、拼多多至少跌约1%。 亚朵涨0.29%，唯品会涨0.68%，华住涨1.22%，小马智行涨2.62%，逸仙电商涨4.33%。",
+          "url": "https://wallstreetcn.com/livenews/3059639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "蔚来芯片子公司获超22亿首轮融资，投后估值近百亿",
