@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:34:57.319040+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-02-27T19:31:25.622015+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             5,
             26,
             13,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -254,6 +255,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "车价大跳水：宝马降30万 雅阁降10万",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%9A%E5%AE%9D%E9%A9%AC%E9%99%8D30%E4%B8%87+%E9%9B%85%E9%98%81%E9%99%8D10%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时31分]"
+        },
+        {
           "title": "奔驰宝马奥迪集体降价 销售员回应",
           "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7+%E9%94%80%E5%94%AE%E5%91%98%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -267,16 +281,16 @@
           "time_info": "[09时46分 ~ 13时50分]"
         },
         {
-          "title": "车价大跳水：宝马降30万 雅阁降10万",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%9A%E5%AE%9D%E9%A9%AC%E9%99%8D30%E4%B8%87+%E9%9B%85%E9%98%81%E9%99%8D10%E4%B8%87",
-          "source": "百度热搜",
+          "title": "福特号是神器还是摆设",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E7%89%B9%E5%8F%B7%E6%98%AF%E7%A5%9E%E5%99%A8%E8%BF%98%E6%98%AF%E6%91%86%E8%AE%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
+            7,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
@@ -301,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时47分]"
-        },
-        {
-          "title": "福特号是神器还是摆设",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E7%89%B9%E5%8F%B7%E6%98%AF%E7%A5%9E%E5%99%A8%E8%BF%98%E6%98%AF%E6%91%86%E8%AE%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "美“福特”号航母抵达以色列水域",
