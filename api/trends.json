@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:37:49.637231+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-02-27T17:38:15.959214+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             20,
             5,
-            26
+            26,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 17时38分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -248,93 +249,8 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
-          "url": "https://www.cls.cn/detail/2296081",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时26分]"
-        },
-        {
-          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3059902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "特斯拉与德国工会达成庭外和解协议。",
-          "url": "https://wallstreetcn.com/livenews/3059678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时56分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3059763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3059763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "恒生科技指数盘中再次转跌，此前一度涨0.9%。华虹半导体、蔚来跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3059941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "市场消息：特斯拉(TSLA.O)与德国工会达成庭外和解协议。",
-          "url": "https://flash.jin10.com/detail/20260226235703657800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "奔驰宝马奥迪集体降价 销售员回应",
@@ -348,6 +264,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 13时50分]"
+        },
+        {
+          "title": "车价大跳水：宝马降30万 雅阁降10万",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%9A%E5%AE%9D%E9%A9%AC%E9%99%8D30%E4%B8%87+%E9%9B%85%E9%98%81%E9%99%8D10%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
@@ -372,6 +299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时47分]"
+        },
+        {
+          "title": "美“福特”号航母抵达以色列水域",
+          "url": "https://wallstreetcn.com/livenews/3060150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
@@ -416,6 +354,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
+          "url": "https://www.cls.cn/detail/2296081",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时26分]"
+        },
+        {
+          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
+          "url": "https://wallstreetcn.com/livenews/3059902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特斯拉与德国工会达成庭外和解协议。",
+          "url": "https://wallstreetcn.com/livenews/3059678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
+          "url": "https://wallstreetcn.com/livenews/3060163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3059763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3059763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "恒生科技指数盘中再次转跌，此前一度涨0.9%。华虹半导体、蔚来跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3059941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "市场消息：特斯拉(TSLA.O)与德国工会达成庭外和解协议。",
+          "url": "https://flash.jin10.com/detail/20260226235703657800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
