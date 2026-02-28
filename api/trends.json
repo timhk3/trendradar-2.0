@@ -1,53 +1,11 @@
 {
-  "generated_at": "2026-03-01T03:19:36.182686+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-01T04:22:10.024625+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时19分]"
-        },
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -72,6 +30,60 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "新一代奥迪A6L实车到店",
+          "url": "https://www.toutiao.com/trending/7611860010972286515/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时22分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17,
+            20,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时22分]"
+        },
+        {
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时28分]"
         }
       ]
     }
