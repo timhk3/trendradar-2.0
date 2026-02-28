@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:20:28.182454+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-02-28T19:17:10.896809+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时27分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[05时27分 ~ 19时17分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -69,11 +69,12 @@
             16,
             15,
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时17分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -83,11 +84,12 @@
             8,
             16,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 19时17分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -356,6 +358,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美国众议院民主党议员Ro Khanna：拒绝五角大楼的要求“对Anthropic有利”。",
           "url": "https://flash.jin10.com/detail/20260228032810621800",
           "source": "金十数据",
@@ -548,7 +561,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -604,8 +617,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 19时17分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
