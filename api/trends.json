@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:33:57.541527+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-28T15:24:41.374959+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[01时32分 ~ 15时24分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -45,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时27分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[05时27分 ~ 15时24分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -269,6 +270,18 @@
           "time_info": "[11时52分 ~ 12时53分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时24分]"
+        },
+        {
           "title": "Anthropic公司将把美国国防部告上法庭",
           "url": "https://flash.jin10.com/detail/20260228105500085800",
           "source": "金十数据",
@@ -305,15 +318,16 @@
           "time_info": "[00时37分 ~ 01时32分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
           "ranks": [
-            8
+            16,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时24分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -322,7 +336,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -366,7 +380,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -391,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "美国五角大楼宣布Anthropic构成供应链风险。 国防部长海格塞斯称，任何承包商不得与该公司从事活动。",
@@ -456,11 +459,12 @@
             13,
             19,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 14时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "车价大跳水：宝马降30万 雅阁降10万",
@@ -511,11 +515,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时24分]"
         },
         {
           "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
@@ -575,11 +580,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 15时24分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
