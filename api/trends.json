@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:21:52.246141+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-03-01T19:18:22.016433+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             9,
             8,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -254,7 +255,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "极氪2月同比增长70%",
@@ -296,6 +297,19 @@
           "time_info": "[16时27分 ~ 18时21分]"
         },
         {
+          "title": "特斯拉：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
+          "url": "https://wallstreetcn.com/livenews/3061108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时18分]"
+        },
+        {
           "title": "理想汽车：2026年2月交付26,421辆汽车。",
           "url": "https://wallstreetcn.com/livenews/3061048",
           "source": "华尔街见闻-快讯",
@@ -307,18 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时21分 ~ 14时42分]"
-        },
-        {
-          "title": "特斯拉：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
-          "url": "https://wallstreetcn.com/livenews/3061108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时21分]"
         },
         {
           "title": "零跑汽车：2月交付量为28067台。",
@@ -355,6 +357,17 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "蔚来汽车2月份交付20,797辆汽车，同比增长57.6%。 2026年迄今交付47,979辆，同比增长77.3%。 截至2026年2月28日，本公司累计交付量达1,045,571辆。",
+          "url": "https://wallstreetcn.com/livenews/3061132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "小鹏汽车(09868.HK)：2月交付15,256辆汽车。",
           "url": "https://flash.jin10.com/detail/20260301144537594800",
           "source": "金十数据",
@@ -380,7 +393,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "奥迪车误入炮龙节现场被鞭炮包围",
@@ -398,6 +411,19 @@
           "time_info": "[14时41分 ~ 18时21分]"
         },
         {
+          "title": "上汽集团：2月整车合计销量269,465辆，同比下降8.64%；其中新能源汽车71,340辆，同比下降17.18%。",
+          "url": "https://wallstreetcn.com/livenews/3061119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时18分]"
+        },
+        {
           "title": "长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。",
           "url": "https://wallstreetcn.com/livenews/3061092",
           "source": "华尔街见闻-快讯",
@@ -411,18 +437,6 @@
           "time_info": "[16时27分 ~ 18时21分]"
         },
         {
-          "title": "上汽集团：2月整车合计销量269,465辆，同比下降8.64%；其中新能源汽车71,340辆，同比下降17.18%。",
-          "url": "https://wallstreetcn.com/livenews/3061119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时21分]"
-        },
-        {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
           "url": "https://wallstreetcn.com/livenews/3060936",
           "source": "华尔街见闻-快讯",
@@ -434,6 +448,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 03时19分]"
+        },
+        {
+          "title": "消息人士称，八个欧佩克+国家已就将石油日产量提高20.6万桶达成原则性协议。",
+          "url": "https://flash.jin10.com/detail/20260301184248225800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "长城汽车2月海外销售42,675台，1-2月累计销售82,953台。 2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "两位接近欧佩克+的消息人士表示，欧佩克+正考虑将石油日产量上调多达41.1万桶。",
@@ -468,6 +504,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        },
+        {
+          "title": "消息人士称，欧佩克+正在讨论将石油日产量上调20.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260301184004909800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "吉利汽车2月汽车销量206160辆。 2月纯电动汽车销量67832辆。 2月插电式混动汽车销量49656辆。",
+          "url": "https://wallstreetcn.com/livenews/3061129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
