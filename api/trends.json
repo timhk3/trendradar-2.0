@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T03:20:52.390159+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-03-02T04:22:44.282971+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时22分]"
         },
         {
           "title": "迪拜家长安抚孩子外面是烟花",
@@ -44,11 +44,12 @@
           "ranks": [
             14,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 04时22分]"
         }
       ]
     },
@@ -66,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时22分]"
         }
       ]
     }
