@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:38:05.524394+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-03-01T22:21:57.620018+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 21时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 22时21分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
