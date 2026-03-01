@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T00:23:22.397571+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-02T01:20:19.836810+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,41 @@
           "url": "https://www.toutiao.com/trending/7611722125195444267/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时20分]"
         },
         {
           "title": "迪拜家长安抚孩子外面是烟花",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E6%8B%9C%E5%AE%B6%E9%95%BF%E5%AE%89%E6%8A%9A%E5%AD%A9%E5%AD%90%E5%A4%96%E9%9D%A2%E6%98%AF%E7%83%9F%E8%8A%B1%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
+          "url": "https://www.zhihu.com/question/2011543329251279945",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时20分"
         }
       ]
     },
@@ -40,11 +59,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时20分]"
         }
       ]
     }
