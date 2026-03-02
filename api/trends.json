@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:41:03.793654+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-03-02T19:31:48.337324+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 19时31分]"
         },
         {
           "title": "车企 2 月销量公布，零跑、理想、极氪等交付均超 2 万，上汽销量下滑 8.64%，如何看各家表现？",
@@ -42,11 +42,12 @@
           "ranks": [
             15,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 19时31分]"
         },
         {
           "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
@@ -58,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时31分]"
         },
         {
           "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
@@ -176,11 +177,12 @@
           "url": "https://www.toutiao.com/trending/7611405987102441523/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时31分]"
         },
         {
           "title": "吉利汽车2月销量20.6万辆",
@@ -201,7 +203,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -277,11 +279,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时31分]"
         }
       ]
     }
