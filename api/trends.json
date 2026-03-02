@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T06:24:48.506036+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-03-03T07:23:05.059557+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -100,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时23分]"
         },
         {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
