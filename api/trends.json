@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T15:47:42.392168+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-03-02T16:40:14.694072+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -16,11 +16,12 @@
             8,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 15时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 16时40分]"
         },
         {
           "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
@@ -28,11 +29,36 @@
           "source": "财联社热门",
           "ranks": [
             11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 16时40分]"
+        },
+        {
+          "title": "比亚迪：将召开颠覆性技术发布会",
+          "url": "https://www.toutiao.com/trending/7611797117036920873/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 16时40分]"
+        },
+        {
+          "title": "车企 2 月销量公布，零跑、理想、极氪等交付均超 2 万，上汽销量下滑 8.64%，如何看各家表现？",
+          "url": "https://www.zhihu.com/question/2011538375266555369",
+          "source": "知乎",
+          "ranks": [
+            15,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时47分]"
+          "time_info": "[15时47分 ~ 16时40分]"
         },
         {
           "title": "2026款小鹏X9纯电版上市，官方指导价30.98万元",
@@ -41,7 +67,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -68,17 +94,6 @@
           "time_info": "12时12分"
         },
         {
-          "title": "比亚迪：将召开颠覆性技术发布会",
-          "url": "https://www.toutiao.com/trending/7611797117036920873/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "小鹏第二代VLA妈妈都爱开的国民智驾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC%E4%BA%8C%E4%BB%A3VLA%E5%A6%88%E5%A6%88%E9%83%BD%E7%88%B1%E5%BC%80%E7%9A%84%E5%9B%BD%E6%B0%91%E6%99%BA%E9%A9%BE%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -90,15 +105,15 @@
           "time_info": "[14时53分 ~ 15时47分]"
         },
         {
-          "title": "车企 2 月销量公布，零跑、理想、极氪等交付均超 2 万，上汽销量下滑 8.64%，如何看各家表现？",
-          "url": "https://www.zhihu.com/question/2011538375266555369",
-          "source": "知乎",
+          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
+          "url": "https://www.cls.cn/detail/2299535",
+          "source": "财联社热门",
           "ranks": [
-            15
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "16时40分"
         },
         {
           "title": "比亚迪3月2日在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
@@ -146,11 +161,12 @@
           "ranks": [
             6,
             5,
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时40分]"
         },
         {
           "title": "吉利汽车2月销量20.6万辆",
