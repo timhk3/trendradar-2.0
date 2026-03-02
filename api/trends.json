@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:59:31.265697+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2026-03-02T22:45:22.358146+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[01时20分 ~ 16时40分]"
+        },
+        {
+          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
+          "url": "https://www.cls.cn/detail/2299535",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时45分]"
         },
         {
           "title": "车企 2 月销量公布，零跑、理想、极氪等交付均超 2 万，上汽销量下滑 8.64%，如何看各家表现？",
@@ -48,20 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时47分 ~ 19时31分]"
-        },
-        {
-          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
-          "url": "https://www.cls.cn/detail/2299535",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 21时59分]"
         },
         {
           "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
@@ -116,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时53分 ~ 15时47分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌2.4%。 热门中概股再鼎医药跌7.2%，文远知行跌7%，小马智行、阿特斯太阳能跌6%，金山云跌5.4%，蔚来跌2.8%，阿里巴巴跌2.6%，百度跌1.9%，拼多多跌1.6%。 ETF中，CQQQ跌2.55%，KWEB跌2.40%，ASHS跌0.33%，ASHR跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3061998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "比亚迪3月2日在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
@@ -272,7 +283,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
@@ -307,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 22时45分]"
         },
         {
           "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
