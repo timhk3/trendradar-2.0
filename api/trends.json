@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T20:49:48.902803+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-03-02T21:59:31.265697+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 21时59分]"
         },
         {
           "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "小鹏汽车发布第二代VLA，何小鹏：完全自动驾驶将在1至3年内到来",
+          "url": "https://wallstreetcn.com/livenews/3061968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "小鹏第二代VLA妈妈都爱开的国民智驾",
@@ -157,7 +168,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "百年奔驰正遭遇最艰难凛冬",
@@ -253,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "广汽埃安加速C端转型，埃安i60增程版10.28万上市",
+          "url": "https://wallstreetcn.com/livenews/3061943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
@@ -285,8 +307,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 21时59分]"
         },
         {
           "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
@@ -295,7 +317,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -306,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
