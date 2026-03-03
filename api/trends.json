@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T22:44:29.910955+08:00",
-  "total_titles_processed": 2098,
+  "generated_at": "2026-03-03T23:44:31.971485+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
@@ -83,11 +83,12 @@
           "url": "https://wallstreetcn.com/livenews/3062845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
@@ -153,7 +154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -175,7 +176,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -186,7 +187,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -227,7 +228,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -240,8 +241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时50分 ~ 22时44分]"
+          "appearance_count": 17,
+          "time_info": "[09时50分 ~ 23时44分]"
         },
         {
           "title": "比亚迪大唐官图公布",
@@ -320,6 +321,17 @@
           "time_info": "[20时46分 ~ 21时59分]"
         },
         {
+          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
+          "url": "https://wallstreetcn.com/livenews/3062868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "蔚来 ES9 技术发布会定档4月9日",
           "url": "https://wallstreetcn.com/livenews/3062822",
           "source": "华尔街见闻-快讯",
@@ -341,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
+          "url": "https://wallstreetcn.com/livenews/3062847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
@@ -379,7 +402,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "奥迪E5开年抢先优惠20.59万",
@@ -413,6 +436,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "伊拉克石油官员：伊拉克因原油储罐已满，已将迈桑油田的日产量削减32.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260303231007741800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "起亚株式会社2月汽车销量下降2.8％。",
