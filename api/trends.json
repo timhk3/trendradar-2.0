@@ -1,485 +1,50 @@
 {
-  "generated_at": "2026-03-03T23:44:31.971485+08:00",
-  "total_titles_processed": 2177,
+  "generated_at": "2026-03-04T00:42:43.106998+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 22时44分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
-          "url": "https://flash.jin10.com/detail/20260303091907467800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们一直与国防部合作，对我们的协议进行一些补充，以使我们的原则非常明确。",
-          "url": "https://flash.jin10.com/detail/20260303091855339800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时42分]"
-        },
-        {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时24分]"
-        },
-        {
-          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
-          "url": "https://wallstreetcn.com/livenews/3062084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时41分]"
-        },
-        {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时44分]"
-        },
-        {
-          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3062080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时41分]"
-        },
-        {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时24分]"
-        },
-        {
-          "title": "美国财长贝森特：财政部正在终止我们部门对Anthropic产品的所有使用，包括其Claude平台。美国人民有权相信，政府的每一个工具都服务于公众利益，而在特朗普总统任内，任何私营公司都不会主导我们的国家安全条款。",
-          "url": "https://flash.jin10.com/detail/20260302235833115800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "英伟达联合电信巨头共建6G基建，黄仁勋：电信行业是下一个重点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683281",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "Anthropic：Claude服务中断问题得到处置。",
-          "url": "https://wallstreetcn.com/livenews/3062047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
-          "url": "https://flash.jin10.com/detail/20260303222622632800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
-          "url": "https://wallstreetcn.com/livenews/3062280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
-          "url": "https://flash.jin10.com/detail/20260303222545463800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
-          "url": "https://flash.jin10.com/detail/20260303222435130800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
-          "url": "https://wallstreetcn.com/livenews/3062468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "Altman承认：在舆论抵制下，OpenAI的美国国防协议“显得投机且草率”",
-          "url": "https://wallstreetcn.com/livenews/3062825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3062254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
           "url": "https://www.zhihu.com/question/2011788981294081499",
           "source": "知乎",
           "ranks": [
-            5,
-            3,
-            1,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时50分 ~ 23时44分]"
-        },
-        {
-          "title": "比亚迪大唐官图公布",
-          "url": "https://www.toutiao.com/trending/7611790194932695094/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            15,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时37分]"
-        },
-        {
-          "title": "特斯拉为什么要坚持纯视觉路线?",
-          "url": "https://www.zhihu.com/question/662049831",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 14时45分]"
-        },
-        {
-          "title": "特斯拉为什么销量比国产电车好？",
-          "url": "https://www.zhihu.com/question/13039955778",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时46分]"
-        },
-        {
-          "title": "比亚迪即将发布的重磅技术改变了什么",
-          "url": "https://www.toutiao.com/trending/7612910418641554998/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时39分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3062148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 07时23分]"
-        },
-        {
-          "title": "曝新款仰望U8完成超千次极限爬坡测试",
-          "url": "https://www.toutiao.com/trending/7612962932376227366/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时59分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
           "url": "https://wallstreetcn.com/livenews/3062868",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "蔚来 ES9 技术发布会定档4月9日",
-          "url": "https://wallstreetcn.com/livenews/3062822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时44分]"
-        },
-        {
-          "title": "小米汽车公布车牌定制专利",
-          "url": "https://wallstreetcn.com/livenews/3062477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
-          "url": "https://wallstreetcn.com/livenews/3062847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
-          "url": "https://flash.jin10.com/detail/20260303010145393800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3062421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "比亚迪海豹08轿车预告图公布",
-          "url": "https://www.toutiao.com/trending/7612204228850942006/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "奥迪E5开年抢先优惠20.59万",
-          "url": "https://www.toutiao.com/trending/7612202051032514566/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时39分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.12%，恒生科技指数收跌2.26%，油气股、航运股逆势上涨，大众公用涨近62%，中港石油涨超48%，中远海发、山东墨龙涨超26%。",
-          "url": "https://wallstreetcn.com/livenews/3062580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "奥迪落水保险公司拒赔 车主喊冤",
-          "url": "https://www.toutiao.com/trending/7612596778474504201/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "伊拉克石油官员：伊拉克因原油储罐已满，已将迈桑油田的日产量削减32.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260303231007741800",
+          "title": "丰田汽车北美公司：2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
+          "url": "https://flash.jin10.com/detail/20260304003128995800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "起亚株式会社2月汽车销量下降2.8％。",
-          "url": "https://wallstreetcn.com/livenews/3062545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "现代汽车股价下跌11%，有望终结五连涨。",
-          "url": "https://flash.jin10.com/detail/20260303141203915800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "现代汽车2月汽车销量同比减少5.1％。",
-          "url": "https://wallstreetcn.com/livenews/3062604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时42分"
         }
       ]
     }
