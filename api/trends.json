@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-03T18:36:11.343304+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-03-03T19:31:50.434370+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 14,
       "titles": [
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时31分]"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
           "url": "https://flash.jin10.com/detail/20260303091907467800",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时42分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时36分]"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -182,8 +183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 19时31分]"
         },
         {
           "title": "比亚迪大唐官图公布",
