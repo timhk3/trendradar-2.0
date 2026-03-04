@@ -1,512 +1,89 @@
 {
-  "generated_at": "2026-03-04T23:37:33.649545+08:00",
-  "total_titles_processed": 2160,
+  "generated_at": "2026-03-05T00:39:37.268751+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "硬接导弹无碍,比亚迪这波赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            3,
-            4,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时42分 ~ 23时37分]"
-        },
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
           "url": "https://www.cls.cn/detail/2302544",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 23时37分]"
-        },
-        {
-          "title": "何小鹏的3份代表建议",
-          "url": "https://www.douyin.com/hot/2418367",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 16时35分]"
-        },
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时29分]"
-        },
-        {
-          "title": "问界M6全系售价曝光",
-          "url": "https://www.toutiao.com/trending/7612490937646579738/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 09时45分]"
-        },
-        {
-          "title": "问界M9",
-          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时38分]"
-        },
-        {
-          "title": "比亚迪宋Ultra EV官宣3月5日预售",
-          "url": "https://www.toutiao.com/trending/7612283847643856959/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时38分]"
-        },
-        {
-          "title": "尊界首搭双光路图像级激光雷达",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8C%E9%A6%96%E6%90%AD%E5%8F%8C%E5%85%89%E8%B7%AF%E5%9B%BE%E5%83%8F%E7%BA%A7%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时38分]"
-        },
-        {
-          "title": "比亚迪闯关：下一个增长点是什么",
-          "url": "https://www.toutiao.com/trending/7612819405894926345/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 16时35分]"
-        },
-        {
-          "title": "为什么说「华为旗舰技术看尊界」？尊界 S800 首发了哪些华为核心黑科技？",
-          "url": "https://www.zhihu.com/question/2012472125953450167",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时38分]"
-        },
-        {
-          "title": "尊界S800累计交付量超1.5万辆",
-          "url": "https://www.toutiao.com/trending/7612835472914595846/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
-          "url": "https://wallstreetcn.com/livenews/3063563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "00时39分"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3063005",
-          "source": "华尔街见闻-快讯",
+          "title": "硬接导弹无碍,比亚迪这波赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "00时39分"
         },
         {
-          "title": "美国银行：将特斯拉(TSLA.O)评级从“中性”上调至“买入”。",
-          "url": "https://flash.jin10.com/detail/20260304190542208800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "岚图FE或将搭载尊界同款896线四激光雷达",
-          "url": "https://wallstreetcn.com/livenews/3063532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "尊界S800/问界M9首搭896线激光雷达",
-          "url": "https://www.toutiao.com/trending/7612217860824711222/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
-          "url": "https://wallstreetcn.com/livenews/3062868",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪将发布第二代刀片电池",
+          "url": "https://www.douyin.com/hot/2418321",
+          "source": "抖音",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "比亚迪将推出下一代刀片电池吗",
-          "url": "https://www.toutiao.com/trending/7612580413470654474/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "比亚迪发布会定档3月5日晚",
-          "url": "https://www.toutiao.com/trending/7613230898393370139/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌3.34%，报6958.04点，整体持续低位窄幅震荡。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。 ETF中，XtrackersHarvest中证50（ASHS）收跌5.82%，德银嘉实沪深300指数ETF（ASHR）收跌3.05%。 中国科技指数ETF（CQQQ）收跌4.86%，中概互联网指数ETF（KWEB）收跌2.74%。",
-          "url": "https://wallstreetcn.com/livenews/3063005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "问界M9累计交付量超28万台",
-          "url": "https://wallstreetcn.com/livenews/3063417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "尊界融合感知能力断代领先",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8C%E8%9E%8D%E5%90%88%E6%84%9F%E7%9F%A5%E8%83%BD%E5%8A%9B%E6%96%AD%E4%BB%A3%E9%A2%86%E5%85%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国财长贝森特：（谈人工智能、Anthropic表示）供应商无权插入使用条款。",
-          "url": "https://flash.jin10.com/detail/20260304201936336800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
-        },
-        {
-          "title": "OpenAI的下一款AI模型将具备“极其强大的”推理。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
-          "url": "https://wallstreetcn.com/livenews/3062952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
-          "url": "https://wallstreetcn.com/livenews/3063046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
-          "url": "https://wallstreetcn.com/livenews/3062921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时43分]"
-        },
-        {
-          "title": "OpenAI正开发GitHub的替代品。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
-          "url": "https://flash.jin10.com/detail/20260304021024141800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "美国财长贝森特：非常看好今年的就业市场。 Anthropic将在数日内从财政系统中移除。",
-          "url": "https://wallstreetcn.com/livenews/3063640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
-          "url": "https://flash.jin10.com/detail/20260304020932534800",
+          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
+          "url": "https://flash.jin10.com/detail/20260305002035785800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "00时39分"
         },
         {
-          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
-          "url": "https://flash.jin10.com/detail/20260304064514298800",
+          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
+          "url": "https://flash.jin10.com/detail/20260305000849896800",
           "source": "金十数据",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3062945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "OpenAI：推出 GPT‑5.3 即时网站。",
-          "url": "https://flash.jin10.com/detail/20260304020800832800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "谷歌Gemini被新诉讼指控诱导用户自杀",
-          "url": "https://wallstreetcn.com/livenews/3063696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "OpenAI考虑为北约机密网络提供合约",
-          "url": "https://flash.jin10.com/detail/20260304092203004800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
-          "url": "https://wallstreetcn.com/livenews/3062972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "OpenAI正在考虑达成一项协议，将其AI部署在北约的所有机密网络上。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
-          "url": "https://wallstreetcn.com/livenews/3062902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "丰田汽车北美公司：2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
-          "url": "https://flash.jin10.com/detail/20260304003128995800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "广汽本田内部机构改革",
-          "url": "https://wallstreetcn.com/livenews/3063618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "长城资产班子落定：向党任职获批，魏世平任党委副书记",
-          "url": "https://wallstreetcn.com/livenews/3063662",
-          "source": "华尔街见闻-快讯",
+          "title": "利润腰斩 奔驰宝马奥迪集体换帅",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E8%85%B0%E6%96%A9+%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E9%9B%86%E4%BD%93%E6%8D%A2%E5%B8%85",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "本田将把中国制造的电动汽车进口至日本市场销售。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3063135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "00时39分"
         }
       ]
     }
