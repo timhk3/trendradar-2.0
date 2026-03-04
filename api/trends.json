@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T02:43:45.034251+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-05T03:36:54.846498+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时36分]"
         },
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时36分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 01时37分]"
+        },
+        {
+          "title": "新款尊界S800来了",
+          "url": "https://www.toutiao.com/trending/7613369666517487113/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     },
@@ -75,11 +86,12 @@
           "url": "https://wallstreetcn.com/livenews/3063822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时36分]"
         },
         {
           "title": "外媒：担忧遭军方承包商禁用 Anthropic投资人出面协调",
@@ -118,7 +130,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "保时捷Taycan",
@@ -129,8 +141,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时36分]"
         },
         {
           "title": "利润腰斩 奔驰宝马奥迪集体换帅",
@@ -138,11 +150,23 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时36分]"
+        },
+        {
+          "title": "本田拟将中国产电动汽车卖回日本",
+          "url": "https://www.toutiao.com/trending/7612296534020882468/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
