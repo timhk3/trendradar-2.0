@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T14:42:42.327346+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-03-04T15:36:59.755222+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -155,7 +155,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -168,6 +168,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 04时29分]"
+        },
+        {
+          "title": "何小鹏的3份代表建议",
+          "url": "https://www.douyin.com/hot/2418367",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时36分]"
         },
         {
           "title": "问界M6全系售价曝光",
@@ -183,16 +195,28 @@
           "time_info": "[04时29分 ~ 09时45分]"
         },
         {
-          "title": "何小鹏的3份代表建议",
-          "url": "https://www.douyin.com/hot/2418367",
-          "source": "抖音",
+          "title": "硬接导弹无碍,比亚迪这波赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
           "ranks": [
-            9,
-            10
+            30,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时42分]"
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时36分]"
+        },
+        {
+          "title": "比亚迪闯关：下一个增长点是什么",
+          "url": "https://www.toutiao.com/trending/7612819405894926345/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时36分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
@@ -228,17 +252,6 @@
           "time_info": "09时45分"
         },
         {
-          "title": "比亚迪闯关：下一个增长点是什么",
-          "url": "https://www.toutiao.com/trending/7612819405894926345/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
           "title": "比亚迪发布会定档3月5日晚",
           "url": "https://www.toutiao.com/trending/7613230898393370139/",
           "source": "今日头条",
@@ -261,15 +274,15 @@
           "time_info": "06时26分"
         },
         {
-          "title": "硬接导弹无碍,比亚迪这波赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
+          "title": "问界M9累计交付量超28万台",
+          "url": "https://wallstreetcn.com/livenews/3063417",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时36分"
         }
       ]
     },
