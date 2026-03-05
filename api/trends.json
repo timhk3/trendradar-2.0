@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T22:54:59.649100+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2026-03-05T23:48:02.095370+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
@@ -43,11 +43,35 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 22时54分]"
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时48分]"
+        },
+        {
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时48分]"
+        },
+        {
+          "title": "比亚迪公布最新技术",
+          "url": "https://www.douyin.com/hot/2420236",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时48分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -62,6 +86,42 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时48分]"
+        },
+        {
+          "title": "全新腾势Z9GT售26.98万元起",
+          "url": "https://www.toutiao.com/trending/7613648291964108850/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
+          "title": "比亚迪发布“闪充中国”战略",
+          "url": "https://www.toutiao.com/trending/7613053143803232265/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
           "url": "https://wallstreetcn.com/livenews/3063863",
           "source": "华尔街见闻-快讯",
@@ -72,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
+          "title": "比亚迪大唐首发亮相",
+          "url": "https://www.toutiao.com/trending/7612903863330652166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
@@ -85,18 +156,6 @@
           "time_info": "[01时36分 ~ 01时37分]"
         },
         {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时54分]"
-        },
-        {
           "title": "新款尊界S800来了",
           "url": "https://www.toutiao.com/trending/7613369666517487113/",
           "source": "今日头条",
@@ -106,17 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时29分]"
-        },
-        {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。",
@@ -153,16 +201,15 @@
           "time_info": "[20时53分 ~ 22时02分]"
         },
         {
-          "title": "比亚迪公布最新技术",
-          "url": "https://www.douyin.com/hot/2420236",
-          "source": "抖音",
+          "title": "比亚迪第二代刀片电池首搭10款车型",
+          "url": "https://www.toutiao.com/trending/7613157678583644211/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时54分]"
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "比亚迪全球首创闪充桩来了",
@@ -175,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时02分 ~ 22时54分]"
+        },
+        {
+          "title": "比亚迪今年年底前建成2万座闪充站",
+          "url": "https://www.toutiao.com/trending/7613522274024505398/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "何小鹏：今年是自动驾驶研发分水岭",
@@ -227,18 +285,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "全新腾势Z9GT售26.98万元起",
-          "url": "https://www.toutiao.com/trending/7613648291964108850/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -263,17 +310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "比亚迪发布“闪充中国”战略",
-          "url": "https://www.toutiao.com/trending/7613053143803232265/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
@@ -312,7 +348,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "据The Information：OpenAI正在缩减其ChatGPT结账功能的推广规模，这标志着其商业拓展策略出现突然转变。",
@@ -391,6 +427,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
