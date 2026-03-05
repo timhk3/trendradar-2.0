@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T18:36:40.595772+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-03-05T19:32:29.154299+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -166,7 +166,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
@@ -267,6 +267,17 @@
           "time_info": "[01时36分 ~ 01时37分]"
         },
         {
+          "title": "何小鹏：今年是自动驾驶研发分水岭",
+          "url": "https://www.toutiao.com/trending/7612842113167835155/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
           "url": "https://flash.jin10.com/detail/20260305124211423800",
           "source": "金十数据",
@@ -303,7 +314,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "利润腰斩 奔驰宝马奥迪集体换帅",
@@ -363,9 +374,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "日产警告称，若英国被排除在欧盟提案之外，工厂将关闭。(英国金融时报)",
+          "url": "https://wallstreetcn.com/livenews/3064434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "丰田铂智7预售权益价15.68万起",
@@ -374,7 +396,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
