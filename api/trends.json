@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T05:31:47.701936+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-06T06:28:35.602535+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         },
         {
           "title": "比亚迪第二代刀片电池首搭10款车型",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         },
         {
           "title": "比亚迪大唐首发亮相",
@@ -37,11 +37,12 @@
           "ranks": [
             15,
             6,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -51,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 06时28分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -61,11 +62,12 @@
           "ranks": [
             19,
             25,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时28分]"
         },
         {
           "title": "比亚迪今年年底前建成2万座闪充站",
