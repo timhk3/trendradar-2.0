@@ -1,227 +1,66 @@
 {
-  "generated_at": "2026-03-05T23:48:02.095370+08:00",
-  "total_titles_processed": 2136,
+  "generated_at": "2026-03-06T02:02:00.433537+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 29,
+      "match_count": 6,
       "titles": [
         {
-          "title": "硬接导弹无碍,比亚迪这波赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            18,
-            20,
-            21,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 17时40分]"
-        },
-        {
-          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
-          "url": "https://www.cls.cn/detail/2302544",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时27分]"
-        },
-        {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.toutiao.com/trending/7613732953641717267/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时53分 ~ 23时48分]"
-        },
-        {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时02分 ~ 23时48分]"
-        },
-        {
-          "title": "比亚迪公布最新技术",
-          "url": "https://www.douyin.com/hot/2420236",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时02分 ~ 23时48分]"
-        },
-        {
-          "title": "比亚迪将发布第二代刀片电池",
-          "url": "https://www.douyin.com/hot/2418321",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 07时27分]"
-        },
-        {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 23时48分]"
-        },
-        {
-          "title": "全新腾势Z9GT售26.98万元起",
-          "url": "https://www.toutiao.com/trending/7613648291964108850/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时54分 ~ 23时48分]"
-        },
-        {
-          "title": "比亚迪发布“闪充中国”战略",
-          "url": "https://www.toutiao.com/trending/7613053143803232265/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时54分 ~ 23时48分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3063863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时28分]"
-        },
-        {
-          "title": "比亚迪大唐首发亮相",
-          "url": "https://www.toutiao.com/trending/7612903863330652166/",
+          "title": "比亚迪第二代刀片电池首搭10款车型",
+          "url": "https://www.toutiao.com/trending/7613157678583644211/",
           "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
-          "url": "https://flash.jin10.com/detail/20260305012308521800",
-          "source": "金十数据",
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "新款尊界S800来了",
-          "url": "https://www.toutiao.com/trending/7613369666517487113/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时29分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3063859",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "02时02分"
         },
         {
-          "title": "特斯拉2月英国电动车新车销量同比下降45.21%至2,208辆。",
-          "url": "https://flash.jin10.com/detail/20260305012006880800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
-        },
-        {
-          "title": "比亚迪闪充零下30度12分钟充饱",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时02分]"
-        },
-        {
-          "title": "比亚迪第二代刀片电池首搭10款车型",
-          "url": "https://www.toutiao.com/trending/7613157678583644211/",
+          "title": "比亚迪大唐首发亮相",
+          "url": "https://www.toutiao.com/trending/7612903863330652166/",
           "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "比亚迪全球首创闪充桩来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.toutiao.com/trending/7613732953641717267/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时54分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
           "title": "比亚迪今年年底前建成2万座闪充站",
@@ -232,401 +71,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "何小鹏：今年是自动驾驶研发分水岭",
-          "url": "https://www.toutiao.com/trending/7612842113167835155/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "比亚迪今年2月在日本销量466辆",
-          "url": "https://www.toutiao.com/trending/7612951848903213097/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "比亚迪第二代刀片电池首搭10款车型",
-          "url": "https://wallstreetcn.com/livenews/3064483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "比亚迪计划到2026年年底建设落成2万个闪充站",
-          "url": "https://wallstreetcn.com/livenews/3064482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "腾势Z9GT充电9分钟续航超千公里",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E5%8A%BFZ9GT%E5%85%85%E7%94%B59%E5%88%86%E9%92%9F%E7%BB%AD%E8%88%AA%E8%B6%85%E5%8D%83%E5%85%AC%E9%87%8C%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
-          "url": "https://flash.jin10.com/detail/20260305124211423800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.80%，报7013.63点，脱离2025年5月1日以来最低收盘位6958.04点。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.93%，中概互联网指数ETF（KWEB）收涨0.60%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3063859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
-          "url": "https://wallstreetcn.com/livenews/3064459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "理想汽车将在今年发布一款双轮机器人",
-          "url": "https://wallstreetcn.com/livenews/3064512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "小鹏的2026没有Plan B",
-          "url": "https://www.toutiao.com/trending/7613590141747072575/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI正在缩减其ChatGPT结账功能的推广规模，这标志着其商业拓展策略出现突然转变。",
-          "url": "https://flash.jin10.com/detail/20260305093218910800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时36分]"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时46分]"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "ANTHROPIC首席执行官重返与五角大楼就人工智能交易进行谈判。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3064039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "外媒：担忧遭军方承包商禁用 Anthropic投资人出面协调",
-          "url": "https://flash.jin10.com/detail/20260305010458044800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
-        },
-        {
-          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260305041842177800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
-          "url": "https://flash.jin10.com/detail/20260305230503213800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
-          "url": "https://flash.jin10.com/detail/20260305002035785800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "谷歌DeepMind向千问团队抛橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3064303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "阿里挖角谷歌DeepMind技术大牛",
-          "url": "https://www.toutiao.com/trending/7613743881837874697/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "截至上月末，OpenAI年化收入已超过250亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3064152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
-          "url": "https://flash.jin10.com/detail/20260305000849896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "利润腰斩 奔驰宝马奥迪集体换帅",
-          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E8%85%B0%E6%96%A9+%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E9%9B%86%E4%BD%93%E6%8D%A2%E5%B8%85",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19,
-            17,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时27分]"
-        },
-        {
-          "title": "保时捷Taycan",
-          "url": "https://s.weibo.com/weibo?q=%E4%BF%9D%E6%97%B6%E6%8D%B7Taycan&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 07时27分]"
-        },
-        {
-          "title": "广汽丰田铂智7亮相，预售权益价15.68万",
-          "url": "https://wallstreetcn.com/livenews/3064399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "本田拟将中国产电动汽车卖回日本",
-          "url": "https://www.toutiao.com/trending/7612296534020882468/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "据英国《金融时报》：日产警告称，若英国被排除在欧盟提案之外，工厂将关闭。",
-          "url": "https://flash.jin10.com/detail/20260305182212053800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "日产警告称，若英国被排除在欧盟提案之外，工厂将关闭。(英国金融时报)",
-          "url": "https://wallstreetcn.com/livenews/3064434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "丰田铂智7预售权益价15.68万起",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B0%E7%94%B0%E9%93%82%E6%99%BA7%E9%A2%84%E5%94%AE%E6%9D%83%E7%9B%8A%E4%BB%B715.68%E4%B8%87%E8%B5%B7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "本田汽车：将于日本开始销售两款美国生产的车型。",
-          "url": "https://flash.jin10.com/detail/20260305113846414800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     }
