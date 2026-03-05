@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:45:49.340588+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-03-05T14:46:04.740632+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时46分]"
+        },
+        {
           "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。",
           "url": "https://wallstreetcn.com/livenews/3063886",
           "source": "华尔街见闻-快讯",
@@ -51,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时45分]"
         },
         {
           "title": "外媒：担忧遭军方承包商禁用 Anthropic投资人出面协调",
@@ -165,11 +165,12 @@
             9,
             10,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时46分]"
         },
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -258,7 +259,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
