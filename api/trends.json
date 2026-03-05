@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T15:40:37.812695+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-03-05T16:37:31.992757+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -136,7 +136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -178,11 +178,12 @@
             18,
             20,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时37分]"
         },
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -293,7 +294,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
