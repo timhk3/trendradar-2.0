@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:32:20.162041+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T19:26:25.803677+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 19时26分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -43,8 +43,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 19时26分]"
+        },
+        {
+          "title": "燃油时代落幕?比亚迪闪充炸场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351451&amp;topic_name=%E7%87%83%E6%B2%B9%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%3F%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%82%B8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            17,
+            19,
+            20,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 19时26分]"
         },
         {
           "title": "比亚迪大唐首发亮相",
@@ -61,22 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 09时50分]"
-        },
-        {
-          "title": "燃油时代落幕?比亚迪闪充炸场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351451&amp;topic_name=%E7%87%83%E6%B2%B9%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%3F%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%82%B8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            17,
-            19,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 18时32分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -196,6 +197,17 @@
           "time_info": "[13时42分 ~ 13时43分]"
         },
         {
+          "title": "比亚迪发布第二代刀片电池及闪充",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%97%AA%E5%85%85",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "小鹏G6超级增程正式上市，起售价18.68万元",
           "url": "https://wallstreetcn.com/livenews/3065093",
           "source": "华尔街见闻-快讯",
@@ -210,7 +222,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -219,11 +231,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 19时26分]"
         },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -236,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 19时26分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -353,6 +366,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "Anthropic携手Mozilla提升火狐浏览器安全性。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3065187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3064859",
           "source": "华尔街见闻-快讯",
@@ -377,11 +401,12 @@
             1,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 19时26分]"
         },
         {
           "title": "花旗：将梅赛德斯-奔驰目标价从58欧元上调至60欧元。",
