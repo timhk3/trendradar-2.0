@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T00:36:48.482597+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-07T01:33:41.670727+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         },
         {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
           "url": "https://www.toutiao.com/trending/7614075570460036649/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         },
         {
           "title": "燃油时代落幕?比亚迪闪充炸场",
@@ -51,22 +52,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%B0%B1%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E%E6%B5%B7%E6%8A%A5%E9%81%93%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         }
       ]
     },
@@ -79,22 +82,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         }
       ]
     }
