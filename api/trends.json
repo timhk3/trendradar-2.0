@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T21:53:56.551232+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-03-06T22:35:45.741829+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 22时35分]"
         },
         {
           "title": "燃油时代落幕?比亚迪闪充炸场",
@@ -34,8 +34,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 21时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时07分 ~ 22时35分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
@@ -163,6 +163,18 @@
           "time_info": "[02时01分 ~ 09时50分]"
         },
         {
+          "title": "充电焦虑可能要被比亚迪彻底解决了",
+          "url": "https://www.toutiao.com/trending/7614075570460036649/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时35分]"
+        },
+        {
           "title": "比亚迪发布第二代刀片电池及闪充",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%97%AA%E5%85%85",
           "source": "百度热搜",
@@ -184,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
-          "title": "充电焦虑可能要被比亚迪彻底解决了",
-          "url": "https://www.toutiao.com/trending/7614075570460036649/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时53分]"
         },
         {
           "title": "小鹏G6超级增程六项全能一步到位",
@@ -227,7 +227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -241,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "比亚迪兆瓦闪充2.0体验",
+          "url": "https://www.toutiao.com/trending/7613674115765174313/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -259,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 21时53分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 22时35分]"
         },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -271,11 +282,12 @@
             10,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时37分 ~ 21时53分]"
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 22时35分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -416,7 +428,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高仿甜甜圈开上路虎,本尊输麻",
@@ -430,8 +442,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 22时35分]"
         },
         {
           "title": "花旗：将梅赛德斯-奔驰目标价从58欧元上调至60欧元。",
@@ -476,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "长城汽车魏建军就抄袭路虎海报道歉",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%B0%B1%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E%E6%B5%B7%E6%8A%A5%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
