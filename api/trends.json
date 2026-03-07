@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T13:01:50.566567+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-03-07T13:43:21.967185+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -197,8 +197,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 13时43分]"
         },
         {
           "title": "Alphabet首席执行官获授Waymo与Wing的“赌注表现单位”",
@@ -273,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时39分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[02时39分 ~ 13时43分]"
         },
         {
           "title": "高仿甜甜圈开上路虎,本尊输麻",
@@ -287,8 +287,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时43分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -324,11 +324,12 @@
           "ranks": [
             16,
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 13时43分]"
         },
         {
           "title": "美官员称福特号航母已调往红海",
