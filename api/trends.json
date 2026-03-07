@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:37:26.760805+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-03-07T22:21:51.351730+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -212,11 +212,12 @@
             10,
             12,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时36分 ~ 21时37分]"
+          "appearance_count": 28,
+          "time_info": "[00时36分 ~ 22时21分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -234,6 +235,37 @@
           "time_info": "[00时36分 ~ 09时31分]"
         },
         {
+          "title": "奔驰有可能统治F1新赛季吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            1,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 22时21分]"
+        },
+        {
+          "title": "路虎回应长城魏建军道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2,
+            5,
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 22时21分]"
+        },
+        {
           "title": "路虎揽胜回应魏建军道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8E%E6%8F%BD%E8%83%9C%E5%9B%9E%E5%BA%94%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -247,36 +279,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时35分 ~ 18时20分]"
-        },
-        {
-          "title": "奔驰有可能统治F1新赛季吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时37分]"
-        },
-        {
-          "title": "路虎回应长城魏建军道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            2,
-            5,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时37分]"
         },
         {
           "title": "美国官员：福特号航母已离开地中海东部，穿越苏伊士运河，目前在红海活动。",
