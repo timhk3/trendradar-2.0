@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T02:29:14.663135+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-03-08T03:20:33.013934+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时20分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时20分]"
         },
         {
           "title": "奔驰有可能统治F1新赛季吗",
@@ -39,11 +39,12 @@
           "ranks": [
             25,
             24,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时20分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国官员表示，布什号航母将被部署到中东。布什号航母可能会与福特号和林肯号航母协同作战。",
