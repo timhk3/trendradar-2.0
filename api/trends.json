@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:26:56.854287+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-03-07T17:26:21.891935+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时26分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -70,11 +70,12 @@
           "ranks": [
             2,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 17时26分]"
         },
         {
           "title": "路虎回应魏建军道歉",
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 17时26分]"
         },
         {
           "title": "美军福特号航母已调往红海",
@@ -128,37 +129,40 @@
           "time_info": "[04时28分 ~ 05时27分]"
         },
         {
+          "title": "路虎回应长城魏建军道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
           "title": "奔驰有可能统治F1新赛季吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "美国国家公路交通安全管理局：由于发动机熄火会增加碰撞风险，通用汽车(GM.N)召回11,787辆美国境内车辆。",
           "url": "https://flash.jin10.com/detail/20260307160554612800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "路虎回应长城魏建军道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "乌克兰外交部长安德烈·西比哈：已成功促成七名在布达佩斯被扣押的乌克兰公民获释。",
@@ -379,8 +383,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时26分]"
         },
         {
           "title": "Alphabet首席执行官获授Waymo与Wing的“赌注表现单位”",
