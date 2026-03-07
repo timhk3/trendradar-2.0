@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:18:05.442361+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-03-07T20:39:10.697902+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时39分]"
+        },
+        {
           "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
           "url": "https://wallstreetcn.com/livenews/3065426",
           "source": "华尔街见闻-快讯",
@@ -123,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
@@ -190,20 +190,6 @@
           "time_info": "[02时39分 ~ 15时27分]"
         },
         {
-          "title": "高仿甜甜圈开上路虎,本尊输麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 19时18分]"
-        },
-        {
           "title": "路虎回应魏建军道歉",
           "url": "https://www.toutiao.com/trending/7614053753309662739/",
           "source": "今日头条",
@@ -215,8 +201,22 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[14时35分 ~ 20时39分]"
+        },
+        {
+          "title": "高仿甜甜圈开上路虎,本尊输麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 20时39分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -271,8 +271,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 20时39分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -282,11 +282,12 @@
             15,
             2,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 20时39分]"
         },
         {
           "title": "美军福特号航母已调往红海",
