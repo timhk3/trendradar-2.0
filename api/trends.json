@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T00:23:40.719352+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:19:29.091201+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
           "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
         },
         {
           "title": "奔驰有可能统治F1新赛季吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
         }
       ]
     }
