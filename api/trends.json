@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T05:18:38.777325+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-08T06:20:32.076425+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -28,11 +28,12 @@
             23,
             21,
             24,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "奔驰有可能统治F1新赛季吗",
