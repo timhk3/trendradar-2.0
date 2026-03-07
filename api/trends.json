@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T20:39:10.697902+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-03-07T21:37:26.760805+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,17 @@
           "time_info": "[02时39分 ~ 04时28分]"
         },
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时37分]"
+        },
+        {
           "title": "美国总务管理局：已终止与Anthropic公司签订的OneGov协议。",
           "url": "https://flash.jin10.com/detail/20260307103902700800",
           "source": "金十数据",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
@@ -215,8 +215,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 20时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 21时37分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -249,18 +249,6 @@
           "time_info": "[14时35分 ~ 18时20分]"
         },
         {
-          "title": "美国官员：福特号航母已离开地中海东部，穿越苏伊士运河，目前在红海活动。",
-          "url": "https://flash.jin10.com/detail/20260307035154659800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 09时31分]"
-        },
-        {
           "title": "奔驰有可能统治F1新赛季吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
           "source": "bilibili 热搜",
@@ -268,11 +256,12 @@
             3,
             9,
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 21时37分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -286,8 +275,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 21时37分]"
+        },
+        {
+          "title": "美国官员：福特号航母已离开地中海东部，穿越苏伊士运河，目前在红海活动。",
+          "url": "https://flash.jin10.com/detail/20260307035154659800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时28分 ~ 09时31分]"
         },
         {
           "title": "美军福特号航母已调往红海",
