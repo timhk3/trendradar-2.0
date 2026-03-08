@@ -1,183 +1,22 @@
 {
-  "generated_at": "2026-03-08T23:21:03.353635+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-03-09T00:24:24.238489+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "高仿甜甜圈开上路虎,本尊输麻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            14,
-            15,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时23分 ~ 23时21分]"
-        },
-        {
-          "title": "男子花7万买吉利星愿 充满电要9小时",
-          "url": "https://www.toutiao.com/trending/7613443766782935046/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            25,
-            24,
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 19时19分]"
-        },
-        {
-          "title": "路虎回应长城魏建军道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E5%9F%8E%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23,
-            21,
-            24,
-            25,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时20分]"
-        },
-        {
-          "title": "奔驰有可能统治F1新赛季吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            24,
-            20,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时18分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国官员表示，布什号航母将被部署到中东。布什号航母可能会与福特号和林肯号航母协同作战。",
-          "url": "https://flash.jin10.com/detail/20260308013731163800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
-          "url": "https://wallstreetcn.com/livenews/3065778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时49分]"
-        },
-        {
-          "title": "据Techmeme：OpenAI硬件与机器人工程负责人Caitlin Kalinowski辞职，原因是美国对国内监控和致命自主武器系统的担忧。",
-          "url": "https://flash.jin10.com/detail/20260308014504453800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时29分]"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "黄仁勋称内存稀缺对英伟达是好事",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%86%85%E5%AD%98%E7%A8%80%E7%BC%BA%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%AF%E5%A5%BD%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 20时40分]"
-        },
-        {
-          "title": "比亚迪李云飞谈“换电和闪充之争”",
-          "url": "https://www.toutiao.com/trending/7614711393291357747/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时41分]"
-        },
-        {
-          "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
-          "url": "https://www.toutiao.com/trending/7613798835642744878/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "time_info": "00时24分"
         }
       ]
     }
