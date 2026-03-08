@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-09T00:24:24.238489+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T01:21:18.706617+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高仿甜甜圈开上路虎,本尊输麻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "男子花7万买吉利星愿 充满电要9小时",
+          "url": "https://www.toutiao.com/trending/7613443766782935046/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
         }
       ]
     }
