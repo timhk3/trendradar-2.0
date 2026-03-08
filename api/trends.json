@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T20:40:38.645635+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-03-08T21:38:50.604495+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             21,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 20时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 21时38分]"
         },
         {
           "title": "男子花7万买吉利星愿 充满电要9小时",
