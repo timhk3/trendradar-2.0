@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T13:41:48.418733+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-03-08T14:38:43.787052+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 13时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 14时38分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -60,8 +60,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时38分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国官员表示，布什号航母将被部署到中东。布什号航母可能会与福特号和林肯号航母协同作战。",
@@ -87,11 +87,12 @@
           "ranks": [
             18,
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 14时38分]"
         },
         {
           "title": "比亚迪李云飞谈“换电和闪充之争”",
