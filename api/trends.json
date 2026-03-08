@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T18:22:43.682746+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-08T19:19:31.373624+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 18时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 19时19分]"
         },
         {
           "title": "男子花7万买吉利星愿 充满电要9小时",
@@ -32,11 +32,12 @@
             21,
             23,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时09分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时09分 ~ 19时19分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -128,7 +129,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -150,8 +151,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时48分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 19时19分]"
         },
         {
           "title": "比亚迪李云飞谈“换电和闪充之争”",
