@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T15:29:51.189439+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-03-08T16:28:10.402222+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             15,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 15时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时28分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -39,6 +40,18 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
+          "title": "男子花7万买吉利星愿 充满电要9小时",
+          "url": "https://www.toutiao.com/trending/7613443766782935046/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时28分]"
+        },
+        {
           "title": "奔驰有可能统治F1新赛季吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
           "source": "bilibili 热搜",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 05时18分]"
-        },
-        {
-          "title": "男子花7万买吉利星愿 充满电要9小时",
-          "url": "https://www.toutiao.com/trending/7613443766782935046/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时29分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国官员表示，布什号航母将被部署到中东。布什号航母可能会与福特号和林肯号航母协同作战。",
@@ -92,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时48分 ~ 16时28分]"
         },
         {
           "title": "比亚迪李云飞谈“换电和闪充之争”",
