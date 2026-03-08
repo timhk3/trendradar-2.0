@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T12:09:22.315825+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-03-08T13:41:48.418733+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时41分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -53,6 +53,17 @@
           "time_info": "[00时23分 ~ 05时18分]"
         },
         {
+          "title": "男子花7万买吉利星愿 充满电要9小时",
+          "url": "https://www.toutiao.com/trending/7613443766782935046/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时41分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国官员表示，布什号航母将被部署到中东。布什号航母可能会与福特号和林肯号航母协同作战。",
           "url": "https://flash.jin10.com/detail/20260308013731163800",
           "source": "金十数据",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 02时29分]"
-        },
-        {
-          "title": "男子花7万买吉利星愿 充满电要9小时",
-          "url": "https://www.toutiao.com/trending/7613443766782935046/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     },
@@ -86,11 +86,24 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时41分]"
+        },
+        {
+          "title": "比亚迪李云飞谈“换电和闪充之争”",
+          "url": "https://www.toutiao.com/trending/7614711393291357747/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时41分]"
         },
         {
           "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
@@ -102,17 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "比亚迪李云飞谈“换电和闪充之争”",
-          "url": "https://www.toutiao.com/trending/7614711393291357747/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     },
