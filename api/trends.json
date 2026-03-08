@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T16:28:10.402222+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-03-08T17:27:15.153873+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时27分]"
         },
         {
           "title": "路虎回应长城魏建军道歉",
@@ -45,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时27分]"
         },
         {
           "title": "奔驰有可能统治F1新赛季吗",
@@ -91,11 +93,12 @@
             18,
             19,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时48分 ~ 17时27分]"
         },
         {
           "title": "比亚迪李云飞谈“换电和闪充之争”",
