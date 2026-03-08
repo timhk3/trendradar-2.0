@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T19:19:31.373624+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-03-08T20:40:38.645635+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 19时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 20时40分]"
         },
         {
           "title": "男子花7万买吉利星愿 充满电要9小时",
@@ -148,11 +148,12 @@
             19,
             16,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时48分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时48分 ~ 20时40分]"
         },
         {
           "title": "比亚迪李云飞谈“换电和闪充之争”",
