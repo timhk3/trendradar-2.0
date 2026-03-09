@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T20:55:14.105432+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-03-09T22:05:39.094025+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 22时05分]"
         },
         {
           "title": "奔驰新车平台首落中国，要用吉利架构",
