@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-03-09T22:05:39.094025+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2026-03-09T23:56:36.395741+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "蔚来李斌：超快充再快也没有换电快",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "比亚迪闪充会是车市新竞争的起点吗",
+          "url": "https://www.toutiao.com/trending/7615092109908921875/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
+          "title": "何小鹏：应该向华为、苹果等企业学习",
+          "url": "https://www.toutiao.com/trending/7615177625836736026/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "比亚迪5分钟闪充会是新一轮竞争点吗",
+          "url": "https://www.toutiao.com/trending/7615092109908921875/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 4,
@@ -40,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 22时05分]"
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时56分]"
         },
         {
           "title": "奔驰新车平台首落中国，要用吉利架构",
@@ -61,48 +112,20 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪闪充会是车市新竞争的起点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
-          "title": "何小鹏：应该向华为、苹果等企业学习",
-          "url": "https://www.toutiao.com/trending/7615177625836736026/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "比亚迪5分钟闪充会是新一轮竞争点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Anthropic就“供应链风险”标签起诉美国总统特朗普的国防部。",
+          "url": "https://wallstreetcn.com/livenews/3066605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
         {
           "title": "黄仁勋：存储器厂产能扩多少 英伟达就会用多少",
           "url": "https://wallstreetcn.com/livenews/3066199",
