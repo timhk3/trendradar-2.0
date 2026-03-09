@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T23:56:36.395741+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2026-03-10T00:55:44.426214+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "蔚来李斌：超快充再快也没有换电快",
@@ -14,128 +14,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "比亚迪闪充会是车市新竞争的起点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
-          "title": "何小鹏：应该向华为、苹果等企业学习",
-          "url": "https://www.toutiao.com/trending/7615177625836736026/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "比亚迪5分钟闪充会是新一轮竞争点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "男子花7万买吉利星愿 充满电要9小时",
-          "url": "https://www.toutiao.com/trending/7613443766782935046/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            26,
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 07时21分]"
-        },
-        {
-          "title": "高仿甜甜圈开上路虎,本尊输麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351454&amp;topic_name=%E9%AB%98%E4%BB%BF%E7%94%9C%E7%94%9C%E5%9C%88%E5%BC%80%E4%B8%8A%E8%B7%AF%E8%99%8E%2C%E6%9C%AC%E5%B0%8A%E8%BE%93%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时50分]"
-        },
         {
           "title": "【数据看盘】北向资金、游资大量甩卖拓维信息，近6亿元资金抢筹中国长城",
           "url": "https://www.cls.cn/detail/2307326",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 23时56分]"
-        },
-        {
-          "title": "奔驰新车平台首落中国，要用吉利架构",
-          "url": "https://wallstreetcn.com/livenews/3066452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic就“供应链风险”标签起诉美国总统特朗普的国防部。",
-          "url": "https://wallstreetcn.com/livenews/3066605",
+          "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
+          "url": "https://wallstreetcn.com/livenews/3066617",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "黄仁勋：存储器厂产能扩多少 英伟达就会用多少",
-          "url": "https://wallstreetcn.com/livenews/3066199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时55分"
         }
       ]
     }
