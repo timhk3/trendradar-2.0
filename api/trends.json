@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-09T15:51:08.698438+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-03-09T16:40:59.159059+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪闪充会是车市新竞争的起点吗",
+          "url": "https://www.toutiao.com/trending/7615092109908921875/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
+          "title": "比亚迪5分钟闪充会是新一轮竞争点吗",
+          "url": "https://www.toutiao.com/trending/7615092109908921875/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 2,
@@ -33,23 +61,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪闪充会是车市新竞争的起点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
         }
       ]
     },
