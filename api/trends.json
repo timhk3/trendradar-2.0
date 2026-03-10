@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T14:43:50.759667+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-03-10T15:40:17.807589+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 09时43分]"
+        },
+        {
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，小鹏初步收涨6.4%，比亚迪涨6%，美团涨5.7%，理想、蔚来涨超3.8%，百度涨2.9%，腾讯涨2.4%，阿里巴巴涨1.4%，网易跌0.1%，文远知行跌1.4%。",
@@ -49,18 +61,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -175,7 +176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
