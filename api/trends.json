@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T01:46:30.639804+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-12T02:50:41.424911+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
@@ -39,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时50分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
