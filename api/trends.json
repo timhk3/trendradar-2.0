@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:32:23.012750+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-11T20:53:04.587022+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时53分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -216,7 +217,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -257,7 +258,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -286,6 +287,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 03时36分]"
+        },
+        {
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -380,6 +392,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
           "url": "https://wallstreetcn.com/livenews/3067825",
           "source": "华尔街见闻-快讯",
@@ -427,7 +450,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -462,6 +485,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时39分 ~ 18时36分]"
+        },
+        {
+          "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721901",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
+        },
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "保时捷首席执行官：迄今为止计划的裁员措施尚不充分。",
