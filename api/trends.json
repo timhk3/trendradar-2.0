@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T20:53:04.587022+08:00",
-  "total_titles_processed": 1853,
+  "generated_at": "2026-03-11T22:04:57.418852+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[18时35分 ~ 22时04分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -189,6 +189,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "特斯拉(TSLA.O)股价创两周新高，现涨2.6%；公司2月份中国产电动汽车销量激增91%。",
+          "url": "https://flash.jin10.com/detail/20260311214519933800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "业内人士谈小米汽车被销售嘲讽",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -257,6 +268,190 @@
       ]
     },
     {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "吉利汽车做对了什么，为什么卖得这么好？",
+          "url": "https://www.zhihu.com/question/2006401962061616095",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时25分]"
+        },
+        {
+          "title": "宝马销售疑贬小米：180天造的车不敢开",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时25分]"
+        },
+        {
+          "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721901",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时04分]"
+        },
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时04分]"
+        },
+        {
+          "title": "哈萨克斯坦能源部长：预计2026年石油产量为9600万至9800万吨，低于计划产量。 Tengiz油田的日产量为12万吨。",
+          "url": "https://wallstreetcn.com/livenews/3067960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时36分]"
+        },
+        {
+          "title": "保时捷首席执行官：迄今为止计划的裁员措施尚不充分。",
+          "url": "https://flash.jin10.com/detail/20260311153343457800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "奇瑞新款QQ3车型正式预售",
+          "url": "https://www.toutiao.com/trending/7615239737745440809/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美联储主席提名人沃什拜会美国关键的共和党参议员蒂利斯，但没能劝退这位“拦路虎”",
+          "url": "https://wallstreetcn.com/livenews/3067595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
+          "url": "https://www.zhihu.com/question/2014839789178888337",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "吉利汽车盘中涨超8%，将披露更详尽的高端化战略布局",
+          "url": "https://wallstreetcn.com/livenews/3067872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "保时捷首席财务官：中东局势可能对供应链和需求产生不利影响，但尚未反映在当前展望中。",
+          "url": "https://flash.jin10.com/detail/20260311152028905800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "奥迪宋斐明和微博王巍谈双料冠军",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E5%AE%8B%E6%96%90%E6%98%8E%E5%92%8C%E5%BE%AE%E5%8D%9A%E7%8E%8B%E5%B7%8D%E8%B0%88%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "道达尔能源：将把拉帕油田的日产量提高2.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260311155914717800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "保时捷首席财务官：中国过去是、现在是、将来也仍然是保时捷重要的战略市场。",
+          "url": "https://flash.jin10.com/detail/20260311151125026800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：通用汽车召回17,050辆美国车辆，丰田汽车召回550,007辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20260311151005333800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "哈萨克斯坦能源部长：腾格里油田日产量为12万吨。",
+          "url": "https://flash.jin10.com/detail/20260311165736952800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 16,
       "titles": [
@@ -293,11 +488,12 @@
           "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时04分]"
         },
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -381,6 +577,17 @@
           "time_info": "[05时27分 ~ 06时25分]"
         },
         {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时04分]"
+        },
+        {
           "title": "谷歌公司发布Gemini Embedding 2。",
           "url": "https://wallstreetcn.com/livenews/3067453",
           "source": "华尔街见闻-快讯",
@@ -390,17 +597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
@@ -445,178 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "吉利汽车做对了什么，为什么卖得这么好？",
-          "url": "https://www.zhihu.com/question/2006401962061616095",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时25分]"
-        },
-        {
-          "title": "宝马销售疑贬小米：180天造的车不敢开",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时25分]"
-        },
-        {
-          "title": "哈萨克斯坦能源部长：预计2026年石油产量为9600万至9800万吨，低于计划产量。 Tengiz油田的日产量为12万吨。",
-          "url": "https://wallstreetcn.com/livenews/3067960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时36分]"
-        },
-        {
-          "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721901",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "奔驰宝马奥迪卖不动了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "保时捷首席执行官：迄今为止计划的裁员措施尚不充分。",
-          "url": "https://flash.jin10.com/detail/20260311153343457800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "奇瑞新款QQ3车型正式预售",
-          "url": "https://www.toutiao.com/trending/7615239737745440809/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美联储主席提名人沃什拜会美国关键的共和党参议员蒂利斯，但没能劝退这位“拦路虎”",
-          "url": "https://wallstreetcn.com/livenews/3067595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "吉利汽车盘中涨超8%，将披露更详尽的高端化战略布局",
-          "url": "https://wallstreetcn.com/livenews/3067872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "保时捷首席财务官：中东局势可能对供应链和需求产生不利影响，但尚未反映在当前展望中。",
-          "url": "https://flash.jin10.com/detail/20260311152028905800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "奥迪宋斐明和微博王巍谈双料冠军",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E5%AE%8B%E6%96%90%E6%98%8E%E5%92%8C%E5%BE%AE%E5%8D%9A%E7%8E%8B%E5%B7%8D%E8%B0%88%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "道达尔能源：将把拉帕油田的日产量提高2.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260311155914717800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "保时捷首席财务官：中国过去是、现在是、将来也仍然是保时捷重要的战略市场。",
-          "url": "https://flash.jin10.com/detail/20260311151125026800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：通用汽车召回17,050辆美国车辆，丰田汽车召回550,007辆美国车辆。",
-          "url": "https://flash.jin10.com/detail/20260311151005333800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "哈萨克斯坦能源部长：腾格里油田日产量为12万吨。",
-          "url": "https://flash.jin10.com/detail/20260311165736952800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         }
       ]
     }
