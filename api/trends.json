@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:04:57.418852+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-03-11T23:44:46.240367+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -46,11 +46,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时35分 ~ 22时04分]"
+          "appearance_count": 7,
+          "time_info": "[18时35分 ~ 23时44分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -167,6 +168,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "马斯克：Digital Optimus是xAI一特斯拉的一个联合项目。 这也是双方协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3068208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -195,7 +207,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -255,6 +267,28 @@
           "time_info": "17时39分"
         },
         {
+          "title": "特斯拉CEO埃隆·马斯克：Macrohard将运行在特斯拉的AI4系统（650美元）上，并配合相对节制地使用xAI的英伟达硬件。",
+          "url": "https://flash.jin10.com/detail/20260311232051644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：Macrohard或Digital Optimus是xAI与特斯拉的联合项目，将作为特斯拉与xAI投资协议的一部分推出。",
+          "url": "https://flash.jin10.com/detail/20260311231802434800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "恒生科技指数涨超1%，蔚来涨近17%，小鹏汽车涨超6%，华虹半导体涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3067726",
           "source": "华尔街见闻-快讯",
@@ -299,22 +333,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时04分]"
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时44分]"
         },
         {
           "title": "奔驰宝马奥迪卖不动了",
           "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时44分]"
+        },
+        {
+          "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
+          "url": "https://www.zhihu.com/question/2014839789178888337",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时04分]"
+          "time_info": "[22时04分 ~ 23时44分]"
         },
         {
           "title": "哈萨克斯坦能源部长：预计2026年石油产量为9600万至9800万吨，低于计划产量。 Tengiz油田的日产量为12万吨。",
@@ -360,17 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
-          "url": "https://www.zhihu.com/question/2014839789178888337",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "吉利汽车盘中涨超8%，将披露更详尽的高端化战略布局",
@@ -496,6 +532,17 @@
           "time_info": "[20时52分 ~ 22时04分]"
         },
         {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时44分]"
+        },
+        {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3067769",
           "source": "华尔街见闻-快讯",
@@ -575,17 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时25分]"
-        },
-        {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时04分]"
         },
         {
           "title": "谷歌公司发布Gemini Embedding 2。",
