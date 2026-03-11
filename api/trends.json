@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-12T02:50:41.424911+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-12T03:41:09.840326+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "奔驰宝马奥迪卖不动了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时50分]"
-        },
         {
           "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32721901",
@@ -30,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时41分]"
         },
         {
           "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
@@ -41,8 +28,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时41分]"
+        },
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 03时41分]"
+        },
+        {
+          "title": "美国内政部长：委内瑞拉日产石油量可能达到400万桶，这一预期是合理的。",
+          "url": "https://flash.jin10.com/detail/20260312023408891800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
         }
       ]
     },
@@ -58,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时41分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
