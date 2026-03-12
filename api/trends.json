@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-12T09:45:11.250634+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-12T12:12:08.165414+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16,
+            14,
+            18,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 12时12分]"
+        },
         {
           "title": "中国好赛来丨松花江上的一场大众滑冰赛，小白记者的72小时速滑“急训记”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32721901",
@@ -18,8 +34,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 12时12分]"
         },
         {
           "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
@@ -33,30 +49,16 @@
           "time_info": "[00时46分 ~ 09时45分]"
         },
         {
-          "title": "奔驰宝马奥迪卖不动了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16,
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 09时45分]"
-        },
-        {
           "title": "女生牙啃胡萝卜还原万里长城",
           "url": "https://www.toutiao.com/trending/7615827870099226666/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时12分]"
         },
         {
           "title": "优步：WAYVE、优步与日产签署合作备忘录，共同推进自动驾驶出租车研发。",
@@ -68,6 +70,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "日产首席执行官：中东紧张局势影响汽车分销，零部件供应保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260312111855646800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "美国内政部长：委内瑞拉日产石油量可能达到400万桶，这一预期是合理的。",
@@ -87,7 +100,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
@@ -95,18 +108,19 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 12时12分]"
         },
         {
           "title": "西安书记体验比亚迪“闪充”技术",
@@ -154,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
+          "title": "比亚迪高管称一代和二代刀片电池产能切换仍在进行中",
+          "url": "https://wallstreetcn.com/livenews/3068543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
