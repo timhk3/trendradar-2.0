@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T06:23:24.238121+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-13T07:25:08.493721+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时25分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时42分]"
+        },
+        {
+          "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -111,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时25分]"
         },
         {
           "title": "美军福特号航母发生火灾",
@@ -122,19 +133,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时46分 ~ 07时25分]"
         },
         {
           "title": "美“福特”号航母主洗衣房发生火灾",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E2%80%9C%E7%A6%8F%E7%89%B9%E2%80%9D%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%BB%E6%B4%97%E8%A1%A3%E6%88%BF%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
