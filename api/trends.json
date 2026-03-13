@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T12:10:19.171951+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-03-13T13:46:43.431031+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
@@ -17,8 +17,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 13时46分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "恒指低开0.52%，报25583.55点；恒生科技指数跌0.42%。理想汽车、地平线机器人、比亚迪电子等跌超1%。",
@@ -169,11 +180,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时46分]"
+        },
+        {
+          "title": "马桶堵了后，美福特号航母洗衣房又起火了",
+          "url": "https://news.ifeng.com/c/8rSG2kuokiI",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时10分]"
+          "time_info": "[12时10分 ~ 13时46分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -185,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "马桶堵了后，美福特号航母洗衣房又起火了",
-          "url": "https://news.ifeng.com/c/8rSG2kuokiI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美军福特号航母发生火灾，起火原因与战事无关",
