@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T21:59:31.829955+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2026-03-13T22:44:31.184295+08:00",
+  "total_titles_processed": 2026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 02时48分]"
+        },
+        {
+          "title": "比亚迪与京东达成业务合作",
+          "url": "https://wallstreetcn.com/livenews/3069880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -139,6 +150,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "方程豹钛3闪充版正式上市",
+          "url": "https://www.toutiao.com/trending/7616334200850006025/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "电动汽车制造商Lucid公布自动驾驶出租车计划",
           "url": "https://wallstreetcn.com/livenews/3069036",
           "source": "华尔街见闻-快讯",
@@ -199,8 +221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 22时44分]"
         },
         {
           "title": "马桶堵了后，美福特号航母洗衣房又起火了",
@@ -250,8 +272,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 22时44分]"
         },
         {
           "title": "美军福特号航母发生火灾",
@@ -259,11 +281,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时44分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -283,7 +306,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -294,7 +317,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -316,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
