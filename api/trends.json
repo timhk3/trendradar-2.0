@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T09:47:18.466704+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-03-13T12:10:19.171951+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 09时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 12时10分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -72,7 +73,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -124,7 +125,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "本田预计 2025 财年净亏最高 6900 亿日元，是上市以来首次年度亏损，巨亏原因有哪些？你看好其前景吗？",
@@ -163,6 +164,18 @@
           "time_info": "[00时57分 ~ 09时47分]"
         },
         {
+          "title": "参与对伊朗行动的美军最大航母“福特”号发生火灾，军方称起火与战事无关",
+          "url": "https://wallstreetcn.com/articles/3767375",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时10分]"
+        },
+        {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
           "url": "https://flash.jin10.com/detail/20260313001952702800",
           "source": "金十数据",
@@ -174,15 +187,15 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "参与对伊朗行动的美军最大航母“福特”号发生火灾，军方称起火与战事无关",
-          "url": "https://wallstreetcn.com/articles/3767375",
-          "source": "华尔街见闻",
+          "title": "马桶堵了后，美福特号航母洗衣房又起火了",
+          "url": "https://news.ifeng.com/c/8rSG2kuokiI",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时10分"
         },
         {
           "title": "美军福特号航母发生火灾，起火原因与战事无关",
@@ -202,7 +215,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
