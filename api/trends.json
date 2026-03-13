@@ -1,402 +1,61 @@
 {
-  "generated_at": "2026-03-13T23:40:03.890597+08:00",
-  "total_titles_processed": 2125,
+  "generated_at": "2026-03-14T00:36:43.875954+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
-          "title": "小鹏广告触雷,遭福瑞圈炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            23,
-            25,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时56分 ~ 18时33分]"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 16时36分]"
-        },
-        {
-          "title": "比亚迪携「车家互联」亮相 AWE 展，这项技术将给生活带来哪些颠覆性改变？",
-          "url": "https://www.zhihu.com/question/2015526319295853907",
-          "source": "知乎",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 20时51分]"
-        },
-        {
-          "title": "方程豹钛3闪充版正式上市",
-          "url": "https://www.toutiao.com/trending/7616334200850006025/",
+          "title": "比亚迪宣布闪充站建设进度",
+          "url": "https://www.toutiao.com/trending/7616686849071628307/",
           "source": "今日头条",
           "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时44分 ~ 23时40分]"
-        },
-        {
-          "title": "比亚迪与京东达成业务合作",
-          "url": "https://wallstreetcn.com/livenews/3069880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时40分]"
-        },
-        {
-          "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
-          "url": "https://flash.jin10.com/detail/20260313020547080800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 02时48分]"
-        },
-        {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时42分]"
-        },
-        {
-          "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
-          "url": "https://flash.jin10.com/detail/20260313023700863800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "00时36分"
         },
         {
-          "title": "恒指低开0.52%，报25583.55点；恒生科技指数跌0.42%。理想汽车、地平线机器人、比亚迪电子等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3069268",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪闪充亮剑的焦虑与变数",
+          "url": "https://www.toutiao.com/trending/7616382864544235556/",
+          "source": "今日头条",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3069137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "大众汽车与小鹏汽车首款联合开发车型量产下线",
-          "url": "https://wallstreetcn.com/livenews/3069545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "比亚迪发行50亿元人民币270天期科创债",
-          "url": "https://wallstreetcn.com/livenews/3069641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "电动汽车制造商Lucid公布自动驾驶出租车计划",
-          "url": "https://wallstreetcn.com/livenews/3069036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "小鹏涨幅扩大至5.4%。",
-          "url": "https://wallstreetcn.com/livenews/3069035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis与小米、小鹏洽谈欧洲协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3069033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "本田预计 2025 财年净亏最高 6900 亿日元，是上市以来首次年度亏损，巨亏原因有哪些？你看好其前景吗？",
-          "url": "https://www.zhihu.com/question/2015470026698749552",
-          "source": "知乎",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 09时47分]"
-        },
-        {
-          "title": "参与对伊朗行动的美军最大航母“福特”号发生火灾，军方称起火与战事无关",
-          "url": "https://wallstreetcn.com/articles/3767375",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 23时40分]"
-        },
-        {
-          "title": "马桶堵了后，美福特号航母洗衣房又起火了",
-          "url": "https://news.ifeng.com/c/8rSG2kuokiI",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时31分]"
-        },
-        {
-          "title": "美军福特号航母发生火灾",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 07时25分]"
-        },
-        {
-          "title": "美“福特”号航母主洗衣房发生火灾",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E2%80%9C%E7%A6%8F%E7%89%B9%E2%80%9D%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%BB%E6%B4%97%E8%A1%A3%E6%88%BF%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 09时47分]"
-        },
         {
           "title": "利润暴跌93% 保时捷跌落神坛",
           "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C93%25+%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
           "source": "百度热搜",
           "ranks": [
-            29,
-            14,
-            15,
-            4,
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "美军福特号航母发生火灾",
           "url": "https://www.douyin.com/hot/2428789",
           "source": "抖音",
           "ranks": [
-            13,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 23时40分]"
-        },
-        {
-          "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
-          "url": "https://flash.jin10.com/detail/20260313001952702800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "梅赛德斯-奔驰集团据悉已与吉利就深化合作进行了初步洽谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3069845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "长城基金总经理邱春杨拟离任，督察长祝函或代为履职",
-          "url": "https://wallstreetcn.com/livenews/3069842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "中国首个辅助驾驶系统出海，吉利千里浩瀚G-ASD正式获欧盟认证",
-          "url": "https://wallstreetcn.com/livenews/3069409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "神盾金砖电池首次上车！吉利银河M7实现1730km续航",
-          "url": "https://wallstreetcn.com/livenews/3069831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美军福特号航母发生火灾，起火原因与战事无关",
-          "url": "https://wallstreetcn.com/livenews/3069030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美军称福特号航母起火与战事无关",
-          "url": "https://wallstreetcn.com/livenews/3069241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
-          "url": "https://wallstreetcn.com/livenews/3069106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时42分]"
-        },
-        {
-          "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
-          "url": "https://flash.jin10.com/detail/20260313023234906800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "00时36分"
         }
       ]
     }
