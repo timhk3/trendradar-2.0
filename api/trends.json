@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:47:27.587606+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-03-13T15:43:00.657451+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 14时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时43分]"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 15时43分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -186,8 +186,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 15时43分]"
         },
         {
           "title": "马桶堵了后，美福特号航母洗衣房又起火了",
@@ -199,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时43分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -220,7 +220,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
