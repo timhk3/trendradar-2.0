@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T06:25:34.684604+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-03-14T07:25:02.609948+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 07时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约2.7%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。",
@@ -78,11 +79,12 @@
           "ranks": [
             20,
             16,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时25分]"
         },
         {
           "title": "利润暴跌93% 保时捷跌落神坛",
@@ -92,11 +94,12 @@
             18,
             16,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时25分]"
         }
       ]
     }
