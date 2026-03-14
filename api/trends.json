@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T19:22:14.285341+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-03-14T20:42:29.968196+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -154,11 +154,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 20时42分]"
         },
         {
           "title": "浙江省政府与吉利控股签署新一轮战略框架协议",
