@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T22:26:08.173176+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-03-14T23:25:26.522161+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时36分 ~ 07时25分]"
+        },
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时25分]"
         },
         {
           "title": "比亚迪动力电池西咸基地实现试生产",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时22分]"
-        },
-        {
-          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
-          "url": "https://www.zhihu.com/question/2014785530991236759",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约2.7%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。",
