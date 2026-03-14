@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T21:43:43.313625+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-14T22:26:08.173176+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "比亚迪宣布闪充站建设进度",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时22分]"
+        },
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约2.7%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。",
