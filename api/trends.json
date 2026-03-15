@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T01:25:55.680590+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-03-16T02:34:52.256413+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -41,11 +41,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时34分]"
         }
       ]
     }
