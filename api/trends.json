@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T22:27:57.844485+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-03-15T23:26:28.068454+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时43分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 23时26分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 23时26分]"
         },
         {
           "title": "理想汽车汤靖：MEGA电池召回完成率已超过97.5%",
@@ -48,18 +60,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时43分 ~ 19时24分]"
-        },
-        {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 22时27分]"
         },
         {
           "title": "比亚迪到底有没有“背刺”客户",
@@ -88,7 +88,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "本田的“至暗时刻”",
@@ -103,6 +103,19 @@
           "time_info": "[02时33分 ~ 07时25分]"
         },
         {
+          "title": "车主称奇瑞星途星纪元车门爆漆",
+          "url": "https://www.toutiao.com/trending/7617378720149454889/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时26分]"
+        },
+        {
           "title": "奥迪车主称刹车油管有缺口致刹车失灵",
           "url": "https://www.toutiao.com/trending/7616665649582686271/",
           "source": "今日头条",
@@ -115,28 +128,28 @@
           "time_info": "[16时32分 ~ 17时32分]"
         },
         {
-          "title": "车主称奇瑞星途星纪元车门爆漆",
-          "url": "https://www.toutiao.com/trending/7617378720149454889/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
-        },
-        {
           "title": "男子贷款买的二手路虎竟是“问题车”",
           "url": "https://www.toutiao.com/trending/7616940632355455017/",
           "source": "今日头条",
           "ranks": [
             10,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时26分]"
+        },
+        {
+          "title": "奇瑞多款车型被指“跑偏”",
+          "url": "https://www.toutiao.com/trending/7617108560704372778/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
