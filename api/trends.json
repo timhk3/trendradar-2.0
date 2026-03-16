@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:53:05.739643+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-03-16T18:04:04.356476+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "奇瑞多款车型被指“跑偏”",
@@ -59,13 +59,24 @@
           "time_info": "[10时02分 ~ 13时12分]"
         },
         {
+          "title": "大众9X首发MomentaR7世界模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%979X%E9%A6%96%E5%8F%91MomentaR7%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
           "title": "女孩回应用胡萝卜啃出黄鹤楼长城",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%94%A8%E8%83%A1%E8%90%9D%E5%8D%9C%E5%95%83%E5%87%BA%E9%BB%84%E9%B9%A4%E6%A5%BC%E9%95%BF%E5%9F%8E",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
