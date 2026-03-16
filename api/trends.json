@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T01:58:34.155712+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-17T03:10:05.176808+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时10分]"
         },
         {
           "title": "油价回落提振市场情绪 黄仁勋讲话重磅来袭 | 今夜看点",
@@ -27,8 +27,74 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3071117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
+          "url": "https://flash.jin10.com/detail/20260317024740106800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：。与Corweave的合作非常出色，他们是全球首个AI原生云。这个公司成立的唯一目的就是提供和托管GPU，随着加速计算时代的到来，为AI云提供托管服务。他们拥有一些出色的客户，增长势头惊人。",
+          "url": "https://flash.jin10.com/detail/20260317024715970800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
+          "url": "https://flash.jin10.com/detail/20260317024402763800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
+          "url": "https://flash.jin10.com/detail/20260317023518834800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
+          "url": "https://wallstreetcn.com/livenews/3071104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -37,7 +103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
@@ -65,7 +131,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
