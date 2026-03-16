@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T06:30:00.128403+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-03-17T07:29:23.335583+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -13,22 +13,35 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "油价回落提振市场情绪 黄仁勋讲话重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2314630",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时29分]"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时29分]"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -41,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 05时36分]"
-        },
-        {
-          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
-          "url": "https://www.cls.cn/detail/2314450",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时30分]"
         },
         {
           "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。",
@@ -146,6 +148,17 @@
           "time_info": "[05时36分 ~ 06时30分]"
         },
         {
+          "title": "5分钟速览黄仁勋GTC演讲：万亿营收、LPU、太空芯片、一键“养虾”",
+          "url": "https://www.cls.cn/detail/2314862",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：Vera Rubin Ultra服务器将搭载144颗GPU。",
           "url": "https://flash.jin10.com/detail/20260317033632350800",
           "source": "金十数据",
@@ -224,6 +237,28 @@
           "time_info": "[03时55分 ~ 03时56分]"
         },
         {
+          "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
+          "url": "https://flash.jin10.com/detail/20260317071109761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美国商务部长卢特尼克将于加州圣何塞当地时间周一与英伟达CEO黄仁勋在GTC的间隙讨论AI。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3071217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "全程直击黄仁勋“全栈AI”演讲：算力产业新蓝图开启",
           "url": "https://www.cls.cn/detail/2314450",
           "source": "财联社热门",
@@ -246,6 +281,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "据Punchbowl记者：一名知情人士透露，美国商务部长卢特尼克今晚将在圣何塞出席一场英伟达GTC大会期间的私人活动。卢特尼克将与黄仁勋一同就人工智能发表讲话，参与者包括英伟达的合作伙伴公司。",
+          "url": "https://flash.jin10.com/detail/20260317064734963800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
           "url": "https://wallstreetcn.com/livenews/3071045",
           "source": "华尔街见闻-快讯",
@@ -263,7 +309,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
