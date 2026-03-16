@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T03:10:05.176808+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-17T03:56:10.200097+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时56分]"
         },
         {
           "title": "油价回落提振市场情绪 黄仁勋讲话重磅来袭 | 今夜看点",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时56分]"
         },
         {
           "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。",
@@ -37,9 +37,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Vera的性能是任何其他CPU的两倍。",
+          "url": "https://flash.jin10.com/detail/20260317033735054800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：CPU业务肯定会成为数十亿美元级别的业务。",
+          "url": "https://flash.jin10.com/detail/20260317033647116800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Vera Rubin Ultra服务器将搭载144颗GPU。",
+          "url": "https://flash.jin10.com/detail/20260317033632350800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
+          "url": "https://wallstreetcn.com/livenews/3071104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 03时56分]"
         },
         {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
@@ -86,15 +131,37 @@
           "time_info": "[03时09分 ~ 03时10分]"
         },
         {
-          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
-          "url": "https://wallstreetcn.com/livenews/3071104",
+          "title": "英伟达CEO黄仁勋：60%的业务将来自超大规模数据中心。",
+          "url": "https://flash.jin10.com/detail/20260317031407129800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋展示新款Rubin Ultra系统，称：新款Vera处理器采用LPDDR 5存储器。 Vera的性能是任何CPU的两倍。 CPU“肯定”会是一个（至少）数十亿美元级别的业务。",
+          "url": "https://wallstreetcn.com/livenews/3071125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "03时56分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。 公司的目标是，2025-27年与数据中心相关的收入将至少达到1万亿美元。 60%的业务将面向超大规模云服务商（Hyperscalers）。",
+          "url": "https://wallstreetcn.com/livenews/3071117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -134,6 +201,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Business Insider：沃尔沃将于今年年底前停止在美国销售EX30及其越野版EX30 Cross Country。",
+          "url": "https://flash.jin10.com/detail/20260317034350221800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
         }
       ]
     }
