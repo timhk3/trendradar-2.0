@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:36:09.670265+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-03-18T05:41:33.139728+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时41分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
@@ -77,6 +77,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
           "url": "https://flash.jin10.com/detail/20260318010850842800",
           "source": "金十数据",
@@ -86,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -112,47 +134,8 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
-          "url": "https://www.zhihu.com/question/2015132974589428664",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 04时36分]"
-        },
-        {
-          "title": "比亚迪第二代闪充实测",
-          "url": "https://www.toutiao.com/trending/7616966880829702163/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.73%，报7163.30点。 热门中概股里，腾讯音乐初步收跌24.7%，金山云、小鹏、小马智行、世纪互联至多跌超4%，拼多多涨0.5%，万国数据涨2.6%，名创优品涨2.9%，亚朵涨5.8%。 ETF中，中国科技指数ETF（CQQQ）收跌1.48%，中概互联网指数ETF（KWEB）收跌0.72%。 德银嘉实沪深300指数ETF（ASHR）收跌2.01%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3071885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美媒称「福特」号航母大火持续超 30 个小时后才被扑灭，为什么会这样？哪些信息值得关注？",
@@ -162,8 +145,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时41分]"
         },
         {
           "title": "宝马大降价30万",
@@ -172,11 +155,12 @@
           "ranks": [
             18,
             20,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时41分]"
         },
         {
           "title": "曝福特号航母大火烧了30多个小时",
@@ -187,8 +171,71 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时41分]"
+        },
+        {
+          "title": "美军“福特”号航母起火受损，料将暂时停靠希腊港口",
+          "url": "https://flash.jin10.com/detail/20260318051445405800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗战争引发连锁反应：日产、丰田相继减产 因面向中东物流中断",
+          "url": "https://www.cls.cn/detail/2315746",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
+          "url": "https://www.zhihu.com/question/2015132974589428664",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时57分 ~ 05时41分]"
+        },
+        {
+          "title": "比亚迪第二代闪充实测",
+          "url": "https://www.toutiao.com/trending/7616966880829702163/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 05时41分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.73%，报7163.30点。 热门中概股里，腾讯音乐初步收跌24.7%，金山云、小鹏、小马智行、世纪互联至多跌超4%，拼多多涨0.5%，万国数据涨2.6%，名创优品涨2.9%，亚朵涨5.8%。 ETF中，中国科技指数ETF（CQQQ）收跌1.48%，中概互联网指数ETF（KWEB）收跌0.72%。 德银嘉实沪深300指数ETF（ASHR）收跌2.01%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3071885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     }
