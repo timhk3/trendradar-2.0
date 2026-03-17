@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-17T07:29:23.335583+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-03-17T09:49:58.023991+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "油价回落提振市场情绪 黄仁勋讲话重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2314630",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 09时49分]"
+        },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
           "url": "https://wallstreetcn.com/articles/3767569",
@@ -21,27 +34,28 @@
           "time_info": "[00时04分 ~ 07时29分]"
         },
         {
-          "title": "油价回落提振市场情绪 黄仁勋讲话重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2314630",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时29分]"
-        },
-        {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
           "url": "https://www.cls.cn/detail/2314450",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时36分 ~ 07时29分]"
+          "appearance_count": 4,
+          "time_info": "[05时36分 ~ 09时49分]"
+        },
+        {
+          "title": "5分钟速览黄仁勋GTC演讲：万亿营收、LPU、太空芯片、一键“养虾”",
+          "url": "https://www.cls.cn/detail/2314862",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时49分]"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -76,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
+          "url": "https://wallstreetcn.com/articles/3767666",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera的性能是任何其他CPU的两倍。",
@@ -146,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时30分]"
-        },
-        {
-          "title": "5分钟速览黄仁勋GTC演讲：万亿营收、LPU、太空芯片、一键“养虾”",
-          "url": "https://www.cls.cn/detail/2314862",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera Rubin Ultra服务器将搭载144颗GPU。",
@@ -237,13 +251,24 @@
           "time_info": "[03时55分 ~ 03时56分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
           "url": "https://flash.jin10.com/detail/20260317071109761800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -254,9 +279,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
+          "url": "https://wallstreetcn.com/articles/3767654",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "全程直击黄仁勋“全栈AI”演讲：算力产业新蓝图开启",
@@ -287,7 +323,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -317,7 +353,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比亚迪、吉利汽车、铃木、日产为L4级自动驾驶汽车采用英伟达NVIDIA DRIVE Hyperion。",
@@ -364,6 +400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 05时36分]"
+        },
+        {
+          "title": "恒指高开0.4%，报25938.43点；恒生科技指数涨0.5%。腾讯音乐、蔚来涨超2%，理想汽车涨近2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3071286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.95%，报7215.84点，早盘涨至7323.32点刷新日高，随后逐步回吐涨幅。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.24%，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.59%， 德银嘉实沪深300指数ETF（ASHR）收涨0.33%，XtrackersHarvest中证50（ASHS）收跌1.09%。",
