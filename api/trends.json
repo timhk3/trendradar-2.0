@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T02:16:51.140784+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-19T03:06:29.274436+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时06分]"
         },
         {
           "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时06分]"
         },
         {
           "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时06分]"
         },
         {
           "title": "男子遭路虎1分钟恶意别停8次后追尾",
@@ -46,11 +46,12 @@
           "source": "微博",
           "ranks": [
             7,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时06分]"
         },
         {
           "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
@@ -74,11 +75,12 @@
           "url": "https://www.toutiao.com/trending/7618496164463119913/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时06分]"
         }
       ]
     }
