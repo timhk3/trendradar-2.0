@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T18:48:38.701467+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-03-18T19:43:51.485935+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美媒称「福特」号航母大火持续超 30 个小时后才被扑灭，为什么会这样？哪些信息值得关注？",
@@ -49,6 +49,17 @@
           "time_info": "[00时03分 ~ 09时53分]"
         },
         {
+          "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
+          "url": "https://news.ifeng.com/c/8rayE7R8JbL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时43分]"
+        },
+        {
           "title": "长城汽车固态电池仍处于开发验证阶段",
           "url": "https://www.toutiao.com/trending/7618157912195731007/",
           "source": "今日头条",
@@ -61,15 +72,17 @@
           "time_info": "[15时15分 ~ 17时51分]"
         },
         {
-          "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
-          "url": "https://news.ifeng.com/c/8rayE7R8JbL",
-          "source": "凤凰网",
+          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
+          "url": "https://www.cls.cn/detail/2316785",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时50分 ~ 18时48分]"
+          "time_info": "[17时51分 ~ 19时43分]"
         },
         {
           "title": "美军“福特”号航母起火受损，料将暂时停靠希腊港口",
@@ -101,21 +114,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
-        },
-        {
-          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
-          "url": "https://www.cls.cn/detail/2316785",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时48分]"
         },
         {
           "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
@@ -138,6 +139,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "吉利高管桂生悦：吉利2026年内部出口目标为75万辆。",
+          "url": "https://wallstreetcn.com/livenews/3072360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时43分]"
         },
         {
           "title": "美军福特号航母因火灾将进港维修",
@@ -163,17 +176,6 @@
           "time_info": "12时23分"
         },
         {
-          "title": "吉利高管桂生悦：吉利2026年内部出口目标为75万辆。",
-          "url": "https://wallstreetcn.com/livenews/3072360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "吉利汽车港股跌幅扩大至5.5%，此前发布2025年财报。",
           "url": "https://wallstreetcn.com/livenews/3072137",
           "source": "华尔街见闻-快讯",
@@ -183,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "宝马销售主管：（谈中国市场）我们看到价格趋于稳定，甚至在某些情况下价格有所上涨。",
+          "url": "https://flash.jin10.com/detail/20260318192242457800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "奇瑞汽车2025年归母净利润190.2亿元人民币，同比+35%。 营收3,002.9亿元人民币，同比+11%。 每股收益3.43元人民币，上年同期2.58元人民币。 每股末期股息0.50港元，上年同期0.33港元。",
@@ -399,7 +412,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
@@ -472,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "小鹏P7这次太全面了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FP7%E8%BF%99%E6%AC%A1%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。腾讯音乐跌超22%，理想汽车跌超5%，小鹏汽车跌超4%。",
