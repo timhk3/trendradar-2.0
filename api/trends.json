@@ -1,52 +1,22 @@
 {
-  "generated_at": "2026-03-18T23:01:13.986679+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-03-19T00:48:00.506144+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美媒称「福特」号航母大火持续超 30 个小时后才被扑灭，为什么会这样？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017213890929403854",
-          "source": "知乎",
+          "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
+          "url": "https://www.cls.cn/detail/2317111",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            10,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 09时53分]"
-        },
-        {
-          "title": "宝马大降价30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%A4%A7%E9%99%8D%E4%BB%B730%E4%B8%87%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 07时29分]"
-        },
-        {
-          "title": "曝福特号航母大火烧了30多个小时",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%A4%A7%E7%81%AB%E7%83%A7%E4%BA%8630%E5%A4%9A%E4%B8%AA%E5%B0%8F%E6%97%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 09时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
@@ -56,503 +26,58 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时50分 ~ 23时01分]"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 00时48分]"
+        },
+        {
+          "title": "男子遭路虎1分钟恶意别停8次后追尾",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%81%AD%E8%B7%AF%E8%99%8E1%E5%88%86%E9%92%9F%E6%81%B6%E6%84%8F%E5%88%AB%E5%81%9C8%E6%AC%A1%E5%90%8E%E8%BF%BD%E5%B0%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 00时48分]"
         },
         {
           "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
           "url": "https://www.cls.cn/detail/2316785",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 23时01分]"
-        },
-        {
-          "title": "长城汽车固态电池仍处于开发验证阶段",
-          "url": "https://www.toutiao.com/trending/7618157912195731007/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时51分]"
-        },
-        {
-          "title": "美军“福特”号航母起火受损，料将暂时停靠希腊港口",
-          "url": "https://flash.jin10.com/detail/20260318051445405800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时30分]"
-        },
-        {
-          "title": "伊朗战争引发连锁反应：日产、丰田相继减产 因面向中东物流中断",
-          "url": "https://www.cls.cn/detail/2315746",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 09时53分]"
-        },
-        {
-          "title": "吉利集团2026年出口目标为75万辆。",
-          "url": "https://flash.jin10.com/detail/20260318182624617800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
-          "url": "https://flash.jin10.com/detail/20260318070634885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
-          "url": "https://www.cls.cn/detail/2317111",
-          "source": "财联社热门",
-          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "00时48分"
         },
         {
-          "title": "东风集团股份(00489.HK)：本公司已向联交所申请，且联交所已批准，自2026年3月18日（星期三）下午四时正起撤销H股于联交所的上市地位。",
-          "url": "https://flash.jin10.com/detail/20260318070252960800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "吉利高管桂生悦：吉利2026年内部出口目标为75万辆。",
-          "url": "https://wallstreetcn.com/livenews/3072360",
+          "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
+          "url": "https://wallstreetcn.com/livenews/3072561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            29
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时43分]"
-        },
-        {
-          "title": "美军福特号航母因火灾将进港维修",
-          "url": "https://wallstreetcn.com/livenews/3071925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时29分]"
-        },
-        {
-          "title": "吉利副总裁回应董明珠换车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%8D%A2%E8%BD%A6%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "路虎53秒8次别停 警方认定多次反转",
-          "url": "https://www.toutiao.com/trending/7618501846928162862/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "吉利汽车港股跌幅扩大至5.5%，此前发布2025年财报。",
-          "url": "https://wallstreetcn.com/livenews/3072137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "宝马销售主管：（谈中国市场）我们看到价格趋于稳定，甚至在某些情况下价格有所上涨。",
-          "url": "https://flash.jin10.com/detail/20260318192242457800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "奇瑞汽车2025年归母净利润190.2亿元人民币，同比+35%。 营收3,002.9亿元人民币，同比+11%。 每股收益3.43元人民币，上年同期2.58元人民币。 每股末期股息0.50港元，上年同期0.33港元。",
-          "url": "https://wallstreetcn.com/livenews/3072124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "日产加入丰田、本田行列，计划将美国制造汽车出口至日本",
-          "url": "https://wallstreetcn.com/livenews/3072028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "吉利发布舱驾融合关键成果",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E5%8F%91%E5%B8%83%E8%88%B1%E9%A9%BE%E8%9E%8D%E5%90%88%E5%85%B3%E9%94%AE%E6%88%90%E6%9E%9C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 17,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
-          "url": "https://wallstreetcn.com/articles/3767666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 09时53分]"
-        },
-        {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 17时51分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
-          "url": "https://flash.jin10.com/detail/20260318025427767800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 03时54分]"
-        },
         {
           "title": "博主：黄仁勋即中本聪",
           "url": "https://www.toutiao.com/trending/7618496164463119913/",
           "source": "今日头条",
           "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时01分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
-          "url": "https://wallstreetcn.com/livenews/3071826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时58分]"
-        },
-        {
-          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3071904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时30分]"
-        },
-        {
-          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
-          "url": "https://www.zhihu.com/question/2017426077002253714",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时00分 ~ 23时01分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Groq可能会让数据中心新增25%的机会。 回购股票和分红的规模将非常庞大。",
-          "url": "https://wallstreetcn.com/livenews/3071861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时36分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：回购和分红将是一个非常大的数字。",
-          "url": "https://flash.jin10.com/detail/20260318025914002800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
-          "url": "https://flash.jin10.com/detail/20260318025633666800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "黄仁勋确认：公司对明年营收突破万亿美元“信心十足”",
-          "url": "https://www.cls.cn/detail/2316095",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
-          "url": "https://wallstreetcn.com/livenews/3072134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
-          "url": "https://flash.jin10.com/detail/20260318010850842800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
-          "url": "https://flash.jin10.com/detail/20260318044954930800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
-          "url": "https://wallstreetcn.com/livenews/3071811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "黄仁勋信心爆棚 维持营收万亿美元预测",
-          "url": "https://flash.jin10.com/detail/20260318010533301800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "A股CPO概念盘初走强，罗博特科涨超6%，天孚通信涨超5%，德科立、炬光科技、长芯博创、新易盛、协创数据等个股跟涨。黄仁勋在GTC大会上表示，英伟达将与专注推理技术的初创公司“格罗克”合作推出AI服务器系统，从而加大在低成本、低延迟推理计算领域的布局。",
-          "url": "https://flash.jin10.com/detail/20260318092634064800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
-          "url": "https://www.zhihu.com/question/2015132974589428664",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            10,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时57分 ~ 09时53分]"
-        },
-        {
-          "title": "董明珠被拍到乘坐极氪009出行",
-          "url": "https://www.toutiao.com/trending/7617375764840988726/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时16分]"
-        },
-        {
-          "title": "比亚迪第二代闪充实测",
-          "url": "https://www.toutiao.com/trending/7616966880829702163/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时41分]"
-        },
-        {
-          "title": "比亚迪在日本市场被“区别对待”",
-          "url": "https://www.toutiao.com/trending/7618400835793780772/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
-        },
-        {
-          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十八批），小米YU7、小鹏GX、问界M6EV等多款车型在列。",
-          "url": "https://flash.jin10.com/detail/20260318160834281800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.73%，报7163.30点。 热门中概股里，腾讯音乐初步收跌24.7%，金山云、小鹏、小马智行、世纪互联至多跌超4%，拼多多涨0.5%，万国数据涨2.6%，名创优品涨2.9%，亚朵涨5.8%。 ETF中，中国科技指数ETF（CQQQ）收跌1.48%，中概互联网指数ETF（KWEB）收跌0.72%。 德银嘉实沪深300指数ETF（ASHR）收跌2.01%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3071885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "小鹏P7这次太全面了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FP7%E8%BF%99%E6%AC%A1%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%。腾讯音乐跌超22%，理想汽车跌超5%，小鹏汽车跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3072077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "[00时47分 ~ 00时48分]"
         }
       ]
     }
