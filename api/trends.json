@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:51:03.845559+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-03-18T18:48:38.701467+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美媒称「福特」号航母大火持续超 30 个小时后才被扑灭，为什么会这样？哪些信息值得关注？",
@@ -61,6 +61,17 @@
           "time_info": "[15时15分 ~ 17时51分]"
         },
         {
+          "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
+          "url": "https://news.ifeng.com/c/8rayE7R8JbL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 18时48分]"
+        },
+        {
           "title": "美军“福特”号航母起火受损，料将暂时停靠希腊港口",
           "url": "https://flash.jin10.com/detail/20260318051445405800",
           "source": "金十数据",
@@ -84,15 +95,27 @@
           "time_info": "[05时41分 ~ 09时53分]"
         },
         {
-          "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
-          "url": "https://news.ifeng.com/c/8rayE7R8JbL",
-          "source": "凤凰网",
+          "title": "吉利集团2026年出口目标为75万辆。",
+          "url": "https://flash.jin10.com/detail/20260318182624617800",
+          "source": "金十数据",
           "ranks": [
-            7
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
+          "url": "https://www.cls.cn/detail/2316785",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "time_info": "[17时51分 ~ 18时48分]"
         },
         {
           "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
@@ -140,15 +163,15 @@
           "time_info": "12时23分"
         },
         {
-          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
-          "url": "https://www.cls.cn/detail/2316785",
-          "source": "财联社热门",
+          "title": "吉利高管桂生悦：吉利2026年内部出口目标为75万辆。",
+          "url": "https://wallstreetcn.com/livenews/3072360",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "18时48分"
         },
         {
           "title": "吉利汽车港股跌幅扩大至5.5%，此前发布2025年财报。",
