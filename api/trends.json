@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:16:03.067038+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-03-18T16:44:03.712246+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 16时44分]"
         },
         {
           "title": "英伟达CEO黄仁勋：Groq可能会为数据中心市场带来25%的增长空间。",
@@ -351,7 +352,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
@@ -402,6 +403,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
+          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十八批），小米YU7、小鹏GX、问界M6EV等多款车型在列。",
+          "url": "https://flash.jin10.com/detail/20260318160834281800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.73%，报7163.30点。 热门中概股里，腾讯音乐初步收跌24.7%，金山云、小鹏、小马智行、世纪互联至多跌超4%，拼多多涨0.5%，万国数据涨2.6%，名创优品涨2.9%，亚朵涨5.8%。 ETF中，中国科技指数ETF（CQQQ）收跌1.48%，中概互联网指数ETF（KWEB）收跌0.72%。 德银嘉实沪深300指数ETF（ASHR）收跌2.01%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
