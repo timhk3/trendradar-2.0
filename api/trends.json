@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T05:32:14.989211+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-19T06:31:03.251368+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "男子遭路虎1分钟恶意别停8次后追尾",
@@ -27,11 +27,12 @@
             16,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 06时31分]"
         },
         {
           "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 06时31分]"
         },
         {
           "title": "路虎53秒8次别停 警方认定多次反转",
@@ -113,7 +114,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
