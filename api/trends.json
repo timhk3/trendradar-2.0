@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:43:51.485935+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-03-18T21:02:57.294444+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美媒称「福特」号航母大火持续超 30 个小时后才被扑灭，为什么会这样？哪些信息值得关注？",
@@ -56,8 +56,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 21时02分]"
+        },
+        {
+          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
+          "url": "https://www.cls.cn/detail/2316785",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时50分 ~ 19时43分]"
+          "time_info": "[17时51分 ~ 21时02分]"
         },
         {
           "title": "长城汽车固态电池仍处于开发验证阶段",
@@ -70,19 +83,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时15分 ~ 17时51分]"
-        },
-        {
-          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
-          "url": "https://www.cls.cn/detail/2316785",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时43分]"
         },
         {
           "title": "美军“福特”号航母起火受损，料将暂时停靠希腊港口",
@@ -176,6 +176,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "路虎53秒8次别停 警方认定多次反转",
+          "url": "https://www.toutiao.com/trending/7618501846928162862/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "吉利汽车港股跌幅扩大至5.5%，此前发布2025年财报。",
           "url": "https://wallstreetcn.com/livenews/3072137",
           "source": "华尔街见闻-快讯",
@@ -193,7 +204,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -234,7 +245,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "博主：黄仁勋即中本聪",
+          "url": "https://www.toutiao.com/trending/7618496164463119913/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "黄仁勋确认：公司对明年营收突破万亿美元“信心十足”",
@@ -493,7 +515,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
