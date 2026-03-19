@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:34:01.299378+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-03-19T20:56:59.916978+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
@@ -86,6 +86,20 @@
           "time_info": "[04时32分 ~ 07时28分]"
         },
         {
+          "title": "警方通报“路虎别停奔驰致追尾”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E8%87%B4%E8%BF%BD%E5%B0%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时56分]"
+        },
+        {
           "title": "路虎别停奔驰致追尾涉刑事案件",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E8%87%B4%E8%BF%BD%E5%B0%BE%E6%B6%89%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -98,28 +112,28 @@
           "time_info": "[18时37分 ~ 19时34分]"
         },
         {
-          "title": "警方通报“路虎别停奔驰致追尾”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E8%87%B4%E8%BF%BD%E5%B0%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时34分]"
-        },
-        {
           "title": "警方通报“路虎8次恶意别停奔驰”",
           "url": "https://www.toutiao.com/trending/7618545654314336298/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时56分]"
+        },
+        {
+          "title": "被路虎别停8次男子个人信息疑泄露",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C8%E6%AC%A1%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%96%91%E6%B3%84%E9%9C%B2%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时56分]"
         },
         {
           "title": "1分钟被路虎别停8次当事人发声",
@@ -177,17 +191,6 @@
           "time_info": "[09时54分 ~ 12时22分]"
         },
         {
-          "title": "被路虎别停8次男子个人信息疑泄露",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C8%E6%AC%A1%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%96%91%E6%B3%84%E9%9C%B2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
           "title": "董明珠回应换车称中国汽车看吉利",
           "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%8D%A2%E8%BD%A6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%9C%8B%E5%90%89%E5%88%A9%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -208,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 12时22分]"
+        },
+        {
+          "title": "长春警方通报路虎一分钟 8 次别停奔驰致追尾，已立为刑事案件，此前曾认定「无违法事实」，究竟怎么回事？",
+          "url": "https://www.zhihu.com/question/2017767643180990921",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
@@ -246,7 +260,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
@@ -325,6 +339,17 @@
           "time_info": "[12时21分 ~ 12时22分]"
         },
         {
+          "title": "小米发布会 小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "马斯克称，SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片。",
           "url": "https://wallstreetcn.com/livenews/3072811",
           "source": "华尔街见闻-快讯",
@@ -367,6 +392,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "特斯拉美股盘前跌幅扩大至1%，此前优步表示将斥资最高12.5亿美元押注Rivian无人驾驶出租车。",
+          "url": "https://wallstreetcn.com/livenews/3073294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "优步斥资最高12.5亿美元押注Rivian无人驾驶出租车",
+          "url": "https://wallstreetcn.com/livenews/3073293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "小米汽车：小米电池安全测试项目多达1230项，超国标要求25倍，超新国标电池热失控安全标准、综合安全性能国内最高标准。",
+          "url": "https://wallstreetcn.com/livenews/3073291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
