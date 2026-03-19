@@ -1,511 +1,83 @@
 {
-  "generated_at": "2026-03-19T23:52:26.928625+08:00",
-  "total_titles_processed": 2131,
+  "generated_at": "2026-03-20T00:55:23.707336+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
         {
-          "title": "拆东床补西床：美福特号“借”肯尼迪号1000张床",
-          "url": "https://news.ifeng.com/c/8rayE7R8JbL",
-          "source": "凤凰网",
+          "title": "长春警方通报路虎一分钟 8 次别停奔驰致追尾，已立为刑事案件，此前曾认定「无违法事实」，究竟怎么回事？",
+          "url": "https://www.zhihu.com/question/2017767643180990921",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "举报路虎别车男子称遭电话狂轰乱炸",
+          "url": "https://www.toutiao.com/trending/7618533687923212294/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时54分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "男子遭路虎1分钟恶意别停8次后追尾",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%81%AD%E8%B7%AF%E8%99%8E1%E5%88%86%E9%92%9F%E6%81%B6%E6%84%8F%E5%88%AB%E5%81%9C8%E6%AC%A1%E5%90%8E%E8%BF%BD%E5%B0%BE%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            16,
-            15,
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时54分]"
-        },
-        {
-          "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
-          "url": "https://www.cls.cn/detail/2317111",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 09时54分]"
-        },
-        {
-          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
-          "url": "https://www.cls.cn/detail/2316785",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时28分]"
-        },
-        {
-          "title": "奇瑞全固态电池续航有望突破1500km",
-          "url": "https://www.toutiao.com/trending/7618792537846746674/",
+          "title": "瞿颖翻红：大众亲手造神",
+          "url": "https://www.toutiao.com/trending/7618974641335307812/",
           "source": "今日头条",
           "ranks": [
-            7,
-            10,
-            25
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时45分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "警方通报“路虎8次恶意别停奔驰”",
           "url": "https://www.toutiao.com/trending/7618545654314336298/",
           "source": "今日头条",
           "ranks": [
-            4,
-            8,
-            13,
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 23时52分]"
-        },
-        {
-          "title": "警方通报“路虎别停奔驰致追尾”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E8%87%B4%E8%BF%BD%E5%B0%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            7,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 22时08分]"
-        },
-        {
-          "title": "被路虎别停8次男子个人信息疑泄露",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C8%E6%AC%A1%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%96%91%E6%B3%84%E9%9C%B2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            22,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 23时52分]"
-        },
-        {
-          "title": "路虎53秒8次别停 警方认定多次反转",
-          "url": "https://www.toutiao.com/trending/7618501846928162862/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时32分 ~ 07时28分]"
-        },
-        {
-          "title": "路虎别停奔驰致追尾涉刑事案件",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E8%87%B4%E8%BF%BD%E5%B0%BE%E6%B6%89%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 19时34分]"
-        },
-        {
-          "title": "长春警方通报路虎一分钟 8 次别停奔驰致追尾，已立为刑事案件，此前曾认定「无违法事实」，究竟怎么回事？",
-          "url": "https://www.zhihu.com/question/2017767643180990921",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 23时52分]"
-        },
-        {
-          "title": "1分钟被路虎别停8次当事人发声",
-          "url": "https://s.weibo.com/weibo?q=%231%E5%88%86%E9%92%9F%E8%A2%AB%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C8%E6%AC%A1%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "标普全球：受电动汽车相关亏损影响，本田汽车未来几年的业绩将显著恶化，且需要时间才能恢复。",
-          "url": "https://flash.jin10.com/detail/20260319141905156800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
-        },
-        {
-          "title": "标普全球：将本田汽车评级下调至“BBB+”；展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260319141813436800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
-        },
-        {
-          "title": "奇瑞发布犀牛电池、迅龙秒充",
-          "url": "https://www.toutiao.com/trending/7618350579273957418/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "路虎1分钟8次别停奔驰后引发事故",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%AF%E8%99%8E1%E5%88%86%E9%92%9F8%E6%AC%A1%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E5%90%8E%E5%BC%95%E5%8F%91%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时22分]"
-        },
-        {
-          "title": "董明珠回应换车称中国汽车看吉利",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%8D%A2%E8%BD%A6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%9C%8B%E5%90%89%E5%88%A9%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
-        },
-        {
-          "title": "奇瑞半固态电池上车星途EX7",
-          "url": "https://www.toutiao.com/trending/7617729257264283654/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
-        },
-        {
-          "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
-          "url": "https://wallstreetcn.com/livenews/3072561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国福特号航母为何问题频发",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%BA%E4%BD%95%E9%97%AE%E9%A2%98%E9%A2%91%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "文远知行：与ELEVATE Slovakia达成战略合作，启动斯洛伐克首个自动驾驶项目",
-          "url": "https://wallstreetcn.com/livenews/3073032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "舒淇代言小米汽车 SU7谐音梗成真",
-          "url": "https://www.toutiao.com/trending/7618063303169261587/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 17时40分]"
-        },
-        {
-          "title": "格力董明珠回应提车极氪009",
-          "url": "https://www.toutiao.com/trending/7618036777559048238/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 19时34分]"
-        },
-        {
-          "title": "雷军官宣舒淇成小米汽车品牌代言人",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E8%88%92%E6%B7%87%E6%88%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 17时40分]"
-        },
-        {
-          "title": "小米汽车 舒淇",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 13时57分]"
-        },
         {
           "title": "小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 23时52分]"
-        },
-        {
-          "title": "智己发布智能体IM Ultra Agent",
-          "url": "https://wallstreetcn.com/livenews/3073155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "00时55分"
         },
         {
-          "title": "舒淇官宣代言小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
-        },
-        {
-          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2017200053643650106",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 22时08分]"
-        },
-        {
-          "title": "小米发布会 小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%20%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "马斯克称，SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片。",
-          "url": "https://wallstreetcn.com/livenews/3072811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
-          "url": "https://wallstreetcn.com/livenews/3072672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "小米汽车：新一代SU7，今晚正式上市",
-          "url": "https://wallstreetcn.com/livenews/3072975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "特斯拉美股盘前跌幅扩大至1%，此前优步表示将斥资最高12.5亿美元押注Rivian无人驾驶出租车。",
-          "url": "https://wallstreetcn.com/livenews/3073294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "优步斥资最高12.5亿美元押注Rivian无人驾驶出租车",
-          "url": "https://wallstreetcn.com/livenews/3073293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "小米汽车：小米电池安全测试项目多达1230项，超国标要求25倍，超新国标电池热失控安全标准、综合安全性能国内最高标准。",
-          "url": "https://wallstreetcn.com/livenews/3073291",
+          "title": "美国监管机构对特斯拉“完全自动驾驶”系统的安全调查升级",
+          "url": "https://wallstreetcn.com/livenews/3073470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
-          "url": "https://wallstreetcn.com/livenews/3072672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "博主：黄仁勋即中本聪",
-          "url": "https://www.toutiao.com/trending/7618496164463119913/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时06分]"
-        },
-        {
-          "title": "如何看待黄仁勋「OpenClaw 是 AI 时代的 Linux」的观点？其将如何加速行业的发展？",
-          "url": "https://www.zhihu.com/question/2017544894055407699",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
-          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
-          "url": "https://flash.jin10.com/detail/20260319065232382800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "韩媒：三星电子将向OpenAI供应HBM4芯片",
-          "url": "https://flash.jin10.com/detail/20260319180042311800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "00时55分"
         }
       ]
     }
