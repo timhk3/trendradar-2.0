@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:39:10.153730+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-03-21T15:32:22.012217+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -100,7 +100,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "胡塞武装称可能封锁曼德海峡！伊朗祭出新王牌；“福特”号航母被曝将撤离，革命卫队：反映出美以“绝望而屈辱”的真实处境",
@@ -139,11 +139,12 @@
             11,
             24,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 15时32分]"
         },
         {
           "title": "广汽丰田铂智7动态首测",
@@ -167,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "福特号航母为何遭遇火灾",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%BA%E4%BD%95%E9%81%AD%E9%81%87%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "伊拉克巴士拉石油公司日产量已从330万桶降至90万桶",
