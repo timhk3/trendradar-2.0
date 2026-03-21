@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T04:22:41.004573+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-03-22T05:22:04.563277+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             9,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 05时22分]"
         },
         {
           "title": "“打鸟”一年花掉一辆保时捷",
@@ -27,11 +28,12 @@
           "ranks": [
             17,
             13,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 05时22分]"
         }
       ]
     },
@@ -47,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时22分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
