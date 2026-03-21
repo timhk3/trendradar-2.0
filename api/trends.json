@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-03-22T01:23:40.024536+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-03-22T02:32:04.705217+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据Kan News：美国已通知以色列，“杰拉尔德·福特”号航空母舰已恢复全面作战能力。",
+          "url": "https://flash.jin10.com/detail/20260322021528647800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 02时32分]"
+        },
+        {
+          "title": "“打鸟”一年花掉一辆保时捷",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%93%E9%B8%9F%E2%80%9D%E4%B8%80%E5%B9%B4%E8%8A%B1%E6%8E%89%E4%B8%80%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 2,
       "titles": [
-        {
-          "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
-          "url": "https://flash.jin10.com/detail/20260322000325105800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时23分]"
-        },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
@@ -27,22 +45,16 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时32分]"
+        },
         {
-          "title": "“打鸟”一年花掉一辆保时捷",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%93%E9%B8%9F%E2%80%9D%E4%B8%80%E5%B9%B4%E8%8A%B1%E6%8E%89%E4%B8%80%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7",
-          "source": "百度热搜",
+          "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
+          "url": "https://flash.jin10.com/detail/20260322000325105800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            13
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
