@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:45:57.512046+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-03-22T15:37:55.609130+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时37分]"
+        },
+        {
+          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
+          "url": "https://flash.jin10.com/detail/20260322125424155800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时37分]"
         },
         {
           "title": "比亚迪ATTO 3 Evo英国上市",
@@ -29,18 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 13时52分]"
-        },
-        {
-          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
-          "url": "https://flash.jin10.com/detail/20260322125424155800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时45分]"
         }
       ]
     },
