@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T12:27:28.506419+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-03-23T14:09:43.327832+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
@@ -28,7 +28,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -37,11 +37,12 @@
           "url": "https://www.toutiao.com/trending/7619166853735678003/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时09分]"
         },
         {
           "title": "据小米汽车消息，小米新SU7今日开启交付。",
@@ -50,9 +51,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "特斯拉为什么不抢占 40-60 区间的电车市场？",
+          "url": "https://www.zhihu.com/question/1953138286450157007",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "金十图示：2026年03月23日（周一）富时中国A50指数成分股：盘面几乎全线飘绿，多数个股跌逾4%，牧原股份重挫超8%；比亚迪逆势涨超5%",
@@ -61,7 +73,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -90,9 +102,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时09分]"
         }
       ]
     },
