@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:02:44.247718+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-23T17:08:36.997498+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
@@ -28,9 +28,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "问界M6",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "小鹏成立Robotaxi业务部",
@@ -95,7 +106,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -105,6 +116,18 @@
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 2,
       "titles": [
+        {
+          "title": "卖掉10年的奥迪车竟成盗抢车辆，西安车主莫名被起诉",
+          "url": "https://news.ifeng.com/c/8rixLo23gZA",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 17时08分]"
+        },
         {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
           "url": "https://wallstreetcn.com/livenews/3074585",
@@ -116,23 +139,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时32分]"
-        },
-        {
-          "title": "卖掉10年的奥迪车竟成盗抢车辆，西安车主莫名被起诉",
-          "url": "https://news.ifeng.com/c/8rixLo23gZA",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时02分]"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄仁勋的三颗“炸弹”炸出了什么",
@@ -150,6 +162,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时24分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     }
