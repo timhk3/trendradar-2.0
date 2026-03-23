@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T18:51:08.397896+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-03-23T19:42:30.159022+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
@@ -111,6 +111,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
+          "url": "https://www.zhihu.com/question/2019371641231079064",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "特斯拉为什么不抢占 40-60 区间的电车市场？",
           "url": "https://www.zhihu.com/question/1953138286450157007",
           "source": "知乎",
@@ -133,6 +144,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "问界M8新增瑞红和湛蓝车色",
+          "url": "https://www.toutiao.com/trending/7619312885919141419/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "麦格理：将小鹏汽车评级由跑赢大市下调至中性评级。将小鹏汽车(XPEV.N)目标价由24美元下调至19美元。将小鹏汽车(09868.HK)目标价由93港元下调至73港元。",
           "url": "https://flash.jin10.com/detail/20260323152506517800",
           "source": "金十数据",
@@ -147,7 +169,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "卖掉10年的奥迪车竟成盗抢车辆，西安车主莫名被起诉",
@@ -174,13 +196,35 @@
           "time_info": "[00时26分 ~ 02时32分]"
         },
         {
+          "title": "工业和信息化部负责人会见苹果、高通、SK海力士、大众汽车、梅赛德斯-奔驰、西门子等跨国企业和商协会负责人",
+          "url": "https://wallstreetcn.com/livenews/3075158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "工业和信息化部负责人会见苹果、高通、SK海力士、大众汽车、梅赛德斯-奔驰、西门子等跨国企业和商协会负责人",
+          "url": "https://flash.jin10.com/detail/20260323191129528800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美军“福特”号航母今天（3月23日）抵达希腊克里特岛苏达湾。 (CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3075084",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
