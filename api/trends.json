@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T15:06:18.782468+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-03-24T16:46:52.373923+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
@@ -63,7 +63,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "何小鹏参考欧阳娜娜建议改款新MONA",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%8F%82%E8%80%83%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%BB%BA%E8%AE%AE%E6%94%B9%E6%AC%BE%E6%96%B0MONA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
