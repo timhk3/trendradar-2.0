@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T01:54:23.025607+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-25T02:58:46.614484+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
@@ -19,6 +19,28 @@
           "time_info": "00时04分"
         },
         {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
+          "url": "https://flash.jin10.com/detail/20260325021945780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
           "url": "https://wallstreetcn.com/livenews/3076067",
           "source": "华尔街见闻-快讯",
@@ -28,6 +50,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260325021429443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
+          "url": "https://flash.jin10.com/detail/20260325020915604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -41,13 +96,35 @@
           "time_info": "00时04分"
         },
         {
+          "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
+          "url": "https://wallstreetcn.com/livenews/3076129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
+          "url": "https://flash.jin10.com/detail/20260325020626675800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "谷歌公司：在谷歌电视（Google TV）新增三款Gemini功能。",
           "url": "https://wallstreetcn.com/livenews/3076087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
@@ -63,33 +140,36 @@
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时58分]"
         },
         {
           "title": "问界M6 24小时订单突破6万台",
           "url": "https://www.toutiao.com/trending/7620751369233780250/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时58分]"
         },
         {
           "title": "峰学蔚来",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时58分]"
         }
       ]
     },
@@ -104,7 +184,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
