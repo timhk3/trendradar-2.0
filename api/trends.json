@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T06:33:02.809040+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-03-26T07:31:52.947814+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "Sora关停背后",
@@ -31,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "黄仁勋谈生死：我不相信继任计划，希望倒在岗位上，而且是瞬间倒下",
@@ -44,8 +45,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -59,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -91,11 +92,12 @@
             25,
             29,
             20,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国仍在向乌克兰供应武器。只要有资金支持，乌克兰具备日产2000架无人机拦截器的能力。",
@@ -123,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时31分]"
         }
       ]
     }
