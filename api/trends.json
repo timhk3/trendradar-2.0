@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:02:50.296201+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2026-03-25T22:34:03.516395+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "Sora关停背后",
@@ -16,26 +16,12 @@
             6,
             10,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 21时02分]"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4,
-            3,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时34分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -51,8 +37,23 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 22时34分]"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3,
+            8,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时53分 ~ 21时02分]"
+          "time_info": "[12时18分 ~ 19时40分]"
         },
         {
           "title": "黄仁勋震撼发言：AGI时代已经到来，“龙虾开公司”不是梦！",
@@ -87,11 +88,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 22时34分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -376,6 +378,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。 该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德国思爱普Sap，预计年收入将在2031年达到150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
           "url": "https://flash.jin10.com/detail/20260325063733355800",
           "source": "金十数据",
@@ -508,7 +521,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -549,7 +562,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【A股收盘：沪指涨1.3%重返3900点，全市场上涨个股超4800只】市场全天高开高走，沪指重返3900点上方。绿电概念股持续爆发，华电辽能8连板，晋控电力、粤电力A、湖南发展等十余股涨停。光通信概念股走强，通鼎互联、长飞光纤、铭普光磁等涨停。算力概念股活跃，大位科技、利通电子、真视通等涨停。军工板块午后走强，湖南天雁、长城军工涨停。下跌方面，油气股调整，科力股份、通源石油跌超6%。个股呈现普涨态势，沪深京三市超4800股飘红，今日成交超2.19万亿。截止收盘沪指涨1.3%，深成指涨1.95%，创业板指涨2.01%。",
@@ -575,6 +588,17 @@
           "time_info": "[18时45分 ~ 19时40分]"
         },
         {
+          "title": "全新奥迪A6L上市",
+          "url": "https://www.toutiao.com/trending/7620400951362489862/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "美媒：“福特”号航母暴露诸多技术与保障问题",
           "url": "https://wallstreetcn.com/livenews/3076216",
           "source": "华尔街见闻-快讯",
@@ -585,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时29分]"
+        },
+        {
+          "title": "奇瑞风云T9L开启预售，预售价区间为13.99 万-16.99万元",
+          "url": "https://wallstreetcn.com/livenews/3076729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
