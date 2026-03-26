@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T01:59:55.351922+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-27T03:13:37.479704+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "零跑A10上市售6.58万元起",
-          "url": "https://www.toutiao.com/trending/7620739791279292470/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时59分]"
-        },
-        {
           "title": "比亚迪宋Ultra EV售15.19万起",
           "url": "https://www.toutiao.com/trending/7620634494043357247/",
           "source": "今日头条",
           "ranks": [
             19,
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "零跑A10上市售6.58万元起",
+          "url": "https://www.toutiao.com/trending/7620739791279292470/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "特斯拉发布一季度交付预期：分析师们预计365,645辆。",
@@ -68,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "Xero与Anthropic达成多年合作伙伴关系，Xero称，合作将把Claude的人工智能直接接入Xero，并把Xero的财务数据和工具引入Claude.ai。",
@@ -106,7 +108,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
