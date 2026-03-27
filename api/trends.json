@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-27T16:00:16.701880+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-03-27T17:00:26.459196+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 13,
       "titles": [
+        {
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 17时00分]"
+        },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时29分]"
-        },
-        {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 16时00分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -294,11 +295,12 @@
           "ranks": [
             18,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 16时00分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时00分]"
         },
         {
           "title": "A股军工装备板块直线拉升，建设工业直线封板，北方长龙、长城军工、捷强装备、光电股份、天秦装备跟涨。",
@@ -340,7 +342,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时00分"
         },
@@ -351,7 +353,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时00分"
         }
