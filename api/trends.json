@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:52:18.740724+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-03-28T03:40:05.310524+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "比亚迪2025年营收突破8000亿元",
@@ -42,7 +42,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
