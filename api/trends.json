@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T05:31:54.726147+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-03-28T06:28:48.288394+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。",
@@ -49,7 +49,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
