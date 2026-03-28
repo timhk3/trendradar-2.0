@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:30:11.948877+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-03-28T23:28:32.719167+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 22时30分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 23时28分]"
         },
         {
           "title": "仰望迭代割韭菜,车主抱团维权",
@@ -38,8 +38,23 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时17分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 23时28分]"
+        },
+        {
+          "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2020939119086364459",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 23时28分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
@@ -53,20 +68,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时30分]"
-        },
-        {
-          "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
-          "url": "https://www.zhihu.com/question/2020939119086364459",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 22时30分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -210,7 +211,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "东风导弹射程覆盖全日本",
@@ -242,11 +243,23 @@
           "url": "https://wallstreetcn.com/livenews/3078614",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时28分]"
+        },
+        {
+          "title": "美“福特”号航母驶入克罗地亚港口",
+          "url": "https://flash.jin10.com/detail/20260328220840937800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时30分"
+          "time_info": "23时28分"
         },
         {
           "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
