@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:55:42.138013+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-28T14:54:59.814959+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             14,
             11,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时54分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -39,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时54分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -52,11 +54,12 @@
           "ranks": [
             3,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时54分]"
         },
         {
           "title": "仰望迭代割韭菜,车主抱团维权",
@@ -64,11 +67,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时54分]"
         },
         {
           "title": "比亚迪2025年净利润326.2亿元",
@@ -139,9 +143,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时54分]"
         },
         {
           "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
