@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T02:36:02.211700+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-29T03:28:19.544225+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -27,11 +27,12 @@
           "ranks": [
             19,
             17,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "仰望迭代割韭菜,车主抱团维权",
@@ -42,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
@@ -71,8 +72,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "美“福特”号航母驶入克罗地亚港口",
@@ -97,11 +98,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         }
       ]
     }
