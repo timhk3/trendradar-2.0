@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T15:43:35.759196+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-03-28T16:35:18.321970+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             11,
             24,
             10,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时35分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -42,11 +43,12 @@
           "ranks": [
             18,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时35分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -57,11 +59,12 @@
             12,
             18,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时35分]"
         },
         {
           "title": "仰望迭代割韭菜,车主抱团维权",
@@ -70,11 +73,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 16时35分]"
         },
         {
           "title": "比亚迪2025年净利润326.2亿元",
@@ -115,11 +119,12 @@
           "url": "https://flash.jin10.com/detail/20260328145650511800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "比亚迪2025年营收突破8000亿元",
@@ -155,11 +160,12 @@
           "source": "微博",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时35分]"
         },
         {
           "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
