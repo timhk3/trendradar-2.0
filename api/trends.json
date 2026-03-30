@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:56:05.240900+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-31T03:55:10.003969+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 03时55分]"
         },
         {
           "title": "瓜帅在巴塞罗那喜提新车比亚迪",
@@ -42,11 +42,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            27
+            27,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 03时55分]"
         },
         {
           "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
