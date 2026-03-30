@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T05:39:30.121373+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-31T06:58:33.686979+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 06时58分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
@@ -58,11 +58,12 @@
             27,
             6,
             29,
-            26
+            26,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时58分]"
         },
         {
           "title": "通用汽车(GM.N)：底特律电动汽车工厂将停产至4月13日。",
@@ -71,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
