@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T01:53:13.931109+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-31T02:56:05.240900+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2021703750130083017",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 02时56分]"
         },
         {
           "title": "瓜帅在巴塞罗那喜提新车比亚迪",
