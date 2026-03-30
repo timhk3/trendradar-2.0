@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-03-30T18:59:59.757421+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-03-30T19:56:46.502833+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "广汽去年卖了172万辆车亏近88亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E5%8E%BB%E5%B9%B4%E5%8D%96%E4%BA%86172%E4%B8%87%E8%BE%86%E8%BD%A6%E4%BA%8F%E8%BF%9188%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 07时29分]"
+        },
+        {
+          "title": "市场消息：报道称，数字发展、通讯和大众传媒部正就强迫苹果将受欢迎的俄罗斯应用程序重新上架到App Store展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260330163834474800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "丰田：2月对美汽车出口同比下降16%，至43,017辆。",
+          "url": "https://flash.jin10.com/detail/20260330125037769800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "大众9X是增程车的终极答案吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%979X%E6%98%AF%E5%A2%9E%E7%A8%8B%E8%BD%A6%E7%9A%84%E7%BB%88%E6%9E%81%E7%AD%94%E6%A1%88%E5%90%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "上汽大众ID.ERA 9X预售发布会",
+          "url": "https://www.toutiao.com/trending/7622287447712530474/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
       "match_count": 4,
@@ -50,59 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "广汽去年卖了172万辆车亏近88亿元",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E5%8E%BB%E5%B9%B4%E5%8D%96%E4%BA%86172%E4%B8%87%E8%BE%86%E8%BD%A6%E4%BA%8F%E8%BF%9188%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时29分]"
-        },
-        {
-          "title": "市场消息：报道称，数字发展、通讯和大众传媒部正就强迫苹果将受欢迎的俄罗斯应用程序重新上架到App Store展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260330163834474800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "丰田：2月对美汽车出口同比下降16%，至43,017辆。",
-          "url": "https://flash.jin10.com/detail/20260330125037769800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "上汽大众ID.ERA 9X预售发布会",
-          "url": "https://www.toutiao.com/trending/7622287447712530474/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         }
       ]
     },
