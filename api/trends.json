@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T16:07:41.171026+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-03-31T18:03:38.285182+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "张雪谈小米汽车“挖孔机盖”事件",
+          "url": "https://www.toutiao.com/trending/7623279571828244522/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "恒指高开0.27%，报24818.20点；恒生科技指数涨0.08%。美的涨超4%，舜宇光学科技、蔚来涨超1%。",
