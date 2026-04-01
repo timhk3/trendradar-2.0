@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:22:18.889093+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-04-01T15:24:34.129424+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "港股小鹏集团(09868.HK)尾盘扩大涨幅，现涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260401151936793800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "港股汽车股午后走强，蔚来-SW(09866.HK)、岚图汽车(07489.HK)涨超10%，零跑汽车(09863.HK)涨超6%，理想汽车(02015.HK)、吉利汽车(00175.HK)涨超3%。",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -53,13 +64,24 @@
           "time_info": "10时09分"
         },
         {
+          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
+          "url": "https://wallstreetcn.com/livenews/3080701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
           "url": "https://wallstreetcn.com/livenews/3080623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -81,7 +103,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -92,7 +114,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -114,15 +136,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "马斯克：FSD 14.3版本现已在特斯拉员工中进行测试，预计本周末将向大众广泛发布。",
+          "url": "https://flash.jin10.com/detail/20260401150658569800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -163,6 +196,18 @@
           "time_info": "[10时09分 ~ 13时22分]"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 15时24分]"
+        },
+        {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
           "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
@@ -197,15 +242,26 @@
           "time_info": "04时40分"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "《华尔街日报》披露 Sora 关停内幕，每日亏百万、用户数腰斩，这暴露了 AI 视频赛道哪些致命问题？",
+          "url": "https://www.zhihu.com/question/2021993627107292496",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -222,18 +278,19 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "张雪回应被比作本田创始人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352631&amp;topic_name=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AF%94%E4%BD%9C%E6%9C%AC%E7%94%B0%E5%88%9B%E5%A7%8B%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 15时24分]"
         },
         {
           "title": "【美军“布什”号航母正部署至中东地区】3月31日获悉，美国尼米兹级航母“布什”号及其随行舰队正在部署至中东地区。据悉，该航母将与“林肯”号和“福特”号航母打击群汇合，这意味着美国在该地区可能将同时部署三艘航母。（央视）",
@@ -265,9 +322,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：大众汽车美国公司召回75,323辆美国市场车辆。",
+          "url": "https://flash.jin10.com/detail/20260401150720146800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     }
