@@ -1,629 +1,100 @@
 {
-  "generated_at": "2026-04-01T23:02:39.193072+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-04-02T00:27:29.314879+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 30,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3080631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "小鹏副总裁魏斌已于近期离职",
-          "url": "https://wallstreetcn.com/livenews/3080888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "港股小鹏集团(09868.HK)尾盘扩大涨幅，现涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260401151936793800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "极氪：3月新车交付29,318辆，同环比分别增长90%、23%",
-          "url": "https://wallstreetcn.com/livenews/3080776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "港股汽车股午后走强，蔚来-SW(09866.HK)、岚图汽车(07489.HK)涨超10%，零跑汽车(09863.HK)涨超6%，理想汽车(02015.HK)、吉利汽车(00175.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260401131427281800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "零跑汽车(09863.HK)：近期公司CEO朱江明及股东傅利泉于市场内合共购入5,080,200股本公司H股，平均价格为每股股份约45.10港币，合共增持金额约2.3亿元港币。",
-          "url": "https://flash.jin10.com/detail/20260401061400837800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "小米汽车：2026年3月，小米汽车交付量超过20000台， 新一代SU7，自3月23日开启交付起，累计交付已超7000台。",
-          "url": "https://wallstreetcn.com/livenews/3080534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)：一季度总交付量达62,682辆。",
-          "url": "https://flash.jin10.com/detail/20260401163732731800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
         {
           "title": "3月造车新势力集体回暖：零跑重回“5万俱乐部” “蔚小理”环比增超五成",
           "url": "https://www.cls.cn/detail/2332472",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "理想汽车(02015.HK)：3月交付41053辆汽车，截至3月31日，累计交付量已达1635357辆。",
-          "url": "https://flash.jin10.com/detail/20260401163129457800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "小鹏汽车2026年3月交付27,415辆汽车，环比增长80%。",
-          "url": "https://flash.jin10.com/detail/20260401163045963800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
-          "url": "https://wallstreetcn.com/livenews/3080701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "00时27分"
         },
         {
-          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
-          "url": "https://wallstreetcn.com/livenews/3080623",
-          "source": "华尔街见闻-快讯",
+          "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
+          "url": "https://flash.jin10.com/detail/20260402000716958800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "00时27分"
         },
         {
-          "title": "深蓝汽车3月全球销量31742辆，同比提升30%",
-          "url": "https://wallstreetcn.com/livenews/3080815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "比亚迪：3月份销售300222辆，乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
-          "url": "https://wallstreetcn.com/livenews/3080813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
-          "url": "https://wallstreetcn.com/livenews/3080615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "理想汽车：3月交付汽车41053辆，同比增长12%",
-          "url": "https://wallstreetcn.com/livenews/3080757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "小鹏集团：3月交付新车27415辆，较上一个月增长80%",
-          "url": "https://wallstreetcn.com/livenews/3080755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "蔚来公司3月交付同比增长136%，蔚来ES9产品技术发布会将于4月9日举行",
-          "url": "https://wallstreetcn.com/livenews/3080800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "拉普拉斯午后打开涨停板，现涨幅缩窄至8%。消息面上，公司澄清“中标特斯拉光伏项目第二期百亿订单”传闻。",
-          "url": "https://flash.jin10.com/detail/20260401130051092800",
+          "title": "意大利交通部表示，特斯拉第一季度新车注册量同比增长27.35%，3月份特斯拉新车注册量同比增长31.65%。",
+          "url": "https://flash.jin10.com/detail/20260402000329170800",
           "source": "金十数据",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "恒指收涨2.04% 蔚来涨逾10%",
-          "url": "https://www.baidu.com/s?wd=%E6%81%92%E6%8C%87%E6%94%B6%E6%B6%A82.04%25+%E8%94%9A%E6%9D%A5%E6%B6%A8%E9%80%BE10%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
-          "url": "https://wallstreetcn.com/livenews/3080607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
-          "url": "https://wallstreetcn.com/livenews/3080253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "理想汽车(02015.HK)：即日起至4月30日（含）下单理想MEGA，可享受限时5年0息方案。",
-          "url": "https://flash.jin10.com/detail/20260401125645844800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "原特斯拉中国区高管孔艳双入职小米",
-          "url": "https://www.toutiao.com/trending/7623635986878119986/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "深蓝汽车3月全球销量31742辆，同比提升30%",
-          "url": "https://flash.jin10.com/detail/20260401175738802800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "马斯克：特斯拉Model S和Model X已停止接受新的定制订单，目前仅剩部分库存现车可供选购。",
-          "url": "https://wallstreetcn.com/livenews/3080785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "马斯克：FSD 14.3版本现已在特斯拉员工中进行测试，预计本周末将向大众广泛发布。",
-          "url": "https://flash.jin10.com/detail/20260401150658569800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "方程豹汽车公布3月销售25926辆，同比增长222%，环比增长52.2%。",
-          "url": "https://flash.jin10.com/detail/20260401190211652800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "比亚迪李云飞：比亚迪3月份销售300222辆，获得中国车企销量冠军。乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
-          "url": "https://flash.jin10.com/detail/20260401175503544800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "张雪回应被比作本田创始人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352631&amp;topic_name=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AF%94%E4%BD%9C%E6%9C%AC%E7%94%B0%E5%88%9B%E5%A7%8B%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 18时11分]"
-        },
-        {
-          "title": "【美军“布什”号航母正部署至中东地区】3月31日获悉，美国尼米兹级航母“布什”号及其随行舰队正在部署至中东地区。据悉，该航母将与“林肯”号和“福特”号航母打击群汇合，这意味着美国在该地区可能将同时部署三艘航母。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3080342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时40分]"
-        },
-        {
-          "title": "梅赛德斯-奔驰向阿拉巴马州SUV工厂投资40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401012846492800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
-        },
-        {
-          "title": "上汽集团：2025年净利润101.06亿元，同比增长506.45%",
-          "url": "https://wallstreetcn.com/livenews/3080820",
-          "source": "华尔街见闻-快讯",
+          "title": "青岛保时捷女销售再夺销冠",
+          "url": "https://www.toutiao.com/trending/7623260425815982130/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "起亚公司：受伊朗战事影响，3月份中东及亚洲市场销量下滑。",
-          "url": "https://flash.jin10.com/detail/20260401162026545800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "吉利汽车3月汽车总销量为23.3万辆",
-          "url": "https://www.toutiao.com/trending/7622988378929971243/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "本田日本3月份销量同比下降7.4%；日产日本3月份销量同比下降12.2%。",
-          "url": "https://flash.jin10.com/detail/20260401130518372800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "吉利汽车：3月的汽车总销量为23.3万辆，与去年同期持平。",
-          "url": "https://wallstreetcn.com/livenews/3080804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "00时27分"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
           "url": "https://www.toutiao.com/trending/7623594666915004458/",
           "source": "今日头条",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "长城汽车：3月销量10.62万台，同比增8.38%",
-          "url": "https://wallstreetcn.com/livenews/3080792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "上汽集团：2025年净利润101.06亿元 同比增长506.45%",
-          "url": "https://flash.jin10.com/detail/20260401175653512800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：大众汽车美国公司召回75,323辆美国市场车辆。",
-          "url": "https://flash.jin10.com/detail/20260401150720146800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "00时27分"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
           "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E00%E5%90%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%AB%98%E7%AE%A1%E6%80%A7%E9%AA%9A%E6%89%B0",
           "source": "百度热搜",
           "ranks": [
-            28
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 10时09分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 19时58分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
-          "url": "https://flash.jin10.com/detail/20260401041908272800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时22分]"
-        },
-        {
-          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-          "url": "https://wallstreetcn.com/livenews/3080773",
+          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3081032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 15时24分]"
-        },
-        {
-          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
-          "url": "https://flash.jin10.com/detail/20260401041102848800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401041014408800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "《华尔街日报》披露 Sora 关停内幕，每日亏百万、用户数腰斩，这暴露了 AI 视频赛道哪些致命问题？",
-          "url": "https://www.zhihu.com/question/2021993627107292496",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
-          "url": "https://wallstreetcn.com/livenews/3080416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "00时27分"
         }
       ]
     }
