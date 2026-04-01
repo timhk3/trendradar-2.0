@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T02:57:12.932414+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-02T03:57:38.938826+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时57分]"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
@@ -29,19 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时57分]"
-        },
-        {
-          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
-          "url": "https://flash.jin10.com/detail/20260402023450326800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时57分]"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
@@ -53,8 +43,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时57分]"
+        },
+        {
+          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260402023450326800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "time_info": "[02时56分 ~ 03时57分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
@@ -63,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -82,7 +84,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "3月造车新势力集体回暖：零跑重回“5万俱乐部” “蔚小理”环比增超五成",
@@ -93,8 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时57分]"
         },
         {
           "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "Stellantis与零跑洽谈在加拿大闲置工厂合作生产电动车",
+          "url": "https://wallstreetcn.com/livenews/3081077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         }
       ]
     },
