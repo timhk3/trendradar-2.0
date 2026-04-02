@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:29:07.462191+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-04-03T07:33:29.962224+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "单月交付破万,极氪赢麻",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -182,11 +182,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 06时29分]"
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时33分]"
         },
         {
           "title": "美国“福特”号航母驶离克罗地亚港口",
