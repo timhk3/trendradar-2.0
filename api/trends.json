@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T16:05:02.946778+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-02T17:58:59.697325+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "青岛保时捷女销售再夺销冠",
@@ -118,7 +118,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -132,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "广汽集团第一季度累计销量近38万辆",
+          "url": "https://wallstreetcn.com/livenews/3081468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "福特号火灾画面曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E7%89%B9%E5%8F%B7%E7%81%AB%E7%81%BE%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
@@ -159,7 +181,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "3月造车新势力集体回暖：零跑重回“5万俱乐部” “蔚小理”环比增超五成",
@@ -183,8 +205,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时58分]"
         },
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
@@ -194,11 +216,12 @@
             18,
             16,
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时58分]"
         },
         {
           "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
@@ -212,6 +235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时34分]"
+        },
+        {
+          "title": "乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。",
+          "url": "https://wallstreetcn.com/livenews/3081496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "Stellantis与零跑洽谈在加拿大闲置工厂合作生产电动车",
@@ -276,6 +310,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "财晓得｜Sora关停、Adobe暴跌，背后发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32866104",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 17时58分]"
+        },
+        {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
           "url": "https://wallstreetcn.com/livenews/3081032",
           "source": "华尔街见闻-快讯",
@@ -286,17 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时48分]"
-        },
-        {
-          "title": "财晓得｜Sora关停、Adobe暴跌，背后发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32866104",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
