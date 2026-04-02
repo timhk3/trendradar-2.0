@@ -1,467 +1,61 @@
 {
-  "generated_at": "2026-04-02T23:58:38.623392+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-04-03T00:57:36.520102+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "单月交付破万,极氪赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352671&amp;topic_name=%E5%8D%95%E6%9C%88%E4%BA%A4%E4%BB%98%E7%A0%B4%E4%B8%87%2C%E6%9E%81%E6%B0%AA%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 23时58分]"
-        },
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
           "url": "https://m.thepaper.cn/newsDetail_forward_32872883",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            13,
-            12,
-            9,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "3月造车新势力集体回暖：零跑重回“5万俱乐部” “蔚小理”环比增超五成",
-          "url": "https://www.cls.cn/detail/2332472",
-          "source": "财联社热门",
+          "title": "单月交付破万,极氪赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352671&amp;topic_name=%E5%8D%95%E6%9C%88%E4%BA%A4%E4%BB%98%E7%A0%B4%E4%B8%87%2C%E6%9E%81%E6%B0%AA%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
           "ranks": [
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时56分]"
-        },
-        {
-          "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3081107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 06时34分]"
-        },
-        {
-          "title": "乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。",
-          "url": "https://wallstreetcn.com/livenews/3081496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "比亚迪：预计年底将在全国建设20000座闪充站",
-          "url": "https://wallstreetcn.com/livenews/3081597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "马斯克确认停产特斯拉两款车型",
-          "url": "https://www.douyin.com/hot/2451990",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "Stellantis与零跑洽谈在加拿大闲置工厂合作生产电动车",
-          "url": "https://wallstreetcn.com/livenews/3081077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 04时42分]"
-        },
-        {
-          "title": "国产「张雪机车」夺得 WSBK 两连冠，如何评价它的技术实力？会成为摩托车界的「比亚迪」吗？",
-          "url": "https://www.zhihu.com/question/2021921598555398146",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "华为旗舰标准智界V9不计成本投入",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%97%97%E8%88%B0%E6%A0%87%E5%87%86%E6%99%BA%E7%95%8CV9%E4%B8%8D%E8%AE%A1%E6%88%90%E6%9C%AC%E6%8A%95%E5%85%A5%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "2026款小鹏MONA大大大大大升级",
-          "url": "https://s.weibo.com/weibo?q=%232026%E6%AC%BE%E5%B0%8F%E9%B9%8FMONA%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时04分]"
+          "time_info": "00时57分"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
           "source": "百度热搜",
           "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 23时58分]"
-        },
-        {
-          "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
-          "url": "https://flash.jin10.com/detail/20260402000716958800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "意大利交通部表示，特斯拉第一季度新车注册量同比增长27.35%，3月份特斯拉新车注册量同比增长31.65%。",
-          "url": "https://flash.jin10.com/detail/20260402000329170800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "2026款小鹏MONA M03上市 首次将1500TOPS有效算力带入2万美元级别",
-          "url": "https://flash.jin10.com/detail/20260402204809404800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "比亚迪海豹06双车上市，起售价下探至11.19万并搭载高阶智驾",
-          "url": "https://wallstreetcn.com/livenews/3081661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "理想比亚迪车主斗气致小米车主撞伤",
-          "url": "https://www.toutiao.com/trending/7623687563333632043/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "青岛保时捷女销售再夺销冠",
-          "url": "https://www.toutiao.com/trending/7623260425815982130/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            9,
-            10,
-            25,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时34分]"
-        },
-        {
-          "title": "奇瑞00后女员工实名举报高管性骚扰",
-          "url": "https://www.toutiao.com/trending/7623594666915004458/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时34分]"
-        },
-        {
-          "title": "奇瑞00后女员工实名举报高管性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E00%E5%90%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%AB%98%E7%AE%A1%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14,
-            12,
-            18,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时56分]"
-        },
-        {
-          "title": "保时捷女销售再夺一季度销冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E5%86%8D%E5%A4%BA%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%94%80%E5%86%A0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时42分 ~ 09时56分]"
-        },
-        {
-          "title": "青岛保时捷女销售再夺第一季度销冠",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E5%86%8D%E5%A4%BA%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%94%80%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            2,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 16时05分]"
-        },
-        {
-          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
-          "url": "https://flash.jin10.com/detail/20260402023450326800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 03时57分]"
-        },
-        {
-          "title": "福特号火灾画面曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E7%89%B9%E5%8F%B7%E7%81%AB%E7%81%BE%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时43分]"
-        },
-        {
-          "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3081077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "奇瑞集团3月出口近15万辆汽车",
-          "url": "https://flash.jin10.com/detail/20260402140420986800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "魏建军：车市特别卷 长城被动降价",
-          "url": "https://www.toutiao.com/trending/7623594544093233190/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "上汽集团：2026年3月份整车合计销量375,870辆，同比减少2.56%；其中新能源汽车销量113,101辆，同比减少10.03%。",
-          "url": "https://wallstreetcn.com/livenews/3081430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "长安汽车等成立天枢智能机器人公司 注册资本4.5亿元",
-          "url": "https://flash.jin10.com/detail/20260402135134704800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "广汽集团第一季度累计销量近38万辆",
-          "url": "https://wallstreetcn.com/livenews/3081468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "长安汽车：3月销量27.09万辆，同比增长1.05%",
-          "url": "https://flash.jin10.com/detail/20260402190744538800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3081039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "A股军工板块异动拉升，北方长龙涨超7%，湖南天雁、建设工业、长城军工、捷强装备等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3081326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "财晓得｜Sora关停、Adobe暴跌，背后发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32866104",
-          "source": "澎湃新闻",
+          "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
+          "url": "https://flash.jin10.com/detail/20260403000818112800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时43分]"
-        },
-        {
-          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3081032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时48分]"
-        },
-        {
-          "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
-          "url": "https://wallstreetcn.com/livenews/3081299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "图解OpenAI债务危机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "00时57分"
         }
       ]
     }
