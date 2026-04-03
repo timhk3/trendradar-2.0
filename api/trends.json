@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-04T00:37:06.332403+08:00",
-  "total_titles_processed": 323,
+  "generated_at": "2026-04-04T01:32:07.436112+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪推出限时优惠政策",
+          "url": "https://www.toutiao.com/trending/7624299443176751123/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时32分]"
         }
       ]
     }
