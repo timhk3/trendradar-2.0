@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T09:58:36.745326+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-04-03T12:31:59.516525+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 09时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时31分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -95,6 +96,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时48分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "理想汽车(02015.HK)：即日起至4月30日（含）下单理想i6，可享受限时3年0息方案。",
+          "url": "https://flash.jin10.com/detail/20260403120302361800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.34%，报6750.93点。 热门中概股里，腾讯初步收跌2%，小米、京东、美团、阿里、拼多多至少跌约1%，理想涨0.4%，小鹏涨1.1%，蔚来涨1.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.59%，中概互联网指数ETF（KWEB）收0.74%。 XtrackersHarvest中证50（ASHS）收跌0.62%，德银嘉实沪深300指数ETF（ASHR）收跌0.55%。",
@@ -208,7 +231,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
