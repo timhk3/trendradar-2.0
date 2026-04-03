@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:07:39.005873+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-04-03T18:41:04.530441+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,13 @@
             16,
             17,
             21,
-            24
+            24,
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 17时07分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 18时41分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -161,7 +163,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美以伊战争丨美“福特”号航母准备重新参与伊朗战事",
@@ -198,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 17时07分]"
+        },
+        {
+          "title": "俄罗斯外交部：4月2日，科伦坡举行了第11轮俄斯外长间磋商，俄罗斯副外长安德烈·鲁登科与斯里兰卡第一副外长阿鲁尼·拉纳拉贾会晤。双方讨论了双边、地区和国际议程上的热点问题。双方重申了继续政治对话的共同承诺，扩大俄斯在各领域的互利合作，并加深在国际平台上的协调。",
+          "url": "https://flash.jin10.com/detail/20260403181308464800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "一汽大众全新纯电SUV谍照曝光",
@@ -252,6 +265,19 @@
           "time_info": "[01时49分 ~ 03时48分]"
         },
         {
+          "title": "Anthropic误删数千GitHub仓库",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时41分]"
+        },
+        {
           "title": "市场消息：OpenAI收购TBPN。",
           "url": "https://flash.jin10.com/detail/20260403012712890800",
           "source": "金十数据",
@@ -262,18 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时53分]"
-        },
-        {
-          "title": "Anthropic误删数千GitHub仓库",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时07分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
