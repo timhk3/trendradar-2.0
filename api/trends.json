@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T12:31:59.516525+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-04-03T14:12:04.456199+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 14时12分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -60,6 +61,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 06时29分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 14时12分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -98,15 +111,15 @@
           "time_info": "[02时53分 ~ 03时48分]"
         },
         {
-          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
-          "url": "https://www.cls.cn/detail/2334126",
-          "source": "财联社热门",
+          "title": "蔚来：全新ES8完成第90,000台新车交付",
+          "url": "https://flash.jin10.com/detail/20260403133807725800",
+          "source": "金十数据",
           "ranks": [
-            8
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "理想汽车(02015.HK)：即日起至4月30日（含）下单理想i6，可享受限时3年0息方案。",
@@ -115,7 +128,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -140,6 +153,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国海军：福特号航母准备重新参与伊朗的行动。",
+          "url": "https://flash.jin10.com/detail/20260403044719293800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时33分]"
+        },
+        {
+          "title": "美以伊战争丨美“福特”号航母准备重新参与伊朗战事",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "一汽大众全新纯电SUV谍照曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%85%A8%E6%96%B0%E7%BA%AF%E7%94%B5SUV%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "美国“福特”号航母驶离克罗地亚港口",
+          "url": "https://wallstreetcn.com/livenews/3081771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "一汽大众能在混动翻身吗",
+          "url": "https://www.toutiao.com/trending/7624154541180780563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -193,47 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国海军：福特号航母准备重新参与伊朗的行动。",
-          "url": "https://flash.jin10.com/detail/20260403044719293800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 07时33分]"
-        },
-        {
-          "title": "美国“福特”号航母驶离克罗地亚港口",
-          "url": "https://wallstreetcn.com/livenews/3081771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "一汽大众能在混动翻身吗",
-          "url": "https://www.toutiao.com/trending/7624154541180780563/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         }
       ]
     }
