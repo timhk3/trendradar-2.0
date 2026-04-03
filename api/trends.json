@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T14:12:04.456199+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-04-03T16:02:37.997913+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             8,
             9,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 16时02分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -71,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时02分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -158,8 +159,19 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美以伊战争丨美“福特”号航母准备重新参与伊朗战事",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时11分 ~ 16时02分]"
+        },
         {
           "title": "美国海军：福特号航母准备重新参与伊朗的行动。",
           "url": "https://flash.jin10.com/detail/20260403044719293800",
@@ -174,15 +186,15 @@
           "time_info": "[05时34分 ~ 07时33分]"
         },
         {
-          "title": "美以伊战争丨美“福特”号航母准备重新参与伊朗战事",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "上汽集团：今年将在不同品牌逐步推出搭载半固态电池的量产车型",
+          "url": "https://wallstreetcn.com/livenews/3082068",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 14时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "一汽大众全新纯电SUV谍照曝光",
@@ -221,7 +233,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -247,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时53分]"
+        },
+        {
+          "title": "Anthropic误删数千GitHub仓库",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
