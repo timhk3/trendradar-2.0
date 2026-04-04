@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T22:32:13.557291+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-04-04T23:28:36.430368+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             14,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时32分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
@@ -31,11 +32,12 @@
             23,
             19,
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 20时45分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 23时28分]"
         },
         {
           "title": "小鹏回应澳大利亚独家经销商合作破裂",
@@ -77,6 +79,18 @@
           "time_info": "[12时15分 ~ 15时48分]"
         },
         {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时28分]"
+        },
+        {
           "title": "特斯拉超级充电桩全球突破80000根",
           "url": "https://flash.jin10.com/detail/20260404163036906800",
           "source": "金十数据",
@@ -113,18 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时35分 ~ 19时27分]"
-        },
-        {
-          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
-          "url": "https://www.zhihu.com/question/2023688646847456234",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时32分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
