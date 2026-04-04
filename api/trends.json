@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T19:27:21.062634+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-04-04T20:45:49.205710+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             23,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 18时30分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 20时45分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -28,11 +29,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 20时45分]"
         },
         {
           "title": "小鹏回应澳大利亚独家经销商合作破裂",
@@ -170,11 +172,12 @@
           "ranks": [
             9,
             12,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时03分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[15时03分 ~ 20时45分]"
         },
         {
           "title": "Anthropic误删数千GitHub仓库",
