@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T04:26:42.422691+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-05T05:29:34.904142+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时29分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时29分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
@@ -39,11 +39,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时29分]"
         }
       ]
     },
@@ -56,11 +57,12 @@
           "url": "https://www.zhihu.com/question/2022807584403465039",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时29分]"
         }
       ]
     }
