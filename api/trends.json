@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-06T00:33:01.701180+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-06T01:28:03.737997+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪海豹06DM-i卖到8万级",
+          "url": "https://www.toutiao.com/trending/7625148942854032923/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时28分]"
+        }
+      ]
+    },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://flash.jin10.com/detail/20260405235315270800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         }
       ]
     }
