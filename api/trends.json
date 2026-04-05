@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T06:28:00.133877+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-04-06T07:31:25.318922+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3082679",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时31分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -47,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 07时31分]"
         }
       ]
     },
