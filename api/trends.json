@@ -1,125 +1,22 @@
 {
-  "generated_at": "2026-04-05T23:29:35.928076+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-04-06T00:33:01.701180+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
-          "url": "https://www.zhihu.com/question/2023688646847456234",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时10分]"
-        },
-        {
-          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.toutiao.com/trending/7623711798637740068/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            12,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时28分]"
-        },
-        {
-          "title": "比亚迪海豹06DM-i卖到8万级",
-          "url": "https://www.toutiao.com/trending/7625148942854032923/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
-          "url": "https://www.zhihu.com/question/2022807584403465039",
-          "source": "知乎",
+          "title": "利比亚国家石油公司负责人表示，其原油日产量已升至约143万桶，创下十余年来的新高。",
+          "url": "https://flash.jin10.com/detail/20260405235315270800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            15,
-            14,
-            13,
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时29分 ~ 15时08分]"
-        },
-        {
-          "title": "“在中国追求小众是件很大众的事”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82%E5%B0%8F%E4%BC%97%E6%98%AF%E4%BB%B6%E5%BE%88%E5%A4%A7%E4%BC%97%E7%9A%84%E4%BA%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英媒：英国寻求吸引Anthropic扩大在英业务",
-          "url": "https://flash.jin10.com/detail/20260405130944035800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时01分]"
-        },
-        {
-          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
-          "url": "https://wallstreetcn.com/articles/3769250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
