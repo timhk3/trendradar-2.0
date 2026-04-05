@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-04-05T16:01:50.422538+08:00",
-  "total_titles_processed": 1004,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-04-05T16:53:51.586486+08:00",
+  "total_titles_processed": 1073,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
