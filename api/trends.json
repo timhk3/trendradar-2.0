@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T20:49:43.745295+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-04-05T21:53:45.065989+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时27分 ~ 07时28分]"
+        },
+        {
+          "title": "比亚迪海豹06DM-i卖到8万级",
+          "url": "https://www.toutiao.com/trending/7625148942854032923/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
