@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T02:54:13.131010+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-04-07T03:51:32.657522+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米汽车卖不动了吗",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 03时51分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260407024258088800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     },
