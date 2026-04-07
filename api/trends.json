@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T07:32:58.528844+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-04-07T10:02:11.606174+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米汽车卖不动了吗",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+          "url": "https://flash.jin10.com/detail/20260407093600462800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。",
