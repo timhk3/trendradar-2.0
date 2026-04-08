@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:36:25.314688+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-09T07:35:47.258199+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时35分]"
         },
         {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
@@ -32,6 +32,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 06时36分]"
+        },
+        {
+          "title": "Anthropic针对美国国防部封杀的上诉失败",
+          "url": "https://wallstreetcn.com/livenews/3084599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -63,18 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "Anthropic针对美国国防部封杀的上诉失败",
-          "url": "https://wallstreetcn.com/livenews/3084599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -107,6 +108,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "吉利销量连续两个月超越比亚迪",
+          "url": "https://www.toutiao.com/trending/7626325823544364586/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
           "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
           "url": "https://wallstreetcn.com/livenews/3084561",
           "source": "华尔街见闻-快讯",
@@ -127,23 +140,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "吉利销量连续两个月超越比亚迪",
-          "url": "https://www.toutiao.com/trending/7626325823544364586/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "上汽集团发布 2025 年财报，净利暴增 506%，如何解读这一增速？",
@@ -154,8 +156,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 07时35分]"
+        },
+        {
+          "title": "东风日产高管谈“摸着理想过河”",
+          "url": "https://www.toutiao.com/trending/7626387795717259300/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     }
