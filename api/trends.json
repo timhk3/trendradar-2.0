@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:06:13.146070+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-04-08T19:53:18.527451+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             16,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 18时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 19时53分]"
         },
         {
           "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
