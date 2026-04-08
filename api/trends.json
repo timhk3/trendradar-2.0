@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:09:11.780002+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-04-08T15:13:34.517223+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
@@ -19,8 +19,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 13时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 15时13分]"
+        },
+        {
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "Anthropic行动后，安全软件股上涨",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时00分]"
+        },
+        {
+          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
+          "url": "https://wallstreetcn.com/articles/3769434",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -79,7 +101,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美团李树斌：当AI生成内容越来越多，大众点评上的“真人真评价”就更有价值",
@@ -88,9 +110,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：通用汽车有限责任公司召回271,770辆美国境内车辆，原因是后视图像无法正确显示，这会降低驾驶员对车辆后方的视野，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260408150537403800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     }
