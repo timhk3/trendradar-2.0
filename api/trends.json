@@ -1,167 +1,23 @@
 {
-  "generated_at": "2026-04-09T19:58:04.668582+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-04-09T21:18:08.779112+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 09时57分]"
-        },
-        {
-          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260409051237886800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 06时36分]"
-        },
-        {
-          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "Anthropic针对美国国防部封杀的上诉失败",
-          "url": "https://wallstreetcn.com/livenews/3084599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3084581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时36分]"
-        },
-        {
-          "title": "如何看待 Anthropic 的新模型 Mythos？",
-          "url": "https://www.zhihu.com/question/2025035806335596432",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3084479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
-          "url": "https://wallstreetcn.com/livenews/3084971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国法院暂不阻止美国国防部将Anthropic列入黑名单。",
-          "url": "https://flash.jin10.com/detail/20260409055154761800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174337065800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174200315800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "Anthropic推出由Claude管理的智能体。 推出组合式APIs套件。 这些APIs用于打造和部署云上智能体。",
-          "url": "https://wallstreetcn.com/livenews/3084497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "蔚来ES9",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
         {
           "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
           "url": "https://flash.jin10.com/detail/20260409160118305800",
@@ -174,6 +30,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://wallstreetcn.com/livenews/3085133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "港股收盘：恒生指数收跌0.54%，恒生科技指数收跌2.06%。新能源汽车股下挫，小鹏跌超5%，比亚迪股份跌超4%。科网股走低，快手跌逾3%。",
           "url": "https://wallstreetcn.com/livenews/3084924",
           "source": "华尔街见闻-快讯",
@@ -183,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://flash.jin10.com/detail/20260409210354401800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
@@ -202,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -217,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "蔚来ES9中国元素",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5ES9%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
@@ -299,7 +188,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "男子被保时捷车主当交警面威胁",
@@ -341,6 +230,52 @@
           "time_info": "[18时10分 ~ 19时58分]"
         },
         {
+          "title": "男子开路虎加油500元逃单 车未上牌",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E5%8A%A0%E6%B2%B9500%E5%85%83%E9%80%83%E5%8D%95+%E8%BD%A6%E6%9C%AA%E4%B8%8A%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 21时18分]"
+        },
+        {
+          "title": "华语乐坛有没有中国风歌曲能比得过《东风破》《青花瓷》《发如雪》这三首?",
+          "url": "https://www.zhihu.com/question/1912987175370363662",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 21时18分]"
+        },
+        {
+          "title": "男子被保时捷车主当交警面威胁",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E5%BD%93%E4%BA%A4%E8%AD%A6%E9%9D%A2%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 21时18分]"
+        },
+        {
+          "title": "男子开路虎加油500元后逃单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E5%8A%A0%E6%B2%B9500%E5%85%83%E5%90%8E%E9%80%83%E5%8D%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
           "title": "东风日产高管谈“摸着理想过河”",
           "url": "https://www.toutiao.com/trending/7626387795717259300/",
           "source": "今日头条",
@@ -363,38 +298,15 @@
           "time_info": "16时19分"
         },
         {
-          "title": "男子开路虎加油500元逃单 车未上牌",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E5%8A%A0%E6%B2%B9500%E5%85%83%E9%80%83%E5%8D%95+%E8%BD%A6%E6%9C%AA%E4%B8%8A%E7%89%8C",
-          "source": "百度热搜",
+          "title": "德系品质藏在大众黄金标准里",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%B3%BB%E5%93%81%E8%B4%A8%E8%97%8F%E5%9C%A8%E5%A4%A7%E4%BC%97%E9%BB%84%E9%87%91%E6%A0%87%E5%87%86%E9%87%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时58分]"
-        },
-        {
-          "title": "男子被保时捷车主当交警面威胁",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E5%BD%93%E4%BA%A4%E8%AD%A6%E9%9D%A2%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时58分]"
-        },
-        {
-          "title": "华语乐坛有没有中国风歌曲能比得过《东风破》《青花瓷》《发如雪》这三首?",
-          "url": "https://www.zhihu.com/question/1912987175370363662",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "保时捷车主逆行还当交警面威胁被罚",
@@ -428,6 +340,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 09时57分]"
+        },
+        {
+          "title": "如何看待 Anthropic 的新模型 Mythos？",
+          "url": "https://www.zhihu.com/question/2025035806335596432",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时18分]"
+        },
+        {
+          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
+          "url": "https://flash.jin10.com/detail/20260409051237886800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 06时36分]"
+        },
+        {
+          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3084981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "Anthropic针对美国国防部封杀的上诉失败",
+          "url": "https://wallstreetcn.com/livenews/3084599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3084581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时36分]"
+        },
+        {
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
+          "url": "https://wallstreetcn.com/livenews/3084971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "美国法院暂不阻止美国国防部将Anthropic列入黑名单。",
+          "url": "https://flash.jin10.com/detail/20260409055154761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409174337065800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3084962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409174200315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "Anthropic推出由Claude管理的智能体。 推出组合式APIs套件。 这些APIs用于打造和部署云上智能体。",
+          "url": "https://wallstreetcn.com/livenews/3084497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     }
