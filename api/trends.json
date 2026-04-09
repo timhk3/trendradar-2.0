@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-09T14:21:06.090577+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-04-09T16:19:36.707958+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
+          "url": "https://flash.jin10.com/detail/20260409160118305800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.54%，恒生科技指数收跌2.06%。新能源汽车股下挫，小鹏跌超5%，比亚迪股份跌超4%。科网股走低，快手跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3084924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
           "url": "https://wallstreetcn.com/livenews/3084486",
@@ -62,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "静态体验蔚来ES9",
+          "url": "https://www.toutiao.com/trending/7626628679044468262/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "报道称特斯拉Cybercab量产启动",
@@ -189,7 +222,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "上汽集团发布 2025 年财报，净利暴增 506%，如何解读这一增速？",
@@ -206,6 +239,17 @@
           "time_info": "[02时13分 ~ 12时32分]"
         },
         {
+          "title": "男子被保时捷车主当交警面威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E5%BD%93%E4%BA%A4%E8%AD%A6%E9%9D%A2%E5%A8%81%E8%83%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "东风日产高管谈“摸着理想过河”",
           "url": "https://www.toutiao.com/trending/7626387795717259300/",
           "source": "今日头条",
@@ -215,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "保时捷车主当着交警面放狠话",
+          "url": "https://www.toutiao.com/trending/7626597863565852710/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "哪件兵器最厉害？小孩哥：东风5C",
@@ -234,7 +289,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
