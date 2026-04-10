@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:34:22.293005+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-11T01:45:21.378198+08:00",
+  "total_titles_processed": 330,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 01时45分]"
         },
         {
           "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 01时45分]"
         }
       ]
     }
