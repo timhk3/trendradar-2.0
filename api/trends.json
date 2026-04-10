@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T07:36:04.373708+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-04-10T10:07:29.785677+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "消息称Anthropic考虑自主研发AI芯片",
@@ -19,6 +19,17 @@
           "time_info": "[07时35分 ~ 07时36分]"
         },
         {
+          "title": "据The Information：OpenAI负责“星际之门”（Stargate）的高管Peter Hoeschele已离开公司。",
+          "url": "https://flash.jin10.com/detail/20260410100154101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "知情人士称，Anthropic正在考虑自研芯片。",
           "url": "https://flash.jin10.com/detail/20260410070050096800",
           "source": "金十数据",
@@ -30,13 +41,24 @@
           "time_info": "[07时35分 ~ 07时36分]"
         },
         {
+          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "报道称Anthropic正在考虑自研芯片",
           "url": "https://wallstreetcn.com/livenews/3085379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -88,7 +110,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "沙特能源部：针对石油设施的袭击导致日产量减少了60万桶",
@@ -126,6 +148,17 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "保时捷车主当交警面威胁或被拘留",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E5%BD%93%E4%BA%A4%E8%AD%A6%E9%9D%A2%E5%A8%81%E8%83%81%E6%88%96%E8%A2%AB%E6%8B%98%E7%95%99%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "男子开路虎加油500元逃单 车未上牌",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E5%8A%A0%E6%B2%B9500%E5%85%83%E9%80%83%E5%8D%95+%E8%BD%A6%E6%9C%AA%E4%B8%8A%E7%89%8C",
           "source": "百度热搜",
@@ -135,12 +168,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "加油站回应男子开路虎加油逃单",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%BC%80%E8%B7%AF%E8%99%8E%E5%8A%A0%E6%B2%B9%E9%80%83%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "蔚来ES9定价多少能走量",
@@ -152,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "华为小鹏为何纷纷闯入摩托车赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E9%B9%8F%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E9%97%AF%E5%85%A5%E6%91%A9%E6%89%98%E8%BD%A6%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
