@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:05:25.116357+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-04-10T18:50:33.098018+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "当地回应奔驰车被“土葬”",
@@ -76,15 +76,48 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "官方通报填埋奔驰车祭祀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A1%AB%E5%9F%8B%E5%A5%94%E9%A9%B0%E8%BD%A6%E7%A5%AD%E7%A5%80%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "辽宁通报“奔驰土葬”：当事人配合整改",
+          "url": "https://www.toutiao.com/trending/7626690800416292902/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "民政局回应用真奔驰车陪葬",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E7%94%A8%E7%9C%9F%E5%A5%94%E9%A9%B0%E8%BD%A6%E9%99%AA%E8%91%AC%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "长安汽车：2025年净利润40.75亿元，同比下降44.34%。",
+          "url": "https://wallstreetcn.com/livenews/3085812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "悦达汽车集团：奇瑞汽车全面接手高合汽车盐城工厂消息不实",
@@ -96,6 +129,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "东风商用车有限公司召回15104辆东风牌汽车",
+          "url": "https://wallstreetcn.com/livenews/3085804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "北京现代汽车有限公司召回953辆索纳塔汽车",
+          "url": "https://wallstreetcn.com/livenews/3085803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "长安汽车：2025年净利润40.75亿元，同比下滑44.34%",
+          "url": "https://flash.jin10.com/detail/20260410182412123800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "保时捷车主当交警面威胁或被拘留",
@@ -261,7 +327,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -294,7 +360,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -316,7 +382,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
