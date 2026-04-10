@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T06:43:25.248685+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-04-11T07:32:32.576297+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时32分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -51,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "Claude：提供安全建议与实用技巧。 随着网络安全工作的持续推进，Anthropic将更新相关指南。",
+          "url": "https://wallstreetcn.com/livenews/3086137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "市场消息：加拿大央行、该国各大银行及金融机构于周五举行会议，讨论Anthropic最新人工智能模型所带来的网络安全风险。",
@@ -92,6 +114,18 @@
           "time_info": "05时35分"
         },
         {
+          "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
+          "url": "https://wallstreetcn.com/livenews/3086115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时32分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨6.5%，理想涨4.8%，阿特斯太阳能涨2.7%，京东涨2.2%，比亚迪涨2.1%，万国数据、金山云等涨超1%，拼多多跌0.4%。 ETF中，ASHR涨1.1%，CQQQ涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3086074",
           "source": "华尔街见闻-快讯",
@@ -101,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
-          "url": "https://wallstreetcn.com/livenews/3086115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
         }
       ]
     },
@@ -126,11 +149,12 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 06时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 07时32分]"
         },
         {
           "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
@@ -141,8 +165,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 06时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 07时32分]"
         },
         {
           "title": "新大洲本田NS150ES运动平踏正式发布",
