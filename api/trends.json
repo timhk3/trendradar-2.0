@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:32:08.104016+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-04-11T19:28:31.236288+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
@@ -50,11 +50,12 @@
           "ranks": [
             19,
             17,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 19时28分]"
         },
         {
           "title": "为了对抗中国车企的极致效率，丰田不再为“看不见的完美”买单",
@@ -64,11 +65,12 @@
             18,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 19时28分]"
         },
         {
           "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
@@ -110,6 +112,19 @@
           "time_info": "[13时59分 ~ 15时05分]"
         },
         {
+          "title": "李想朋友圈飙脏话 疑炮轰东风日产",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%A3%99%E8%84%8F%E8%AF%9D+%E7%96%91%E7%82%AE%E8%BD%B0%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
           "title": "广汽集团董事长：广汽集团具身智能机器人即将量产",
           "url": "https://wallstreetcn.com/livenews/3086178",
           "source": "华尔街见闻-快讯",
@@ -121,6 +136,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
+          "title": "吉利汽车：2030年吉利控股集团全球销量要突破650万辆",
+          "url": "https://wallstreetcn.com/livenews/3086187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：因传动轴万向节存在问题，梅赛德斯-奔驰美国召回24092辆美国市场车辆。",
+          "url": "https://flash.jin10.com/detail/20260411174009701800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时28分]"
+        },
+        {
+          "title": "十日终焉长安二十四计海报",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%E6%B5%B7%E6%8A%A5&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "用奔驰陪葬当事人被批评教育",
@@ -144,52 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时59分]"
-        },
-        {
-          "title": "吉利汽车：2030年吉利控股集团全球销量要突破650万辆",
-          "url": "https://wallstreetcn.com/livenews/3086187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：因传动轴万向节存在问题，梅赛德斯-奔驰美国召回24092辆美国市场车辆。",
-          "url": "https://flash.jin10.com/detail/20260411174009701800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "十日终焉长安二十四计海报",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%E6%B5%B7%E6%8A%A5&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "李想朋友圈飙脏话 疑炮轰东风日产",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%A3%99%E8%84%8F%E8%AF%9D+%E7%96%91%E7%82%AE%E8%BD%B0%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "新大洲本田NS150ES运动平踏正式发布",
@@ -223,12 +229,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "大树倒伏砸中宝马谁该担责",
+          "url": "https://www.toutiao.com/trending/7627287650761343018/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -253,8 +270,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 19时28分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -269,17 +297,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 15时05分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -304,6 +321,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时32分 ~ 12时20分]"
+        },
+        {
+          "title": "英国央行拟与各大银行讨论Anthropic的Mythos模型",
+          "url": "https://flash.jin10.com/detail/20260411185948243800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -429,11 +457,25 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 19时28分]"
+        },
+        {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
@@ -457,18 +499,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 12时20分]"
-        },
-        {
-          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
-          "url": "https://www.zhihu.com/question/2025926047250605746",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
