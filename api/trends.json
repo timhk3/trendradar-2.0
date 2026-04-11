@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T16:39:13.884013+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-04-11T17:37:53.819362+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -34,6 +34,19 @@
           "time_info": "[09时56分 ~ 15时05分]"
         },
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 17时37分]"
+        },
+        {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
           "source": "金十数据",
@@ -56,19 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时32分 ~ 12时20分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 16时39分]"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "Anthropic提供安全建议与实用技巧",
@@ -186,7 +197,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
@@ -204,8 +215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时34分 ~ 16时39分]"
+          "appearance_count": 20,
+          "time_info": "[01时34分 ~ 17时37分]"
         },
         {
           "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
@@ -221,8 +232,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时34分 ~ 16时39分]"
+          "appearance_count": 20,
+          "time_info": "[01时34分 ~ 17时37分]"
         },
         {
           "title": "司机开路虎加油后逃单，江西警方发布警情通报",
@@ -234,8 +245,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 17时37分]"
         },
         {
           "title": "为了对抗中国车企的极致效率，丰田不再为“看不见的完美”买单",
@@ -244,11 +255,12 @@
           "ranks": [
             18,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 17时37分]"
         },
         {
           "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
@@ -258,11 +270,12 @@
             2,
             10,
             17,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时37分]"
         },
         {
           "title": "奔驰陪葬太招摇,官方出手整治",
@@ -280,11 +293,12 @@
           "url": "https://flash.jin10.com/detail/20260411150945202800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时37分]"
         },
         {
           "title": "用奔驰陪葬当事人被批评教育",
@@ -314,11 +328,23 @@
           "url": "https://wallstreetcn.com/livenews/3086178",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时37分]"
+        },
+        {
+          "title": "吉利汽车：2030年吉利控股集团全球销量要突破650万辆",
+          "url": "https://wallstreetcn.com/livenews/3086187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时37分"
         },
         {
           "title": "新大洲本田NS150ES运动平踏正式发布",
@@ -352,12 +378,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "李想朋友圈飙脏话 疑炮轰东风日产",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%83%B3%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%A3%99%E8%84%8F%E8%AF%9D+%E7%96%91%E7%82%AE%E8%BD%B0%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
@@ -368,8 +405,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 16时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 17时37分]"
         },
         {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
@@ -452,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }
