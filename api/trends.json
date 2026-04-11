@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T02:39:30.513879+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-12T03:33:49.274841+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "如何看待本田中国 2026 第一季度销量 12.25 万，同比下滑 22.4％？",
@@ -28,8 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
+        },
+        {
+          "title": "奥迪车逃单632元 加油工4天白干",
+          "url": "https://www.toutiao.com/trending/7626697705276604458/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "理想称遭某品牌恶意拉踩将追究法律责任，东风日产回应：尊重同行",
@@ -39,17 +51,6 @@
             12,
             18,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
-        },
-        {
-          "title": "奥迪车逃单632元 加油工4天白干",
-          "url": "https://www.toutiao.com/trending/7626697705276604458/",
-          "source": "今日头条",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -81,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "蔚来李斌：行业增量不增收、增收不增利很大原因是新车迭代太快",
@@ -91,11 +92,12 @@
           "ranks": [
             5,
             11,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "问界M6预订量突破10万台",
@@ -104,11 +106,12 @@
           "ranks": [
             10,
             20,
-            25
+            25,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "理想汽车：遭遇大量恶意拉踩 已报案",
@@ -116,11 +119,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时33分]"
         }
       ]
     },
@@ -136,8 +140,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -149,8 +153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时33分]"
         }
       ]
     }
