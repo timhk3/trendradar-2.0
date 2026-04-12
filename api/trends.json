@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:42:46.393691+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-12T18:36:23.321123+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,20 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "沙特能源部：东西输油管道的全部输送能力已成功恢复，日均输送量约为700万桶。马尼法油田受影响产量已恢复，日产量约30万桶。目前仍在努力恢复胡莱斯油田的全部生产能力。",
+          "url": "https://wallstreetcn.com/livenews/3086344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时36分]"
+        },
+        {
           "title": "沙特能源部：东西输油管道的全部输送能力已成功恢复，日均输送量约为700万桶。马尼法油田受影响产量已恢复，日产量约30万桶。",
           "url": "https://flash.jin10.com/detail/20260412141811575800",
           "source": "金十数据",
@@ -61,17 +75,17 @@
           "time_info": "[15时09分 ~ 16时43分]"
         },
         {
-          "title": "沙特能源部：东西输油管道的全部输送能力已成功恢复，日均输送量约为700万桶。马尼法油田受影响产量已恢复，日产量约30万桶。目前仍在努力恢复胡莱斯油田的全部生产能力。",
-          "url": "https://wallstreetcn.com/livenews/3086344",
-          "source": "华尔街见闻-快讯",
+          "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
+          "url": "https://flash.jin10.com/detail/20260412155247035800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            8,
-            11
+            7,
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时42分]"
+          "time_info": "[16时43分 ~ 18时36分]"
         },
         {
           "title": "理想称遭某品牌恶意拉踩将追究法律责任，东风日产回应：尊重同行",
@@ -85,18 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 02时39分]"
-        },
-        {
-          "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
-          "url": "https://flash.jin10.com/detail/20260412155247035800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时42分]"
         },
         {
           "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
@@ -258,8 +260,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 18时36分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
