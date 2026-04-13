@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:40:54.155417+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-14T07:39:56.003189+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             7,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -30,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -40,11 +41,25 @@
           "ranks": [
             22,
             23,
-            21
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时39分]"
+        },
+        {
+          "title": "比亚迪女高管年薪1013.5万打破天花板",
+          "url": "https://www.toutiao.com/trending/7628046443974213641/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时02分 ~ 06时40分]"
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -57,18 +72,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 06时40分]"
-        },
-        {
-          "title": "比亚迪女高管年薪1013.5万打破天花板",
-          "url": "https://www.toutiao.com/trending/7628046443974213641/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
