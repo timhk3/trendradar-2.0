@@ -1,96 +1,22 @@
 {
-  "generated_at": "2026-04-13T23:14:42.197834+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-04-14T01:02:09.247651+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
-          "title": "比亚迪女高管年薪1013.5万打破天花板",
-          "url": "https://www.toutiao.com/trending/7628046443974213641/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 23时14分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 23时14分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时16分]"
-        },
-        {
-          "title": "西班牙首相试坐小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E8%AF%95%E5%9D%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时16分]"
-        },
-        {
-          "title": "巴西劳工部将比亚迪移出所谓“奴役劳动名单”，外交部回应",
-          "url": "https://flash.jin10.com/detail/20260413153927576800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "比亚迪副总裁周亚琳打破“天花板”",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%89%AF%E6%80%BB%E8%A3%81%E5%91%A8%E4%BA%9A%E7%90%B3%E6%89%93%E7%A0%B4%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时38分]"
-        },
-        {
-          "title": "京东汽车：与深蓝汽车达成战略合作 深蓝L06增程版独家开售",
-          "url": "https://wallstreetcn.com/livenews/3086761",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待问界 M6 预订量突破 100000 台？",
+          "url": "https://www.zhihu.com/question/2026687939418048004",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -99,180 +25,59 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "如何看待问界 M6 预订量突破 100000 台？",
-          "url": "https://www.zhihu.com/question/2026687939418048004",
-          "source": "知乎",
+          "title": "比亚迪女高管年薪1013.5万打破天花板",
+          "url": "https://www.toutiao.com/trending/7628046443974213641/",
+          "source": "今日头条",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "加拿大皇家银行（RBC）将特斯拉目标价从500美元下调至480美元。",
-          "url": "https://wallstreetcn.com/livenews/3086654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "李想朋友圈发飙疑似内涵东风日产，该举动会如何影响车企竞争格局？",
-          "url": "https://www.zhihu.com/question/2026336624527652740",
-          "source": "知乎",
+          "title": "奇瑞风云T9L上市售12.99万起",
+          "url": "https://www.toutiao.com/trending/7627691601691951147/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3,
-            1,
-            2,
-            14
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 10时13分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "俄海事委员会主席证实：俄海军护航俄油轮通过英吉利海峡",
-          "url": "https://wallstreetcn.com/livenews/3087054",
+          "title": "奇瑞汽车风云T9L大五座SUV上市，起售价为12.99万元",
+          "url": "https://wallstreetcn.com/livenews/3087067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "奇瑞高管：很多车企根本不在意操控和驾驶，他们在意的是沙发冰箱",
-          "url": "https://wallstreetcn.com/livenews/3087053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "张雪笑谈超越本田夺冠：神也不过如此",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E7%AC%91%E8%B0%88%E8%B6%85%E8%B6%8A%E6%9C%AC%E7%94%B0%E5%A4%BA%E5%86%A0%EF%BC%9A%E7%A5%9E%E4%B9%9F%E4%B8%8D%E8%BF%87%E5%A6%82%E6%AD%A4",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "A股汽车整车板块短线拉升，福田汽车涨停，中通客车、中集车辆、安凯客车、东风股份、一汽解放等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3086668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "合肥警方：一辆奥迪车加油后逃单，涉案司机被行政拘留",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954795",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "加拿大皇家银行：将通用汽车(GM.N)目标股价从107美元下调至96美元。",
-          "url": "https://flash.jin10.com/detail/20260413121931760800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3086976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "日本软银集团计划发行美元债券和欧元债券，共六种到期时间。 该公司正与投资者们洽谈。 这批融资将用于支持OpenAI等目的。",
-          "url": "https://wallstreetcn.com/livenews/3087037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "OpenAI：在伦敦设立首个永久办公室，预计将于2027年开放。",
-          "url": "https://wallstreetcn.com/livenews/3086746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "据CNBC：OpenAI在备忘录中盛赞与亚马逊(AMZN.O)的联盟，称微软(MSFT.O)“限制了其触达客户的能力”。",
-          "url": "https://flash.jin10.com/detail/20260413203327986800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "01时02分"
         }
       ]
     }
