@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T13:20:57.500789+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-04-14T15:26:20.850032+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,19 @@
           "time_info": "[01时01分 ~ 10时08分]"
         },
         {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时26分]"
+        },
+        {
           "title": "中方回应巴西将比亚迪移出相关名单",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
           "source": "百度热搜",
@@ -65,16 +78,16 @@
           "time_info": "[01时02分 ~ 07时39分]"
         },
         {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
           "ranks": [
-            1,
-            6
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 15时26分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -113,17 +126,6 @@
           "time_info": "[10时07分 ~ 13时20分]"
         },
         {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时20分]"
-        },
-        {
           "title": "深圳坪山比亚迪突发大火 消防通报",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B6%88%E9%98%B2%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -134,6 +136,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时08分 ~ 13时20分]"
+        },
+        {
+          "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 15时26分]"
+        },
+        {
+          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 15时26分]"
+        },
+        {
+          "title": "比亚迪回应深圳坪山园区火情",
+          "url": "https://www.toutiao.com/trending/7628206506252439076/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 15时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
@@ -169,39 +206,6 @@
           "time_info": "[04时04分 ~ 05时44分]"
         },
         {
-          "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "比亚迪回应深圳坪山园区火情",
-          "url": "https://www.toutiao.com/trending/7628206506252439076/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "比亚迪回应车库火灾",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE",
           "source": "百度热搜",
@@ -230,7 +234,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -249,18 +253,30 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI伦敦设立永久办公室",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 15时26分]"
+        },
+        {
+          "title": "火药味十足！OpenAI高管点名Anthropic“虚增80亿美元营收”",
+          "url": "https://flash.jin10.com/detail/20260414151445573800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "15时26分"
         },
         {
           "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
@@ -269,7 +285,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -302,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
