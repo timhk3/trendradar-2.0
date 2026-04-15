@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T13:21:23.343911+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-15T15:26:20.019795+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 07时40分]"
+        },
+        {
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 15时26分]"
         },
         {
           "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时42分]"
-        },
-        {
-          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
-          "url": "https://www.cls.cn/detail/2344256",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 13时21分]"
         },
         {
           "title": "微软接手OpenAI挪威数据中心租约",
@@ -212,7 +213,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -229,6 +230,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 10时05分]"
+        },
+        {
+          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
+          "url": "https://www.zhihu.com/question/2025880105268855857",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 15时26分]"
         },
         {
           "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
@@ -253,6 +266,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "余承东：问界M6将于4月22日发布",
+          "url": "https://wallstreetcn.com/livenews/3088261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
           "url": "https://www.zhihu.com/question/2027305938130924161",
           "source": "知乎",
@@ -262,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
-          "url": "https://www.zhihu.com/question/2025880105268855857",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     },
@@ -303,9 +316,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 15时26分]"
         }
       ]
     }
