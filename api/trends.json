@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T10:05:10.624734+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-04-15T13:21:23.343911+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,17 @@
           "time_info": "[05时47分 ~ 06时42分]"
         },
         {
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 13时21分]"
+        },
+        {
           "title": "微软接手OpenAI挪威数据中心租约",
           "url": "https://flash.jin10.com/detail/20260415012050964800",
           "source": "金十数据",
@@ -130,17 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
-          "url": "https://www.cls.cn/detail/2344256",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
         },
         {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
@@ -212,7 +212,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -262,12 +262,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
+          "url": "https://www.zhihu.com/question/2025880105268855857",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "奇瑞高管称「很多车企根本不在意操控和驾驶，他们在意的是沙发冰箱」，如何看待这一言论？行业未来走向如何？",
@@ -284,6 +295,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 07时40分]"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
