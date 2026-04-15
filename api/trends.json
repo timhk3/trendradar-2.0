@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T02:08:32.797764+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-16T04:02:37.111340+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "宝马发布“内涵”视频",
-          "url": "https://www.toutiao.com/trending/7628215678529749046/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
           "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
           "url": "https://www.zhihu.com/question/2027356246810869800",
           "source": "知乎",
           "ranks": [
             14,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "宝马发布“内涵”视频",
+          "url": "https://www.toutiao.com/trending/7628215678529749046/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -46,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
