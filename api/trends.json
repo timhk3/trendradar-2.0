@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T15:26:20.019795+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-04-15T17:15:49.620234+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -237,11 +237,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时15分]"
         },
         {
           "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
@@ -272,7 +273,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -291,7 +292,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "奇瑞高管称「很多车企根本不在意操控和驾驶，他们在意的是沙发冰箱」，如何看待这一言论？行业未来走向如何？",
@@ -317,8 +318,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时15分]"
+        },
+        {
+          "title": "家国长安宁全民共守护",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%9B%BD%E9%95%BF%E5%AE%89%E5%AE%81%E5%85%A8%E6%B0%91%E5%85%B1%E5%AE%88%E6%8A%A4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     }
