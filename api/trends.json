@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:15:49.620234+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-04-15T18:57:32.839089+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -241,8 +241,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时57分]"
         },
         {
           "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
@@ -318,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时57分]"
         },
         {
           "title": "家国长安宁全民共守护",
@@ -328,9 +328,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时57分]"
         }
       ]
     }
