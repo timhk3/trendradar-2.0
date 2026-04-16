@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T04:53:38.474536+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-04-17T05:40:39.347969+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时40分]"
         },
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -31,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时40分]"
         },
         {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
@@ -41,11 +42,12 @@
           "ranks": [
             20,
             11,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时08分 ~ 05时40分]"
         },
         {
           "title": "市场消息：美国白宫正推进向美国各政府机构提供Anthropic的Mythos模型访问权限。",
@@ -128,8 +130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时40分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -137,11 +139,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时40分]"
         },
         {
           "title": "零跑D19",
@@ -149,22 +152,24 @@
           "source": "微博",
           "ranks": [
             26,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 05时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
           "url": "https://wallstreetcn.com/livenews/3089562",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时40分]"
         },
         {
           "title": "零跑D19售价21.98万起",
