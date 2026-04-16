@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T15:26:58.482363+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-04-16T17:15:37.837368+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 17时15分]"
         },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 17时15分]"
         },
         {
           "title": "港股新能源汽车股走高，比亚迪股份(01211.HK)涨5%，零跑汽车(09863.HK)、吉利汽车(00175.HK)涨2.6%，小鹏集团(09868.HK)、小米集团(01810.HK)涨超2%。",
@@ -71,7 +72,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -143,6 +144,18 @@
           "time_info": "[05时49分 ~ 06时39分]"
         },
         {
+          "title": "“仙人”要名表奥迪？女子转账194万",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA%EF%BC%9F%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 17时15分]"
+        },
+        {
           "title": "宝马中国宣传片疑似讽刺友商",
           "url": "https://www.toutiao.com/trending/7628617507208695332/",
           "source": "今日头条",
@@ -152,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        },
-        {
-          "title": "“仙人”要名表奥迪？女子转账194万",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA%EF%BC%9F%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
         }
       ]
     },
@@ -204,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时15分]"
         },
         {
           "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
@@ -214,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
