@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:40:39.347969+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-17T06:37:17.259704+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时37分]"
         },
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时37分]"
         },
         {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
@@ -43,11 +43,12 @@
             20,
             11,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时08分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[02时08分 ~ 06时37分]"
         },
         {
           "title": "市场消息：美国白宫正推进向美国各政府机构提供Anthropic的Mythos模型访问权限。",
@@ -130,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时37分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -140,11 +141,12 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时37分]"
         },
         {
           "title": "零跑D19",
