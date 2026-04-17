@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T10:09:05.575746+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-04-17T13:26:00.703058+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时08分 ~ 07时38分]"
+        },
+        {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时26分]"
         },
         {
           "title": "市场消息：美国白宫正推进向美国各政府机构提供Anthropic的Mythos模型访问权限。",
@@ -109,15 +121,15 @@
           "time_info": "02时11分"
         },
         {
-          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
-          "url": "https://www.cls.cn/detail/2346818",
+          "title": "Anthropic据悉遭资方“哄抢”：估值要约直逼8000亿美元 公司暂未接受",
+          "url": "https://www.cls.cn/detail/2346716",
           "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "13时26分"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -137,7 +149,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -145,7 +157,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -174,6 +186,17 @@
           "time_info": "[00时20分 ~ 07时38分]"
         },
         {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://flash.jin10.com/detail/20260417130409389800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
           "title": "零跑D19",
           "url": "https://s.weibo.com/weibo?q=%E9%9B%B6%E8%B7%91D19&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -187,6 +210,17 @@
           "time_info": "[03时59分 ~ 05时40分]"
         },
         {
+          "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
+          "url": "https://wallstreetcn.com/livenews/3089792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
           "url": "https://wallstreetcn.com/livenews/3089562",
           "source": "华尔街见闻-快讯",
@@ -197,6 +231,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时40分]"
+        },
+        {
+          "title": "比亚迪汉EV闪充版4月22日上市",
+          "url": "https://www.toutiao.com/trending/7629577511411846706/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "小鹏汽车的销量一直不温不火，小鹏 GX 能否成为销量增长的关键车型？",
+          "url": "https://www.zhihu.com/question/2025321777044240248",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "零跑D19售价21.98万起",
