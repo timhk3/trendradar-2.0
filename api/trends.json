@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:38:14.609827+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-17T10:09:05.575746+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -23,6 +23,21 @@
           "time_info": "[00时20分 ~ 07时38分]"
         },
         {
+          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E8%8A%AF%E7%89%87%E4%B8%8D%E6%98%AF%E6%B5%93%E7%BC%A9%E9%93%80+%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%92%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 10时09分]"
+        },
+        {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
           "url": "https://www.zhihu.com/question/2028243941196054744",
           "source": "知乎",
@@ -36,21 +51,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时08分 ~ 07时38分]"
-        },
-        {
-          "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E8%8A%AF%E7%89%87%E4%B8%8D%E6%98%AF%E6%B5%93%E7%BC%A9%E9%93%80+%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%92%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时38分]"
         },
         {
           "title": "市场消息：美国白宫正推进向美国各政府机构提供Anthropic的Mythos模型访问权限。",
@@ -109,6 +109,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
           "url": "https://flash.jin10.com/detail/20260417030201225800",
           "source": "金十数据",
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3089671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -133,11 +155,12 @@
             15,
             13,
             12,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 10时09分]"
         },
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
