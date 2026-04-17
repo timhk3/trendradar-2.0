@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T00:55:02.228631+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T01:47:05.499396+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时47分]"
         },
         {
           "title": "极氪8X上市 限时32.98万元起",
           "url": "https://www.toutiao.com/trending/7629653310112464905/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时47分]"
         }
       ]
     },
@@ -42,7 +43,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         }
