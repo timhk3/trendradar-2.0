@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T14:13:10.291012+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-04-18T15:59:25.017007+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -124,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时59分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
@@ -176,11 +177,12 @@
           "ranks": [
             1,
             14,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 15时59分]"
         },
         {
           "title": "美军“福特”号航母返回红海海域",
