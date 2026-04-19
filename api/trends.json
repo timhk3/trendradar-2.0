@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T05:32:46.816959+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-04-20T06:31:54.629622+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时31分]"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时31分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -69,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时31分]"
         }
       ]
     },
