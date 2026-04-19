@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T21:59:25.070456+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-04-19T22:43:38.465462+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时43分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时43分]"
         }
       ]
     },
@@ -72,11 +72,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时43分]"
         }
       ]
     }
