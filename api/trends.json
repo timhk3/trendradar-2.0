@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:40:09.182300+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-20T04:33:54.798931+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时33分]"
         },
         {
           "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
@@ -36,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时33分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -67,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         }
       ]
     },
