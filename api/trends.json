@@ -1,85 +1,50 @@
 {
-  "generated_at": "2026-04-19T23:35:44.461984+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-04-20T00:36:46.916035+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
-          "url": "https://flash.jin10.com/detail/20260419024853734800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时39分 ~ 07时31分]"
-        },
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
           "url": "https://wallstreetcn.com/articles/3770211",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
           "url": "https://www.cls.cn/detail/2348368",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "Sora之父宣布离职",
-          "url": "https://www.douyin.com/hot/2470435",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            21,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 10时13分]"
-        },
         {
           "title": "芯片不卖中国,黄仁勋急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            6,
-            7,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时36分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
