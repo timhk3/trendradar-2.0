@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T02:43:19.640354+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-20T03:40:09.182300+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时40分]"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
           "url": "https://flash.jin10.com/detail/20260420021231153800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 03时40分]"
         },
         {
           "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
           "url": "https://flash.jin10.com/detail/20260420020540780800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 03时40分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时40分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -65,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时40分]"
         }
       ]
     },
@@ -79,22 +81,24 @@
           "url": "https://flash.jin10.com/detail/20260420014544453800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 03时40分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国官员称，美国“杰拉尔德·福特”航母已返回中东。",
           "url": "https://flash.jin10.com/detail/20260420012056838800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 03时40分]"
         }
       ]
     }
