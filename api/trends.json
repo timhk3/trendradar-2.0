@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-21T03:01:20.489881+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-04-21T04:02:10.876294+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 04时02分]"
+        },
         {
           "title": "芯片不卖中国,黄仁勋急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
@@ -15,20 +28,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时02分]"
         },
         {
-          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
-          "source": "澎湃新闻",
+          "title": "“黄仁勋毛衣”走红",
+          "url": "https://www.toutiao.com/trending/7630661931754553350/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            3
+            27,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时01分]"
+          "time_info": "[01时55分 ~ 04时02分]"
         },
         {
           "title": "德银CEO：在全球监管机构评估风险之际，“所有人”都试图获取Anthropic的Mythos权限",
@@ -36,17 +49,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "“黄仁勋毛衣”走红",
-          "url": "https://www.toutiao.com/trending/7630661931754553350/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -64,11 +66,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时02分]"
         }
       ]
     },
@@ -83,11 +86,12 @@
           "ranks": [
             17,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时02分]"
         }
       ]
     }
