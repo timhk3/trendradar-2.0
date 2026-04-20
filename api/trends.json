@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T01:55:48.057446+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-21T03:01:20.489881+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时01分]"
         },
         {
           "title": "德银CEO：在全球监管机构评估风险之际，“所有人”都试图获取Anthropic的Mythos权限",
@@ -36,7 +37,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -81,11 +82,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
         }
       ]
     }
