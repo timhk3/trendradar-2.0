@@ -1,22 +1,74 @@
 {
-  "generated_at": "2026-04-20T07:33:49.932433+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-20T10:13:47.047594+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时33分]"
+        },
+        {
+          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
+          "url": "https://www.cls.cn/detail/2348368",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时33分]"
+        },
+        {
+          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "零跑汽车(09863.HK)盘初持续走低，现跌幅扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20260420094526670800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芯片不卖中国,黄仁勋急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 10时13分]"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
@@ -43,35 +95,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 04时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
-          "url": "https://wallstreetcn.com/articles/3770211",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时33分]"
         },
         {
-          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
-          "url": "https://www.cls.cn/detail/2348368",
-          "source": "财联社热门",
+          "title": "英伟达178美元“黄仁勋毛衣”走红",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE178%E7%BE%8E%E5%85%83%E2%80%9C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%AF%9B%E8%A1%A3%E2%80%9D%E8%B5%B0%E7%BA%A2",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10
+            21
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
