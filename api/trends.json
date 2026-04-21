@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:24:47.754581+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-21T15:30:28.843125+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 15时30分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时40分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：我们必须防止Anthropic旗下Mythos模型的滥用。",
+          "url": "https://flash.jin10.com/detail/20260421144112152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
           "title": "亚马逊(AMZN.O)盘后涨2.5%，公司宣布扩大与Anthropic的合作。",
@@ -175,7 +186,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全新比亚迪海狮05上市",
@@ -192,6 +203,17 @@
           "time_info": "[00时05分 ~ 07时40分]"
         },
         {
+          "title": "极氪回应西楚霸王代言公路之王呼声",
+          "url": "https://www.toutiao.com/trending/7631070251505549322/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.32%，报7207.20点。 热门中概股里，亿航智能、老虎证券、世纪互联、蔚来初步收跌超2%，贝壳、百度、理想涨超1%，再鼎医药涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.53%，中国科技指数ETF（CQQQ）收涨0.34%。 德银嘉实沪深300指数ETF（ASHR）收涨0.17%，XtrackersHarvest中证50（ASHS）收涨0.52%。",
           "url": "https://wallstreetcn.com/livenews/3091314",
           "source": "华尔街见闻-快讯",
@@ -206,7 +228,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子18万买二手保时捷被原车主拖走",
@@ -224,6 +246,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 13时24分]"
+        },
+        {
+          "title": "长安汽车朱华荣：未来年销量800万到1000万的车企才能活得好",
+          "url": "https://flash.jin10.com/detail/20260421150304396800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         }
       ]
     }
