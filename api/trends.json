@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T10:09:58.314130+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-04-21T13:24:47.754581+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 10时09分]"
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 13时24分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -167,7 +167,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -218,11 +218,12 @@
             8,
             10,
             7,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 10时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 13时24分]"
         }
       ]
     }
