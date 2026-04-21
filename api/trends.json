@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T17:22:56.346909+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-04-21T19:04:07.684405+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时55分 ~ 17时22分]"
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 19时04分]"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
@@ -123,7 +123,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -259,6 +259,19 @@
           "time_info": "[00时05分 ~ 13时24分]"
         },
         {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时04分]"
+        },
+        {
           "title": "长安汽车朱华荣：未来年销量800万到1000万的车企才能活得好",
           "url": "https://flash.jin10.com/detail/20260421150304396800",
           "source": "金十数据",
@@ -268,18 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时22分]"
         }
       ]
     }
