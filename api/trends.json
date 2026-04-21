@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T21:17:24.751875+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-04-21T23:10:01.471005+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -112,7 +112,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -123,7 +123,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -248,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[15时29分 ~ 23时10分]"
         },
         {
           "title": "长安汽车朱华荣：未来年销量800万到1000万的车企才能活得好",
@@ -269,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -280,7 +280,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         }
@@ -288,7 +288,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全新比亚迪海狮05上市",
@@ -303,6 +303,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 07时40分]"
+        },
+        {
+          "title": "美国加州新车经销商协会：特斯拉在加州的注册量在第一季度下降24.3%。",
+          "url": "https://flash.jin10.com/detail/20260421225331801800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "极氪回应西楚霸王代言公路之王呼声",
