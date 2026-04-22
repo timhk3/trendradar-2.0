@@ -1,0 +1,892 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>热点新闻分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+
+            .info-item {
+                text-align: center;
+            }
+
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+
+            .content {
+                padding: 24px;
+            }
+
+            .word-group {
+                margin-bottom: 40px;
+            }
+
+            .word-group:first-child {
+                margin-top: 0;
+            }
+
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+
+            .news-item:last-child {
+                border-bottom: none;
+            }
+
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+
+            .news-link:hover {
+                text-decoration: underline;
+            }
+
+            .news-link:visited {
+                color: #7c3aed;
+            }
+
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+
+            .new-item:last-child {
+                border-bottom: none;
+            }
+
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">热点新闻分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">报告类型</span>
+                        <span class="info-value">实时分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新闻总数</span>
+                        <span class="info-value">149 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">热点新闻</span>
+                        <span class="info-value">50 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成时间</span>
+                        <span class="info-value">04-23 06:44</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="error-section">
+                    <div class="error-title">⚠️ 请求失败的平台</div>
+                    <ul class="error-list"><li class="error-item">_36kr</li>
+                    </ul>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name"># ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo</div>
+                            <div class="word-count hot">50 条</div>
+                        </div>
+                        <div class="word-index">1/1</div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num top">1</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423062608496800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">1</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092892" target="_blank" class="news-link">马斯克：特斯拉计划在Terafab项目中使用英特尔的14A工艺</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num top">2</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423062455575800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：我们大部分的长期生产将是Cybercab。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">4</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423061429564800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：计划使用英特尔的14A工艺。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092888" target="_blank" class="news-link">马斯克表示，限制Robotaxi部署的并非安全问题，而是便利性问题。 “有时候，车子会不敢穿过铁路道口”或者卡在红绿灯前。 他还提到，有一批Robotaxi被困在左转车道，因为一辆Waymo“撞上了一辆巴士”。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">5</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423061256035800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计得州超级工厂的研究设施将耗资约30亿美元。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">7</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423060744251800" target="_blank" class="news-link">特斯拉高管：欧洲版FSD在架构方面与其他版本相同，但拥有更多欧洲数据。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">7</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6d5-2a38-7ff7-959f-8aeda1534b2e" target="_blank" class="news-link">TESLA: WE CONTINUE TO MAKE PROGRESS ON CHINA FULL SELF-DRIVING APPROVAL</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">8</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6d0-4314-7ff7-959f-8336023ae48d" target="_blank" class="news-link">Tesla Beats Earnings Estimates for Second Straight Quarter</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">10</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">8</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092884" target="_blank" class="news-link">特斯拉CEO马斯克表示，我们长期的产量中大部分将是Cybercab（自动驾驶出租车）。 长远来看，唯一保留人工驾驶的车型将是新款Roadster。 新款Roadster或许能在一个月左右首次亮相。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">11</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">9</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423060230487800" target="_blank" class="news-link">特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">12</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">9</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092883" target="_blank" class="news-link">特斯拉盘后跌超2%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">13</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">10</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cd-7a0f-7ff7-959f-7153faf3ed9c" target="_blank" class="news-link">TESLA INC - ARE EXPANDING OUR SCOPE OF MANUFACTURING TO INCLUDE SEMICONDUCTOR FABRICATION IN AI INFERENCE COMPUTE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">14</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">11</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cd-662f-7ff7-959f-6ff2d6ade7ba" target="_blank" class="news-link">TESLA INC: MAKING NECESSARY INVESTMENTS THAT WILL ENSURE ACCESS TO KEY MATERIALS AND COMPONENTRY AS TRADE AND GEOPOLITICS BECOME UNCERTAIN</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">15</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">12</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-7fb7-7ff7-959f-61aa7eebbdf9" target="_blank" class="news-link">&lt;b&gt;SHARES OF TESLA UP 4% IN EXTENDED TRADE AFTER QUARTERLY REPORT&lt;/b&gt;</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">16</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">12</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092880" target="_blank" class="news-link">特斯拉美股盘后跌幅扩大至1.2%，业绩报告发布后曾一度上涨4.5%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">17</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">13</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055950867800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：硬件3车型无法实现无监督FSD能力。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">18</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">13</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-713c-7ff7-959f-59c607c9f065" target="_blank" class="news-link">TESLA: PREPARATIONS FOR FIRST LARGE-SCALE OPTIMUS FACTORY WILL BEGIN IN Q2</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">19</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">14</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055913606800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">20</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">14</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-4dab-7ff7-959f-51d7801eade3" target="_blank" class="news-link">TESLA INC - AIMING TO DOUBLE SERVICE CENTERS AND EXPAND SUPERCHARGER COVERAGE IN JAPAN THIS YEAR</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">21</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">15</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055843146800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计到今年年底将在十几个州推出无监督FSD或Robotaxi。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">22</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">15</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-2ee7-7ff7-959f-4d18cb7778ce" target="_blank" class="news-link">TESLA INC - ONCE IN PRODUCTION, EXPECT CYBERCAB TO BEGIN TO REPLACE EXISTING MODEL Y FLEET &amp; WILL BE LARGEST VOLUME VEHICLE IN FLEET OVER TIME</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">23</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">15</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092877" target="_blank" class="news-link">马斯克：正打算采用英特尔14A芯片制程。 预计特斯拉位于美国得州的Giga园区芯片研究的初始成本大约为30亿美元。 SpaceX将负责Terafab的初期工作。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">24</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">16</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055713015800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计更接近量产状态的Optimus第三代原型机将于七八月之交发布。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">25</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">16</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-1dbd-7ff7-959f-45fb65bb5f55" target="_blank" class="news-link">TESLA INC - FIRST-GENERATION PRODUCTION LINES FOR OPTIMUS ARE BEING INSTALLED IN ANTICIPATION OF VOLUME PRODUCTION</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">26</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">16</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092876" target="_blank" class="news-link">特斯拉：预计下半年的光伏需求强劲。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">27</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">17</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055058692800" target="_blank" class="news-link">特斯拉CFO：将对今年剩余时间产生负现金流的影响。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">28</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">17</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cc-1c35-7ff7-959f-3a27ba0477c7" target="_blank" class="news-link">TESLA INC - CYBERCAB, TESLA SEMI AND MEGAPACK 3 ARE ON SCHEDULE FOR VOLUME PRODUCTION STARTING IN 2026</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">29</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">18</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055032061800" target="_blank" class="news-link">特斯拉盘后涨幅缩窄至0.5%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">30</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">18</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cb-e8e3-7ff7-959f-331343c292d3" target="_blank" class="news-link">&lt;b&gt;SHARES OF TESLA UP 1.6% IN EXTENDED TRADE AFTER QUARTERLY REPORT&lt;/b&gt;</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">31</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">19</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055007923800" target="_blank" class="news-link">特斯拉CFO：预计今年资本支出超过250亿美元。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">32</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">19</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6cb-7ba0-7ff7-959f-2ee5992d27e1" target="_blank" class="news-link">TESLA 1Q FREE CASH FLOW $1.44B, EST. NEGATIVE $1.86B</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">33</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">19</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092873" target="_blank" class="news-link">特斯拉高管表示，从架构角度来看，欧洲版FSD（全自动驾驶）与美版相同，只是欧洲版包含了更多的欧洲地区数据。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">34</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">20</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423055000900800" target="_blank" class="news-link">特斯拉CFO：特斯拉预计将继续扩大Robotaxi车队。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">35</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">21</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054834075800" target="_blank" class="news-link">特斯拉CFO：特斯拉最大障碍仍然是电池组产能。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">36</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">22</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054702620800" target="_blank" class="news-link">特斯拉CFO：近期油价上涨促进了订单增长。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">37</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">22</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6ca-0a0b-7ff7-959f-17665c48a4c9" target="_blank" class="news-link">TESLA 1Q ADJ EPS 41C, EST. 34C &lt;br/&gt;&lt;br/&gt;TESLA 1Q GROSS MARGIN 21.1%, EST. 17.7% &lt;br/&gt;&lt;br/&gt;TESLA 1Q EPS 13C VS. 12C Y/Y</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">38</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">23</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054654184800" target="_blank" class="news-link">特斯拉CFO：欧洲、中东和非洲地区的汽车需求正在复苏，包括法国和德国。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">39</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">市场消息</span><span class="rank-num high">23</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019db6c9-8021-7ff7-959f-0b866760c368" target="_blank" class="news-link">S&amp;P 500, Nasdaq Hit Record Highs Ahead of Tesla Earnings</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">40</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">23</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092868" target="_blank" class="news-link">特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">41</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">24</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054617260800" target="_blank" class="news-link">特斯拉CFO：尚未从最近的最高法院关税裁决中获得任何好处。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">42</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">25</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054218142800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：公司正在推进一系列重大改进，旨在实现无人监督的FSD。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">43</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">25</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092866" target="_blank" class="news-link">特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">44</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">26</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423054042683800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计在今年剩余时间内将提高所有车型和工厂的生产。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">45</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">26</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092865" target="_blank" class="news-link">特斯拉美股盘后涨幅迅速收窄至1.6%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">46</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">27</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423053905868800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：OPTIMUS将是公司最大规模的产品。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">47</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">28</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423053845657800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：公司正在全面加强供应链，以增加生产。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">48</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">28</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092862" target="_blank" class="news-link">马斯克：预计特斯拉在美国得州新的人形机器人Optimus工厂将于2027年投产。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">49</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">29</span><span class="time-info">06时44分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20260423053826243800" target="_blank" class="news-link">特斯拉CEO埃隆·马斯克：预计Cybercab和Semi的初始生产将较慢。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">50</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">30</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3092861" target="_blank" class="news-link">马斯克：特斯拉资本开支将大幅增长。 公司车辆将大幅增产。 Megapack的需求“非常强劲”。</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
