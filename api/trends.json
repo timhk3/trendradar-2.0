@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:18:58.415812+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-04-22T23:10:23.928502+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "哪吒汽车创始人已成老赖",
@@ -66,15 +66,48 @@
           "time_info": "15时27分"
         },
         {
+          "title": "问界M6上市",
+          "url": "https://www.toutiao.com/trending/7631374675020369427/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "【问界M6正式上市，售价25.98万元起】鸿蒙智行旗下新锐智慧SUV问界M6正式上市，全系搭载华为896线双光路雷达、华为乾崑智驾ADS 4.1高阶版等配置，售价25.98万元起。",
           "url": "https://wallstreetcn.com/livenews/3092629",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "智界V9预售价39.98万元起",
+          "url": "https://www.toutiao.com/trending/7630673957049434148/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "问界M6发布即提车五一开新车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E5%8F%91%E5%B8%83%E5%8D%B3%E6%8F%90%E8%BD%A6%E4%BA%94%E4%B8%80%E5%BC%80%E6%96%B0%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "特斯拉AI语音功能即将上线",
@@ -138,7 +171,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -160,9 +193,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "全新一代问界M9开启预售49.98万元起",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E4%B8%80%E4%BB%A3%E9%97%AE%E7%95%8CM9%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE49.98%E4%B8%87%E5%85%83%E8%B5%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "问界M9价格",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "阿维塔06T上市，21.99万起售",
@@ -179,7 +234,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -223,7 +278,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -250,6 +305,17 @@
           "time_info": "17时17分"
         },
         {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "Anthropic发言人：调查报告声称Claude Mythos预览版遭未经授权访问，该访问是通过我们的第三方供应商环境进行的。",
           "url": "https://flash.jin10.com/detail/20260422063442056800",
           "source": "金十数据",
@@ -272,13 +338,24 @@
           "time_info": "17时17分"
         },
         {
+          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260422224338586800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
           "url": "https://wallstreetcn.com/livenews/3092613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -300,7 +377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -311,7 +388,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         }
@@ -319,7 +396,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -347,6 +424,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "新世代宝马",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%96%E4%BB%A3%E5%AE%9D%E9%A9%AC&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "丰田印尼子公司与宁德时代就电动汽车电池生产达成合作",
           "url": "https://flash.jin10.com/detail/20260422181844248800",
           "source": "金十数据",
@@ -356,6 +444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "宝马美国首席执行官：美国整体销售仍以油车为主。",
+          "url": "https://flash.jin10.com/detail/20260422223733468800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "宝马美国首席执行官：宝马在美国电动车型销量小幅上升，因汽油价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260422223707952800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "于适解锁奇瑞中国新燃油全球代言",
