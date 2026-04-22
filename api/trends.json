@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:32:34.385659+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-04-22T10:08:29.468437+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时36分]"
+        },
+        {
+          "title": "市场消息：日本财务大臣将会晤银行界，商讨Anthropic旗下Mythos模型的威胁。",
+          "url": "https://flash.jin10.com/detail/20260422095229673800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -49,7 +60,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -66,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -105,11 +116,12 @@
           "ranks": [
             1,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时08分]"
         }
       ]
     }
