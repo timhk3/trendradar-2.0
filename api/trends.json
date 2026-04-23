@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T01:16:44.166596+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-24T03:03:45.952966+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时03分]"
+        },
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时03分]"
+        },
+        {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时03分]"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时03分]"
         },
         {
           "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
@@ -30,39 +66,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
@@ -70,8 +73,97 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
+          "url": "https://flash.jin10.com/detail/20260424020703790800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.5 PRO正在向ChatGPT的专业版、商业版和企业用户推出。",
+          "url": "https://flash.jin10.com/detail/20260424020634954800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
+          "url": "https://wallstreetcn.com/livenews/3093466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
+          "url": "https://flash.jin10.com/detail/20260424020613042800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI：推出 GPT‑5.5，这是我们迄今为止最智能、最直观易用的模型，也是迈向在电脑上完成工作的全新方式的下一步。",
+          "url": "https://flash.jin10.com/detail/20260424020534371800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "据英国金融时报：英国正在与Anthropic进行谈判，商讨银行和企业对Mythos的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260424015504043800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
+          "url": "https://flash.jin10.com/detail/20260424022651079800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         }
       ]
     }
