@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T21:15:42.881181+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-04-24T23:06:08.240539+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时57分]"
+        },
+        {
+          "title": "比亚迪全新概念车OCEAN-V首发亮相",
+          "url": "https://www.toutiao.com/trending/7631895760532815913/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         },
         {
           "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
@@ -219,7 +230,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -293,8 +304,20 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
+          "url": "https://www.zhihu.com/question/2029938790186182052",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时06分]"
+        },
         {
           "title": "沃尔沃第一季度销售净额1,108亿瑞典克朗，预估1,121.5亿瑞典克朗。 第一季度调整后营业利润121.7亿瑞典克朗，预估115.9亿瑞典克朗。 第一季度调整后运营利润率11％，预估10.3％。 第一季度每股收益4.09瑞典克朗，预估4.13瑞典克朗。 仍预测全年北美重卡市场规模265000辆。 仍预测全年中国中重型卡车市场760000辆。",
           "url": "https://wallstreetcn.com/livenews/3093724",
@@ -418,17 +441,6 @@
           "time_info": "19时04分"
         },
         {
-          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
-          "url": "https://www.zhihu.com/question/2029938790186182052",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "吉利汽车集团发布中国首款原生开发Robotaxi原型车Eva Cab",
           "url": "https://flash.jin10.com/detail/20260424124901134800",
           "source": "金十数据",
@@ -479,7 +491,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -493,13 +505,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "上汽集团原副总裁陈德美获刑12年",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E9%9B%86%E5%9B%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E8%A3%81%E9%99%88%E5%BE%B7%E7%BE%8E%E8%8E%B7%E5%88%9112%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "黄仁勋预言的灾难仅9天就成真",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A2%84%E8%A8%80%E7%9A%84%E7%81%BE%E9%9A%BE%E4%BB%859%E5%A4%A9%E5%B0%B1%E6%88%90%E7%9C%9F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
         {
           "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
           "url": "https://www.cls.cn/detail/2354272",
