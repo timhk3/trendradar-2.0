@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T15:57:29.218232+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-04-24T17:31:51.147203+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -74,7 +74,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -136,6 +136,17 @@
           "time_info": "[13时32分 ~ 15时57分]"
         },
         {
+          "title": "零跑Lafa5 Ultra上市11.88万起售",
+          "url": "https://wallstreetcn.com/livenews/3093906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
           "url": "https://flash.jin10.com/detail/20260424052524927800",
           "source": "金十数据",
@@ -164,7 +175,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -186,7 +197,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -252,7 +263,157 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "沃尔沃第一季度销售净额1,108亿瑞典克朗，预估1,121.5亿瑞典克朗。 第一季度调整后营业利润121.7亿瑞典克朗，预估115.9亿瑞典克朗。 第一季度调整后运营利润率11％，预估10.3％。 第一季度每股收益4.09瑞典克朗，预估4.13瑞典克朗。 仍预测全年北美重卡市场规模265000辆。 仍预测全年中国中重型卡车市场760000辆。",
+          "url": "https://wallstreetcn.com/livenews/3093724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
+          "url": "https://flash.jin10.com/detail/20260424022651079800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "全新奥迪SQ8上市",
+          "url": "https://www.toutiao.com/trending/7631876821516337158/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时31分]"
+        },
+        {
+          "title": "沃尔沃首席执行官：公司当前对北美市场的指引基于市场逐步复苏的预期。",
+          "url": "https://flash.jin10.com/detail/20260424171619122800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "起亚第一季度营业利润2.21万亿韩元，市场预估2.3万亿韩元。 第一季度净利润1.83万亿韩元，市场预估1.93万亿韩元。 第一季度销售额29.50万亿韩元，市场预估29.33万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3093713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "长城汽车：第一季度净利润9.45亿元，同比下降46.01%",
+          "url": "https://wallstreetcn.com/livenews/3093902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "沃尔沃首席执行官：由于时间滞后和市场动态，第二季度无法完全弥补增加的关税成本。",
+          "url": "https://flash.jin10.com/detail/20260424171326839800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "沃尔沃首席执行官：北美订单大幅增长的主要驱动因素包括：客户需要更换老旧车队、运输商现货运价改善，以及部分客户在美国环保署EPA 2027排放标准实施前的提前采购。",
+          "url": "https://flash.jin10.com/detail/20260424171244834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "丰田海南出行有限公司召回部分进口LX600汽车",
+          "url": "https://flash.jin10.com/detail/20260424125207047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "吉利汽车集团发布中国首款原生开发Robotaxi原型车Eva Cab",
+          "url": "https://flash.jin10.com/detail/20260424124901134800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "小狗撞上汽车谁该赔钱？法院判了",
+          "url": "https://www.toutiao.com/trending/7631847738958676014/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "长城汽车：一季度净利润9.45亿元，同比下降46.01%",
+          "url": "https://flash.jin10.com/detail/20260424170915728800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "你好吉利小撒报到",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD%E5%90%89%E5%88%A9%E5%B0%8F%E6%92%92%E6%8A%A5%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
@@ -383,100 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "沃尔沃第一季度销售净额1,108亿瑞典克朗，预估1,121.5亿瑞典克朗。 第一季度调整后营业利润121.7亿瑞典克朗，预估115.9亿瑞典克朗。 第一季度调整后运营利润率11％，预估10.3％。 第一季度每股收益4.09瑞典克朗，预估4.13瑞典克朗。 仍预测全年北美重卡市场规模265000辆。 仍预测全年中国中重型卡车市场760000辆。",
-          "url": "https://wallstreetcn.com/livenews/3093724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
-          "url": "https://flash.jin10.com/detail/20260424022651079800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "起亚第一季度营业利润2.21万亿韩元，市场预估2.3万亿韩元。 第一季度净利润1.83万亿韩元，市场预估1.93万亿韩元。 第一季度销售额29.50万亿韩元，市场预估29.33万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/3093713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "全新奥迪SQ8上市",
-          "url": "https://www.toutiao.com/trending/7631876821516337158/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "丰田海南出行有限公司召回部分进口LX600汽车",
-          "url": "https://flash.jin10.com/detail/20260424125207047800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "吉利汽车集团发布中国首款原生开发Robotaxi原型车Eva Cab",
-          "url": "https://flash.jin10.com/detail/20260424124901134800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "小狗撞上汽车谁该赔钱？法院判了",
-          "url": "https://www.toutiao.com/trending/7631847738958676014/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "你好吉利小撒报到",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD%E5%90%89%E5%88%A9%E5%B0%8F%E6%92%92%E6%8A%A5%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         }
       ]
     }
