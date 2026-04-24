@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T02:44:38.286194+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-25T03:50:46.495213+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A2%84%E8%A8%80%E7%9A%84%E7%81%BE%E9%9A%BE%E4%BB%859%E5%A4%A9%E5%B0%B1%E6%88%90%E7%9C%9F%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时50分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -110,19 +111,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时50分]"
         },
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
           "url": "https://www.zhihu.com/question/2029938790186182052",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时50分]"
         },
         {
           "title": "奥迪 E7X 亮相，5月8日开启预售",
