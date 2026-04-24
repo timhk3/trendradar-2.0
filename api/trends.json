@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:44:44.712320+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-04-25T06:36:56.687281+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             8,
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时36分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时36分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -123,11 +125,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时36分]"
         },
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
@@ -136,11 +139,12 @@
           "ranks": [
             17,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时36分]"
         },
         {
           "title": "奥迪 E7X 亮相，5月8日开启预售",
@@ -177,7 +181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
