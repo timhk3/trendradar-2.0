@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T10:12:31.366263+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-04-24T13:32:36.744995+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -90,6 +90,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
+          "url": "https://www.zhihu.com/question/2030579939343380868",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时32分]"
+        },
+        {
           "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
           "url": "https://flash.jin10.com/detail/20260424052524927800",
           "source": "金十数据",
@@ -99,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "老外再现整齐“蔚来蹲” 围观换电",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E5%86%8D%E7%8E%B0%E6%95%B4%E9%BD%90%E2%80%9C%E8%94%9A%E6%9D%A5%E8%B9%B2%E2%80%9D+%E5%9B%B4%E8%A7%82%E6%8D%A2%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.47%，报6843.70点。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
@@ -118,20 +140,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
         {
-          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
-          "url": "https://www.zhihu.com/question/2030579939343380868",
-          "source": "知乎",
+          "title": "马斯克画的饼特斯拉和SpaceX不够分了",
+          "url": "https://www.toutiao.com/trending/7631816740452548650/",
+          "source": "今日头条",
           "ranks": [
-            17
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时32分"
+        },
+        {
+          "title": "方程豹首款轿跑北京车展正式亮相",
+          "url": "https://www.toutiao.com/trending/7631791575441378852/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "小鹏飞行汽车和人形机器人将于今年量产",
@@ -140,7 +173,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -151,7 +184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -162,15 +195,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "外国展商蹲地贴脸拍摄小米汽车细节",
+          "url": "https://www.toutiao.com/trending/7631791575441428004/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
@@ -179,9 +223,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
+          "url": "https://www.cls.cn/detail/2354272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
@@ -201,7 +256,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -270,13 +325,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "GPT-5.5发布 有哪些升级",
+          "url": "https://www.toutiao.com/trending/7631171240271609919/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "沃尔沃第一季度销售净额1,108亿瑞典克朗，预估1,121.5亿瑞典克朗。 第一季度调整后营业利润121.7亿瑞典克朗，预估115.9亿瑞典克朗。 第一季度调整后运营利润率11％，预估10.3％。 第一季度每股收益4.09瑞典克朗，预估4.13瑞典克朗。 仍预测全年北美重卡市场规模265000辆。 仍预测全年中国中重型卡车市场760000辆。",
+          "url": "https://wallstreetcn.com/livenews/3093724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
         {
           "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
           "url": "https://flash.jin10.com/detail/20260424022651079800",
@@ -287,6 +364,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "起亚第一季度营业利润2.21万亿韩元，市场预估2.3万亿韩元。 第一季度净利润1.83万亿韩元，市场预估1.93万亿韩元。 第一季度销售额29.50万亿韩元，市场预估29.33万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3093713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "丰田海南出行有限公司召回部分进口LX600汽车",
+          "url": "https://flash.jin10.com/detail/20260424125207047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "吉利汽车集团发布中国首款原生开发Robotaxi原型车Eva Cab",
+          "url": "https://flash.jin10.com/detail/20260424124901134800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
