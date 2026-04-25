@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T16:48:02.163755+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-04-25T17:50:13.661340+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄仁勋预言的灾难仅9天就成真",
@@ -28,11 +28,25 @@
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 17时50分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时50分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -48,18 +62,6 @@
           "time_info": "[04时42分 ~ 06时36分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时48分]"
-        },
-        {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
           "url": "https://wallstreetcn.com/livenews/3094203",
           "source": "华尔街见闻-快讯",
@@ -70,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时48分]"
+        },
+        {
+          "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
+          "url": "https://wallstreetcn.com/articles/3770881",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -183,11 +196,12 @@
           "ranks": [
             14,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 17时50分]"
         },
         {
           "title": "智己LS8亮相北京车展",
@@ -196,11 +210,23 @@
           "ranks": [
             5,
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时50分]"
+        },
+        {
+          "title": "深蓝汽车L06系列新品上市",
+          "url": "https://wallstreetcn.com/livenews/3094353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时50分]"
         },
         {
           "title": "雷军体验蔚来车辆：国内造车最高水准",
@@ -213,17 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 10时02分]"
-        },
-        {
-          "title": "深蓝汽车L06系列新品上市",
-          "url": "https://wallstreetcn.com/livenews/3094353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "比亚迪第三代元PLUS全球首发亮相",
@@ -285,7 +300,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
@@ -321,11 +336,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时50分]"
         },
         {
           "title": "全新奥迪Q5L上线华为乾崑智驾",
@@ -334,9 +350,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时50分]"
         },
         {
           "title": "北京车展奥迪E7X那张床出圈了",
@@ -349,6 +365,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "大众9X上市1小时内锁单破万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%979X%E4%B8%8A%E5%B8%821%E5%B0%8F%E6%97%B6%E5%86%85%E9%94%81%E5%8D%95%E7%A0%B4%E4%B8%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "魏建军带宝马总裁体验长城超级V8",
