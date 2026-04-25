@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:34:05.800992+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-26T06:33:46.947102+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -27,11 +27,12 @@
             7,
             28,
             24,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时33分]"
         },
         {
           "title": "哪吒汽车走下神坛",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时44分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[02时44分 ~ 06时33分]"
         },
         {
           "title": "蔚来全新ES8玄金特别版正式上市，售价45.68万元",
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
