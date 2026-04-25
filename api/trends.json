@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T20:57:05.731385+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-25T22:03:27.106219+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,19 @@
           "time_info": "[00时52分 ~ 10时02分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 22时03分]"
+        },
+        {
           "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
@@ -36,19 +49,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时47分 ~ 19时37分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时09分 ~ 20时57分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -203,11 +203,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时09分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时09分 ~ 22时03分]"
         },
         {
           "title": "智己LS8亮相北京车展",
