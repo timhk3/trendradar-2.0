@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:58:47.261325+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-04-26T22:05:57.522493+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 10时16分]"
+        },
+        {
+          "title": "余承东：尊界新车价格在200万左右",
+          "url": "https://www.toutiao.com/trending/7632305048357666879/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6,
+            8,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 22时05分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -77,20 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时36分 ~ 20时58分]"
-        },
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 20时58分]"
         },
         {
           "title": "全新问界M9汽车72小时预订量破两万五",
