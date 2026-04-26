@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:35:48.547293+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-04-27T05:36:00.808281+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 05时36分]"
         },
         {
           "title": "比亚迪能越野的MPV来了",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 05时36分]"
         }
       ]
     }
