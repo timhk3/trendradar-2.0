@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T07:36:42.540013+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-04-27T10:27:16.482780+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "余承东：尊界新车价格在200万左右",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时36分 ~ 05时36分]"
+        },
+        {
+          "title": "港股新能源车企股回升，比亚迪股份(01211.HK)涨近5%，奇瑞汽车(09973.HK)涨超3%，长城汽车(02333.HK)、蔚来-SW(09866.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260427095912492800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，A股涨超4%，H股涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260427095513339800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
