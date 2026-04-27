@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T05:55:24.486452+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-28T06:47:42.663495+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 06时47分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
