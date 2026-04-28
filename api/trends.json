@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-04-29T06:54:36.005434+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-29T07:53:43.763563+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 06时54分]"
-        },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时53分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -41,6 +43,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 05时54分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -60,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -74,6 +99,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时53分]"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -98,50 +207,6 @@
           "time_info": "[04时12分 ~ 04时13分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
-          "url": "https://wallstreetcn.com/livenews/3096044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
-          "url": "https://flash.jin10.com/detail/20260429060010713800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -164,39 +229,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
-          "url": "https://flash.jin10.com/detail/20260429055922440800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
-          "url": "https://flash.jin10.com/detail/20260429055656678800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
-          "url": "https://flash.jin10.com/detail/20260429054900131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
           "url": "https://wallstreetcn.com/livenews/3095938",
           "source": "华尔街见闻-快讯",
@@ -206,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -265,11 +286,12 @@
             19,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时53分]"
         },
         {
           "title": "比亚迪一季度营业收入1502亿元",
