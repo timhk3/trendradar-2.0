@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T13:52:04.823612+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-04-29T16:10:43.827967+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,30 @@
           "time_info": "[00时06分 ~ 07时53分]"
         },
         {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 16时10分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 16时10分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -52,30 +76,6 @@
             6,
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 13时52分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时52分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -125,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时10分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -207,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -311,7 +312,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
@@ -330,14 +331,38 @@
         },
         {
           "title": "比亚迪宣布涨价",
+          "url": "https://www.toutiao.com/trending/7633726705320099883/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时10分]"
+        },
+        {
+          "title": "比亚迪宣布涨价",
           "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&t=31&band_rank=2&Refer=top",
           "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时10分]"
+        },
+        {
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 16时10分]"
         },
         {
           "title": "比亚迪一季度营业收入1502亿元",
@@ -350,28 +375,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时12分 ~ 05时54分]"
-        },
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.toutiao.com/trending/7633726705320099883/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "蔚来李斌：我们已进入残酷的决赛阶段",
@@ -419,6 +422,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "特斯拉中国官宣5月购车政策",
+          "url": "https://wallstreetcn.com/livenews/3096301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3096097",
           "source": "华尔街见闻-快讯",
@@ -436,7 +450,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -451,11 +465,12 @@
           "url": "https://www.zhihu.com/question/2031648098368345383",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时10分]"
         },
         {
           "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
@@ -521,7 +536,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -532,7 +547,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -543,7 +558,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
