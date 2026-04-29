@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T20:16:00.265940+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-29T23:10:31.704851+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 20时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时53分 ~ 23时10分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[06时54分 ~ 23时10分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -57,6 +58,20 @@
           "time_info": "[00时06分 ~ 07时53分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 23时10分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -82,19 +97,6 @@
           "time_info": "[06时54分 ~ 13时52分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 20时16分]"
-        },
-        {
           "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
           "url": "https://flash.jin10.com/detail/20260429194814328800",
           "source": "金十数据",
@@ -104,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时15分 ~ 20时16分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时15分 ~ 23时10分]"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -220,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
@@ -498,7 +501,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
@@ -619,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "蔚来李斌：不急于入局具身智能机器人，先观望再入场",
+          "url": "https://wallstreetcn.com/livenews/3096767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
