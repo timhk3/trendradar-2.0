@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T10:34:33.930746+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-29T13:52:04.823612+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 13时52分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时52分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -74,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 13时52分]"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -208,6 +209,17 @@
           "time_info": "[04时12分 ~ 04时13分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -236,7 +248,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -280,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -299,7 +311,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
@@ -317,6 +329,17 @@
           "time_info": "[00时06分 ~ 10时34分]"
         },
         {
+          "title": "比亚迪宣布涨价",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
           "title": "比亚迪一季度营业收入1502亿元",
           "url": "https://www.toutiao.com/trending/7633275826435768363/",
           "source": "今日头条",
@@ -327,6 +350,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时12分 ~ 05时54分]"
+        },
+        {
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.toutiao.com/trending/7633726705320099883/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "蔚来李斌：我们已进入残酷的决赛阶段",
@@ -380,16 +425,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "乐道L80预售，蔚来港股涨超8%",
+          "url": "https://wallstreetcn.com/livenews/3096206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
+          "url": "https://www.zhihu.com/question/2031648098368345383",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时52分]"
+        },
         {
           "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
           "url": "https://www.zhihu.com/question/2032096021916988183",
@@ -404,17 +471,6 @@
           "time_info": "[02时15分 ~ 06时54分]"
         },
         {
-          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
-          "url": "https://www.zhihu.com/question/2031648098368345383",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
           "title": "官方数据显示，圭亚那3月份石油日产量平均为91万桶。",
           "url": "https://flash.jin10.com/detail/20260429030318646800",
           "source": "金十数据",
@@ -424,6 +480,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "吉利汽车(00175.HK)绩后涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260429132137479800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰一季度盈利下滑",
+          "url": "https://flash.jin10.com/detail/20260429131527748800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "吉利汽车(00175.HK)午后涨超4%，公司第一季度母公司拥有人应占利润为人民币41.7亿元，同比下降27%。",
+          "url": "https://flash.jin10.com/detail/20260429130359035800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "吉利汽车港股午后走高，现涨超4%，公司第一季度营收同比增长15%。",
+          "url": "https://wallstreetcn.com/livenews/3096231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "沃尔沃汽车第一季度收入726.2亿瑞典克朗，预期为720.3亿瑞典克。 第一季度营业收入16.2亿瑞典克朗，预期为9.904亿瑞典克朗。 第一季度每股收益0.54瑞典克朗，预期为0.30瑞典克朗。",
+          "url": "https://wallstreetcn.com/livenews/3096229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "梅赛德斯-奔驰第一季度销售额316.0亿欧元，同比下降4.9%，预估318亿欧元。 第一季度调整后EBIT 17.7亿欧元，预估16亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3096228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     }
