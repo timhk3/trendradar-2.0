@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:52:43.475730+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-04-30T20:13:40.245163+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -228,6 +228,18 @@
           "time_info": "16时14分"
         },
         {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 20时13分]"
+        },
+        {
           "title": "美媒：“福特”号航母将于近日撤离中东返美",
           "url": "https://www.cls.cn/detail/2360315",
           "source": "财联社热门",
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        },
-        {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "保时捷CEO：3月份目睹了中东（车辆）销售量的下滑。 中东销量在全球批发的占比为2%。",
@@ -278,7 +279,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -289,7 +290,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -297,7 +298,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
@@ -398,7 +399,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -412,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "焕新极氪7X完成全球首次105km/h后碰",
+          "url": "https://www.baidu.com/s?wd=%E7%84%95%E6%96%B0%E6%9E%81%E6%B0%AA7X%E5%AE%8C%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1105km%2Fh%E5%90%8E%E7%A2%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         }
       ]
     }
