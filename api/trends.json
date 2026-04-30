@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T16:14:24.802431+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-04-30T18:52:43.475730+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -139,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -157,117 +157,8 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
-          "url": "https://www.zhihu.com/question/2032817462966577108",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时56分]"
-        },
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.toutiao.com/trending/7633726705320099883/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 07时52分]"
-        },
-        {
-          "title": "特斯拉Semi首辆量产车下线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E9%A6%96%E8%BE%86%E9%87%8F%E4%BA%A7%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "比亚迪和宁德时代捅破超充的窗户纸",
-          "url": "https://www.toutiao.com/trending/7634198638670908969/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "比亚迪净利润为何腰斩",
-          "url": "https://www.toutiao.com/trending/7634181884787822143/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时19分]"
-        },
-        {
-          "title": "网友拍到比亚迪滚装船通过苏伊士运河",
-          "url": "https://www.toutiao.com/trending/7634380482642722870/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "问界M6交付速度刺激购买决策",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6%E5%88%BA%E6%BF%80%E8%B4%AD%E4%B9%B0%E5%86%B3%E7%AD%96%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "方程豹钛7 EV闪充版上市",
-          "url": "https://www.toutiao.com/trending/7633273914940178475/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美媒：“福特”号航母将撤离中东",
@@ -332,7 +223,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -346,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "保时捷CEO：3月份目睹了中东（车辆）销售量的下滑。 中东销量在全球批发的占比为2%。",
@@ -365,9 +267,151 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "吉利汽车：与LEVC汽车订立整车成套件及汽车部件购买协议",
+          "url": "https://wallstreetcn.com/livenews/3097371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "吉利汽车：与曹操出行订立服务协议",
+          "url": "https://wallstreetcn.com/livenews/3097369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
+          "url": "https://www.zhihu.com/question/2032817462966577108",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 13时56分]"
+        },
+        {
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.toutiao.com/trending/7633726705320099883/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20,
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时52分]"
+        },
+        {
+          "title": "特斯拉Semi首辆量产车下线",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E9%A6%96%E8%BE%86%E9%87%8F%E4%BA%A7%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "比亚迪和宁德时代捅破超充的窗户纸",
+          "url": "https://www.toutiao.com/trending/7634198638670908969/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "比亚迪净利润为何腰斩",
+          "url": "https://www.toutiao.com/trending/7634181884787822143/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时19分]"
+        },
+        {
+          "title": "网友拍到比亚迪滚装船通过苏伊士运河",
+          "url": "https://www.toutiao.com/trending/7634380482642722870/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "问界M6交付速度刺激购买决策",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6%E5%88%BA%E6%BF%80%E8%B4%AD%E4%B9%B0%E5%86%B3%E7%AD%96%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3096924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "比亚迪“涨价”我们该不该下手",
+          "url": "https://www.toutiao.com/trending/7634074634689859135/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "方程豹钛7 EV闪充版上市",
+          "url": "https://www.toutiao.com/trending/7633273914940178475/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     }
