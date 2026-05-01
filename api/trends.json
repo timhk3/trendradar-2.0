@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T05:51:12.463130+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-02T06:45:55.295082+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时45分]"
+        },
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时45分]"
         },
         {
           "title": "比亚迪4月卖出32.11万辆",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
-        },
-        {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
         }
       ]
     },
@@ -65,11 +65,12 @@
           "source": "微博",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[03时08分 ~ 06时45分]"
         },
         {
           "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
