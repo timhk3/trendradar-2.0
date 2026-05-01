@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-01T22:53:04.336341+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-05-01T23:55:08.410124+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "比亚迪4月卖出32.11万辆",
           "url": "https://www.toutiao.com/trending/7634382854151618566/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[21时14分 ~ 23时55分]"
         },
         {
           "title": "小米汽车4月交付量超3万台",
@@ -157,6 +158,17 @@
           "time_info": "19时57分"
         },
         {
+          "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
+          "url": "https://www.cls.cn/detail/2361886",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "小米汽车4月交付超3万辆 环比增长50%",
           "url": "https://flash.jin10.com/detail/20260501090745367800",
           "source": "金十数据",
@@ -221,6 +233,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
+          "url": "https://www.zhihu.com/question/2032096036068357494",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 14时14分]"
+        },
+        {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 10时41分]"
+        },
+        {
+          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
+          "url": "https://flash.jin10.com/detail/20260501101625781800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://wallstreetcn.com/livenews/3097863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时57分]"
+        },
+        {
+          "title": "美军最大航母“福特”号已离开中东地区",
+          "url": "https://wallstreetcn.com/livenews/3097940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时55分]"
+        },
+        {
+          "title": "长城汽车董事长魏建军是如何发家的？",
+          "url": "https://www.zhihu.com/question/25456062",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时57分]"
+        },
+        {
+          "title": "美军福特号航母已离开中东",
+          "url": "https://flash.jin10.com/detail/20260501223237454800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://flash.jin10.com/detail/20260501173747874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "奇瑞集团4月销量25.1万辆，同比增长25.2%",
+          "url": "https://wallstreetcn.com/livenews/3097894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -338,107 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
-          "url": "https://www.zhihu.com/question/2032096036068357494",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 14时14分]"
-        },
-        {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 10时41分]"
-        },
-        {
-          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
-          "url": "https://flash.jin10.com/detail/20260501101625781800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "吉利汽车4月销量23.5万辆",
-          "url": "https://wallstreetcn.com/livenews/3097863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时57分]"
-        },
-        {
-          "title": "美军最大航母“福特”号已离开中东地区",
-          "url": "https://wallstreetcn.com/livenews/3097940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "长城汽车董事长魏建军是如何发家的？",
-          "url": "https://www.zhihu.com/question/25456062",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时57分]"
-        },
-        {
-          "title": "吉利汽车4月销量23.5万辆",
-          "url": "https://flash.jin10.com/detail/20260501173747874800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "奇瑞集团4月销量25.1万辆，同比增长25.2%",
-          "url": "https://wallstreetcn.com/livenews/3097894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         }
       ]
     }
