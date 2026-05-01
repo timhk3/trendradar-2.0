@@ -1,22 +1,164 @@
 {
-  "generated_at": "2026-05-01T07:50:44.472353+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-01T10:41:27.675293+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 7,
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 10,
       "titles": [
+        {
+          "title": "理想汽车2026年4月交付34,085辆",
+          "url": "https://wallstreetcn.com/livenews/3097782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
+          "url": "https://flash.jin10.com/detail/20260501052231391800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时51分]"
+        },
+        {
+          "title": "智己汽车：2026年4月销量10016台，1-4月累计销量同比增长130%。",
+          "url": "https://flash.jin10.com/detail/20260501101026781800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
+          "url": "https://wallstreetcn.com/livenews/3097702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时55分]"
+        },
+        {
+          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时41分]"
+        },
+        {
+          "title": "理想汽车(LI.O)：2026年4月交付34,085辆汽车。截至2026年4月30日，理想汽车累计交付量达到1,669,442辆。",
+          "url": "https://flash.jin10.com/detail/20260501100058768800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "2026年4月，小米汽车交付量超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3097776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "Rivian(RIVN.O)第一季度营收为13.8亿美元，预期为13.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501040312406800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "零跑汽车4月全系交付71387台，同比增长73.9%。",
+          "url": "https://flash.jin10.com/detail/20260501093543016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "小米汽车4月交付超3万辆 环比增长50%",
+          "url": "https://flash.jin10.com/detail/20260501090745367800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
+          "url": "https://www.zhihu.com/question/2033162416024985618",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
         {
           "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3097753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时41分]"
+        },
+        {
+          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
+          "url": "https://flash.jin10.com/detail/20260501100005491800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "10时41分"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -87,60 +229,8 @@
       ]
     },
     {
-      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
-          "url": "https://flash.jin10.com/detail/20260501052231391800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时51分]"
-        },
-        {
-          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
-          "url": "https://wallstreetcn.com/livenews/3097702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时55分]"
-        },
-        {
-          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
-          "url": "https://wallstreetcn.com/livenews/3097752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "Rivian(RIVN.O)第一季度营收为13.8亿美元，预期为13.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501040312406800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
@@ -148,11 +238,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 10时41分]"
         },
         {
           "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
@@ -160,11 +251,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 10时41分]"
+        },
+        {
+          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
+          "url": "https://flash.jin10.com/detail/20260501101625781800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     }
