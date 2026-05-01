@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T16:58:55.543615+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-05-01T18:24:30.165564+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "小米汽车4月交付量超3万台",
@@ -146,13 +146,24 @@
           "time_info": "10时41分"
         },
         {
+          "title": "特斯拉(TSLA.O)4月在荷兰的注册量增长23%，达到469辆。",
+          "url": "https://flash.jin10.com/detail/20260501165132405800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "在Q1财报发布后，Rivian(RIVN.O)美股盘前跌4.3%。",
           "url": "https://flash.jin10.com/detail/20260501160813040800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -163,9 +174,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "极氪月交付量创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
@@ -277,7 +299,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
@@ -316,6 +338,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://wallstreetcn.com/livenews/3097863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://flash.jin10.com/detail/20260501173747874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "长城汽车董事长魏建军是如何发家的？",
+          "url": "https://www.zhihu.com/question/25456062",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     }
