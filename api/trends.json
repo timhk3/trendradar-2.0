@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:37:40.721273+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-03T07:40:00.354981+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -30,8 +30,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时38分 ~ 07时40分]"
         },
         {
           "title": "五角大楼技术主管：Anthropic仍处于黑名单，但Mythos是另一个问题",
@@ -56,8 +56,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时40分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -94,11 +94,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -110,8 +111,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -122,11 +123,12 @@
             24,
             20,
             27,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 07时40分]"
         }
       ]
     }
