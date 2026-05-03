@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T03:53:51.853240+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-05-04T04:39:54.360815+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时39分]"
         },
         {
           "title": "记者从广汽集团了解到，截至2026年4月，广汽能源自营充电桩突破2.5万根，覆盖全国31省213市。（证券时报）",
@@ -42,11 +42,12 @@
           "ranks": [
             17,
             21,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时39分]"
         }
       ]
     }
