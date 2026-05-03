@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T01:44:25.679071+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-04T02:54:54.602227+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时54分]"
         },
         {
           "title": "记者从广汽集团了解到，截至2026年4月，广汽能源自营充电桩突破2.5万根，覆盖全国31省213市。（证券时报）",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时54分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.toutiao.com/trending/7634922069398028334/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时54分]"
         }
       ]
     }
