@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T22:14:56.685858+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-05-03T23:44:07.123433+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
@@ -135,6 +135,17 @@
           "time_info": "[02时55分 ~ 07时40分]"
         },
         {
+          "title": "比亚迪大唐EV实车到店",
+          "url": "https://www.toutiao.com/trending/7634922069398028334/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
+        },
+        {
           "title": "全新问界M9累计预订量突破3.5万台",
           "url": "https://www.toutiao.com/trending/7634732867230207551/",
           "source": "今日头条",
@@ -159,11 +170,12 @@
             3,
             11,
             14,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 23时44分]"
         },
         {
           "title": "“福特”号航母离开中东，主动降温还是被迫返航？",
@@ -173,8 +185,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时14分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时44分]"
         },
         {
           "title": "长城汽车(02333.HK)：4月销量106312辆，同比增长6.25%。",
