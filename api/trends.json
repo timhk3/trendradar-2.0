@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:15:28.759407+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-05-04T19:46:02.163666+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "比亚迪大唐EV实车到店",
@@ -46,6 +46,28 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "ANFAC：西班牙新特斯拉注册量在一月至四月同比增长29.1%，而电动车整体增长54%。",
+          "url": "https://flash.jin10.com/detail/20260504190555241800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "ANFAC：西班牙四月新车销售同比增长5.6% 。西班牙新特斯拉注册量在四月份同比下降47.3%，降至301辆。",
+          "url": "https://flash.jin10.com/detail/20260504190513047800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
           "title": "小鹏集团(09868.HK)涨3.5%，此前公司公布了四月份的汽车交付数据。",
           "url": "https://flash.jin10.com/detail/20260504093733186800",
           "source": "金十数据",
@@ -74,7 +96,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -93,7 +115,7 @@
     },
     {
       "keyword_group": "# ========================================== # 🚙 第二组：传统车企转型与动态 (CN-Legacy OEMs) # ========================================== 大众 丰田 本田 日产 通用汽车 福特 梅赛德斯 奔驰 宝马 奥迪 保时捷 路虎 沃尔沃 现代汽车 KIA 起亚 Stellantis 上汽 广汽 东风 长安 奇瑞 吉利 长城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“福特”号航母离开中东，主动降温还是被迫返航？",
@@ -116,6 +138,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时53分]"
+        },
+        {
+          "title": "保时捷CFO重申：在华不降价不国产",
+          "url": "https://www.toutiao.com/trending/7635484765231398953/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "保时捷在华坚持不降价不国产",
