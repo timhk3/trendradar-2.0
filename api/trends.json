@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T03:14:26.814348+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-06T04:59:38.375659+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "Anthropic拟向谷歌投入2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260506043310242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
@@ -63,6 +85,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260506042238368800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
           "url": "https://flash.jin10.com/detail/20260506014918064800",
           "source": "金十数据",
@@ -95,11 +128,12 @@
           "url": "https://www.toutiao.com/trending/7636409276587576838/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时59分]"
         },
         {
           "title": "欧洲汽车制造概念股普遍收涨，戴姆勒卡车涨2.94%，法雷奥涨2.54%，保时捷P911涨2.26%，法拉利米兰股价则收跌3.95%。",
@@ -122,6 +156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========================================== # 🚗 第一组：核心车企与新势力 (CN-Auto Core) (出现即抓取) # ========================================== 比亚迪 特斯拉 Tesla 蔚来 小鹏 理想汽车 极氪 零跑 阿维塔 深蓝汽车 智己 极越 哪吒汽车 方程豹 仰望 腾势 小米汽车 华为鸿蒙智行 问界 智界 享界 尊界 Lucid Rivian Waymo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，中国科技指数ETF（CQQQ）收平，中概互联网指数ETF（KWEB）收跌0.21%。 贝莱德集团旗下MSCI新兴市场ex中国ETF涨2.50%，德银嘉实沪深300指数ETF（ASHR）收涨0.68%，XtrackersHarvest中证50（ASHS）收涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3098925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     }
