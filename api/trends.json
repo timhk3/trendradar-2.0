@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T04:59:38.375659+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-05-06T06:09:03.392523+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "03时14分"
         },
         {
+          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时09分]"
+        },
+        {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
           "url": "https://flash.jin10.com/detail/20260506022641166800",
           "source": "金十数据",
@@ -30,24 +42,13 @@
           "time_info": "03时14分"
         },
         {
-          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
           "title": "Anthropic拟向谷歌投入2000亿美元",
           "url": "https://flash.jin10.com/detail/20260506043310242800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -132,8 +133,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时09分]"
         },
         {
           "title": "欧洲汽车制造概念股普遍收涨，戴姆勒卡车涨2.94%，法雷奥涨2.54%，保时捷P911涨2.26%，法拉利米兰股价则收跌3.95%。",
@@ -168,11 +169,12 @@
           "url": "https://wallstreetcn.com/livenews/3098925",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时09分]"
         }
       ]
     }
