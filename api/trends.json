@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T18:44:34.600380+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-05-05T19:59:29.353242+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 19时59分]"
         },
         {
           "title": "东风日产NX8丹麦见证国羽巅峰",
@@ -73,7 +74,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -219,7 +220,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -230,7 +231,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
