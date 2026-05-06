@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T06:46:46.378202+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-05-07T07:46:38.365163+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========================================== # 🤖 第九组：AI 领军企业与模型 (CN-AI Leaders) # 策略：完全解绑汽车，关注 AI 本身的前沿动态 # ========================================== OpenAI Sam Altman ChatGPT GPT-4 GPT-5 Sora DeepMind Gemini Google DeepMind Anthropic Claude 3 Claude 3.5 Mistral AI Stability AI Midjourney Runway Gen Pika Labs Suno Hugging Face Yann LeCun Transformer架构 NVIDIA 黄仁勋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -26,11 +26,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时46分]"
+        },
+        {
+          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20260507064154537800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
@@ -68,11 +80,12 @@
             10,
             26,
             27,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 07时46分]"
         },
         {
           "title": "比亚迪员工告别免费充电",
@@ -114,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时46分]"
         },
         {
           "title": "欧洲汽车制造概念股普遍收涨，德国大陆集团涨8.95%，法雷奥涨6.60%，佛瑞亚涨6.59%，阿斯顿马丁涨6.49%，宝马涨5.41%，斯泰兰蒂斯集团Stellantis涨4.65%，德国大众汽车涨3.92%表现靠后。",
